@@ -1,0 +1,967 @@
+Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
+Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches and coal.
+Air Essence: Air Essence can be gathered by waiting patiently.
+Earth Essence: Earth Essence can be gathered while mining.
+Fire Essence: Fire Essence can be gathered while smithing or cooking.
+Water Essence: Water Essence can be gathered by fishing.
+Blood Essence: Blood Essence can be gathered by dealing damage.
+Death Essence: Death Essence can be gathered by killing opponents.
+Chaos Essence: Chaos Essence can be gathered by attempting to hit an enemy.
+Nature Essence: Nature Essence can be gathered by foraging and farming.
+Mind Essence: Mind Essence can be gathered by enchanting and augmenting items or using magic in combat.
+Cosmic Essence: Cosmic Essence can be gathered by enchanting or runecrafting.
+Platinum: Platinum is used to purchase items from the Platinum Shop and to purchase server-wide Global Buffs.
+Book: A dusty tome. Perhaps I should read it?
+Task: Adventure awaits! HUZZAH!
+Raw Shrimp: S h r i m p
+Raw Anchovy: In what scape would these look like blue shrimp?
+Raw Trout: The fisherman's participation award.
+Raw Salmon: Not going up any rivers anymore.
+Raw Lobster: Raw Lobster!
+Raw Tuna: Tuna Tuna Tuna
+Raw Shark: A big toothy fish. It's a fish, right?
+Raw Megalodon: A monstrously large shark with incredibly tough meat.
+Raw Ancient Lobster: A mean looking and monstrously heavy lobster. It's definitely a lot older than you are.
+Raw Tentacle Meat: A massive chunk of ancient rubbery meat torn from some sort of tentacled monster.
+Raw Huge Tuna: A huge tuna!
+Seaweed: Smells real bad.
+Raw Magnetic Minnow: It didn't even bite the hook, it just got stuck to it.
+Raw Tigerfish: Mean looking and strong to boot!
+Raw Slippery Eel: Slippery and oily!
+Raw Great White Shark: A deadly creature to be sure.
+Raw Hammerhead Shark: Probably can't actually be used as a hammer.
+Raw Crab: In some places it's considered less desirable than lobster, but not here.
+Burnt Fish: The result of an overzealous cook. Perhaps studying this will make you a better cook?
+Burnt Food: The result of an overzealous cook. Perhaps studying this will make you a better cook?
+Copper Ore: Can be smelted into bronze bars with the help of some tin.
+Tin Ore: Can be smelted into bronze bars with the help of some copper.
+Iron Ore: Can be smelted into the most basic of basic metal bars, iron.
+Gold Ore: A large chunk of gold ready to be smelted into a bar.
+Mithril Ore: A dark blue tinted and hardy metal that can be smelted into bars.
+Adamantite Ore: A green hued metal most consider nearly worthless that can be smelted into bars.
+Runite Ore: One of the hardest naturally occuring metals that may be smelted into tough bars.
+Clay: It may not be what plants crave, but you could probably mix this with sand to make fertilizer.
+Stone: This doesn't seem useful.
+Sand: Some particularly nutritious sand can be used to create fertilizer, though eating the sand itself doesn't seem like a good idea...
+Silver: A great material for channeling magic essence.
+Coal: Burn it up to make heat! It's okay, the industrial revolution hasn't happened yet so you're safe from environmental activists.
+Rune Slate: A blank magical canvas.
+Stygian Ore: An unnaturally glittering ore sourced from the deepest of delves. May be smelted into bars with the aid of ichor.
+Void Stone: A stone pulsing with chaotic energy.
+Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants.
+Carrot Seed: undefined
+Peppercorn Seed: undefined
+Sugarcane Seed: undefined
+Wheat Seed: undefined
+Potato Seed: undefined
+Rice Seed: undefined
+Tomato Seed: undefined
+Wildberry Bush Seed: undefined
+Chili Pepper Seed: undefined
+Pumpkin Seed: undefined
+Mushroom Spore: undefined
+Tree Seed: undefined
+Oak Tree Seed: undefined
+Willow Tree Seed: undefined
+Maple Tree Seed: undefined
+Yew Tree Seed: undefined
+Banana Tree Seed: undefined
+Apple Tree Seed: undefined
+Elder Tree Seed: Every type of forest can be traced back to one of these trees.
+Sageberry Bush Seed: It may be wise to plant this.
+Mysterious Seed: Life is not necessarily the opposite of corruption. I wonder what this could grow into?
+Bronze Bar: Used as a crafting material.
+Iron Bar: May be used to craft iron equipment or to augment obsidian gear.
+Gold Bar: May be used to craft or augment jewelry. Sadly you aren't authorized to create your own currency.
+Mithril Bar: May be used to craft mithril equipment or to augment obsidian gear.
+Adamantite Bar: A rather limited, yet hard, metal. May only be used to create Adamantite gear.
+Runite Bar: One of the toughest natural metals. May be used to craft Runite equipment.
+Stygian Bar: An unnaturally tough metal that is almost crystalline in nature. May be used to craft Stygian equipment.
+Chaotic Crystal: A condensed crystal formed through processing a large amount of void stones. May be used to craft or enhance unique equipment.
+Obsidian Glass: A splinter of mildly reflective obsidian glass; can be used to augment obsidian or obsidian-adjacent gear.
+Golem Marrow: A piece of golem marrow, the lifeblood of an artificial construct.
+Chaos Stone: A shard of chaotic essence that is not only contained, but refined. The process to do this is forever lost to the ages.
+Living Shard: A shard of dense material that pulsates with life. Could it be the heart of some undying creature?
+Runed Stone: An impossibly heavy stone tablet bearing an unknown rune that still glows with power.
+Magma Core: A chunk of stone with an unquenchable fire burning within. What could you do with this?
+Heavy Chaos Shard: An unrefined splinter of chaotic energy. Though dulled compared to the chaos it was drawn from, it may still have a potent effect.
+Worn Ancient Splinter: A splinter of some long lost metal; it has more in common with stone than it does metal and would require a master craftsman to work it.
+Royal Ice Shard: A somewhat workable shard of frozen stone sourced from the frozen wastes within the Valley of Giants. Appears to be a material commonly used by Ice Giants to form their accessories; perhaps you could make something useful with it?
+Branch: Used as a crafting material or turned into heat.
+Log: Used as a crafting material or turned into heat.
+Oak Log: Used as a crafting material or turned into heat.
+Willow Log: Used as a crafting material or turned into heat.
+Maple Log: Used as a crafting material or turned into heat.
+Yew Log: Used as a crafting material or turned into heat.
+Elder Log: Used as a crafting material or turned into heat.
+Sapphire: An inexpensive blue gem that may be used for crafting.
+Emerald: An inexpensive green gem that may be used for crafting.
+Ruby: An uncommon red gem that may be used for crafting.
+Diamond: An uncommon gem that may be used for crafting.
+Black Opal: A rare black gem that may be used for crafting. It is said that you can see the whole universe inside of one of these.
+Air Talisman: A magical talisman that can be consumed to strengthen your link to air magic.
+Earth Talisman: A magical talisman that can be consumed to strengthen your link to earth magic.
+Fire Talisman: A magical talisman that can be consumed to strengthen your link to fire magic.
+Water Talisman: A magical talisman that can be consumed to strengthen your link to water magic.
+Blood Talisman: A magical talisman that can be consumed to strengthen your link to blood magic.
+Death Talisman: A magical talisman that can be consumed to strengthen your link to death magic.
+Chaos Talisman: A magical talisman that can be consumed to strengthen your link to chaos magic.
+Nature Talisman: A magical talisman that can be consumed to strengthen your link to nature magic.
+Mind Talisman: A magical talisman that can be consumed to strengthen your link to mind magic.
+Cosmic Talisman: A magical talisman that can be consumed to strengthen your link to cosmic magic.
+Air Rune: A slate imbued with magic essence. Often needed to perform magic.
+Earth Rune: A slate imbued with magic essence. Often needed to perform magic.
+Fire Rune: A slate imbued with magic essence. Often needed to perform magic.
+Water Rune: A slate imbued with magic essence. Often needed to perform magic.
+Blood Rune: A slate imbued with magic essence. Often needed to perform magic.
+Death Rune: A slate imbued with magic essence. Often needed to perform magic.
+Chaos Rune: A slate imbued with magic essence. Often needed to perform magic.
+Nature Rune: A slate imbued with magic essence. Often needed to perform magic.
+Mind Rune: A slate imbued with magic essence. Often needed to perform magic.
+Cosmic Rune: A slate imbued with magic essence. Often needed to perform magic.
+Unstable Talisman: An unstable talisman that is brimming with potential. Requires essence in order to condense it into a normal talisman, though some essence may be lost in the conversion process.
+Bronze Pickaxe: Adds 10 to your effective mining level when determining speed.
+Iron Pickaxe: Adds 20 to your mining level when determining speed.
+Mithril Pickaxe: Adds 30 to your mining level when determining speed.
+Adamantite Pickaxe: Adds 40 to your mining level when determining speed.
+Runite Pickaxe: Adds 50 to your mining level when determining speed.
+Stygian Pickaxe: Adds 60 to your mining level when determining speed.
+Dwarven Rocksmasher: A legendary mining tool using lost dwarven technology.
+Bronze Hatchet: Adds 10 to your effective foraging level when determining speed.
+Iron Hatchet: Adds 20 to your foraging level when determining speed.
+Mithril Hatchet: Adds 30 to your foraging level when determining speed.
+Adamantite Hatchet: Adds 40 to your foraging level when determining speed.
+Runite Hatchet: Adds 50 to your foraging level when determining speed.
+Stygian Hatchet: Adds 60 to your foraging level when determining speed.
+The Grovekeeper: A legendary foraging tool. It appears to actually be alive.
+Sapphire Ring: A ring capable of holding weak enchantments.
+Sapphire Necklace: A necklace capable of holding weak enchantments.
+Emerald Ring: A ring capable of holding moderate enchantments.
+Emerald Necklace: A necklace capable of holding moderate enchantments.
+Ruby Ring: A ring capable of holding decent enchantments.
+Ruby Necklace: A necklace capable of holding decent enchantments.
+Diamond Ring: A ring capable of holding strong enchantments.
+Diamond Necklace: A necklace capable of holding strong enchantments.
+Prismatic Necklace: A necklace capable of holding extraordinary enchantments.
+Prismatic Ring: A ring capable of holding extraordinary enchantments.
+Black Opal Ring: A ring capable of holding powerful enchantments.
+Black Opal Necklace: A necklace capable of holding powerful enchantments.
+Gold Ring: undefined
+Gold Necklace: undefined
+Corrupted Ring: None are incorruptible. Succumb to the hunger.
+Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman.
+Ancient Fire Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of flame.
+Ancient Water Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of ice.
+Ancient Blood Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you bathe in the blood of your enemies. Very edgy.
+Ancient Air Amulet: An ancient energy keeps you from attempting to absorb the talisman. It is so light it could almost float in the air on its own.
+Bronze Hoe: Adds 10 to your effective farming level when determining plant yield.
+Iron Hoe: Adds 20 to your farming level when determining plant yield.
+Mithril Hoe: Adds 30 to your farming level when determining plant yield.
+Adamantite Hoe: Adds 40 to your farming level when determining plant yield.
+Runite Hoe: Adds 50 to your farming level when determining plant yield.
+Stygian Hoe: Adds 60 to your farming level when determining plant yield.
+Bronze Tongs: Adds 10 to your effective smithing level.
+Iron Tongs: Adds 20 to your smithing level.
+Mithril Tongs: Adds 30 to your smithing level.
+Adamantite Tongs: Adds 40 to your smithing level.
+Runite Tongs: Adds 50 to your smithing level.
+Stygian Tongs: Adds 60 to your smithing level.
+Lesser Magic Tome: A tome of magic that grants you minor benefits for augmentation.
+Major Magic Tome: A tome of magic that grants you some benefits for augmentation.
+Greater Magic Tome: A tome of magic that grants you benefits for augmentation.
+Elder Magic Tome: A tome of magic that grants you strong benefits for augmentation.
+Ancient Magic Tome: An ancient tome of magic that grants you the strongest benefits for augmentation.
+Apprentice Runic Chisel: A basic chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
+Journeyman Runic Chisel: A chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
+Master Runic Chisel: An advanced chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
+Ancient Runic Chisel: An ancient chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
+Fishing Net: A rough net assembled from branches. Used as part of tackleboxes and other fishing gear.
+Fly Fishing Rod: String on a stick. Used as part of tackleboxes and other fishing gear.
+Cage: An iron cage. Used as part of tackleboxes and other fishing gear.
+Harpoon: A barbed spear. Used as part of tackleboxes and other fishing gear.
+Feather: undefined
+Fish Oil: Ew, slimy. Should make logs burn longer or make cooking faster, though!
+Pyre Log: These can be burned for some heat.
+Pyre Oak Log: These can be burned for moderate heat.
+Pyre Willow Log: These can be burned for high heat.
+Pyre Maple Log: These can be burned for a lot of heat.
+Pyre Yew Log: These can be burned for massive heat.
+Pyre Elder Log: These can be burned for massive heat.
+Ichor: A strange substance found in the presence of demons.
+Phoenix's Feather: A white-hot feather taken from a fallen phoenix.
+Geode: undefined
+Bird's Nest: undefined
+Sunken Treasure: undefined
+Satchel: undefined
+Ancient Treasure: undefined
+Greater Geode: undefined
+Greater Bird's Nest: undefined
+Bronze Scimitar: undefined
+Bronze Battleaxe: undefined
+Bronze Daggers: undefined
+Bronze Greatsword: undefined
+Iron Scimitar: undefined
+Iron Battleaxe: undefined
+Iron Daggers: undefined
+Iron Greatsword: undefined
+Obsidian Scimitar: undefined
+Obsidian Battleaxe: undefined
+Obsidian Daggers: undefined
+Obsidian Greatsword: undefined
+Mithril Scimitar: undefined
+Mithril Battleaxe: undefined
+Mithril Daggers: undefined
+Mithril Greatsword: undefined
+Adamantite Scimitar: undefined
+Adamantite Battleaxe: undefined
+Adamantite Daggers: undefined
+Adamantite Greatsword: undefined
+Runite Scimitar: undefined
+Runite Battleaxe: undefined
+Runite Daggers: undefined
+Runite Greatsword: undefined
+Stygian Scimitar: undefined
+Stygian Battleaxe: undefined
+Stygian Daggers: undefined
+Stygian Greatsword: undefined
+Bronze Helm: undefined
+Iron Helm: undefined
+Obsidian Helm: undefined
+Mithril Helm: undefined
+Adamantite Helm: undefined
+Runite Helm: undefined
+Stygian Helm: undefined
+Bronze Full Helm: undefined
+Iron Full Helm: undefined
+Obsidian Full Helm: undefined
+Mithril Full Helm: undefined
+Adamantite Full Helm: undefined
+Runite Full Helm: undefined
+Stygian Full Helm: undefined
+Bronze Shield: undefined
+Iron Shield: undefined
+Obsidian Shield: undefined
+Mithril Shield: undefined
+Adamantite Shield: undefined
+Runite Shield: undefined
+Stygian Shield: undefined
+Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
+Bronze Breastplate: undefined
+Bronze Chainmail: undefined
+Iron Breastplate: undefined
+Iron Chainmail: undefined
+Obsidian Breastplate: undefined
+Obsidian Chainmail: undefined
+Mithril Breastplate: undefined
+Mithril Chainmail: undefined
+Adamantite Breastplate: undefined
+Adamantite Chainmail: undefined
+Runite Breastplate: undefined
+Runite Chainmail: undefined
+Stygian Breastplate: undefined
+Stygian Chainmail: undefined
+Bronze Plate Leggings: undefined
+Iron Plate Leggings: undefined
+Obsidian Plate Leggings: undefined
+Mithril Plate Leggings: undefined
+Adamantite Plate Leggings: undefined
+Runite Plate Leggings: undefined
+Stygian Plate Leggings: undefined
+Bronze Boots: These boots cannot be traded.
+Iron Boots: These boots cannot be traded.
+Obsidian Boots: undefined
+Mithril Boots: These boots cannot be traded.
+Adamantite Boots: These boots cannot be traded.
+Runite Boots: These boots cannot be traded.
+Stygian Boots: These boots cannot be traded.
+Bronze Gloves: Gloves cannot be traded.
+Iron Gloves: Gloves cannot be traded.
+Obsidian Gloves: Gloves cannot be traded.
+Mithril Gloves: Gloves cannot be traded.
+Adamantite Gloves: Gloves cannot be traded.
+Runite Gloves: Gloves cannot be traded.
+Stygian Gloves: Gloves cannot be traded.
+Hide Body: undefined
+Fur Body: undefined
+Thick Hide Body: undefined
+Leather Body: undefined
+Reinforced Leather Body: undefined
+Chitin Body: undefined
+Scale Body: undefined
+Hide Coif: undefined
+Fur Coif: undefined
+Thick Hide Coif: undefined
+Leather Coif: undefined
+Reinforced Leather Coif: undefined
+Chitin Coif: undefined
+Scale Coif: undefined
+Hide Trousers: undefined
+Fur Trousers: undefined
+Thick Hide Trousers: undefined
+Leather Trousers: undefined
+Reinforced Leather Trousers: undefined
+Chitin Trousers: undefined
+Scale Trousers: undefined
+Robe Top: undefined
+Practitioner Robe Top: undefined
+Academy Robe Top: undefined
+Imbued Robe Top: undefined
+Major Imbued Robe Top: undefined
+Greater Imbued Robe Top: undefined
+Elder Robe Top: undefined
+Robe Hood: undefined
+Practitioner Robe Hood: undefined
+Academy Hood: undefined
+Imbued Hood: undefined
+Major Imbued Hood: undefined
+Greater Imbued Hood: undefined
+Elder Hood: undefined
+Robe Bottom: undefined
+Practitioner Robe Bottom: undefined
+Academy Robe Bottom: undefined
+Imbued Robe Bottom: undefined
+Major Imbued Robe Bottom: undefined
+Greater Imbued Robe Bottom: undefined
+Elder Robe Bottom: undefined
+Flimsy Recurve Bow: undefined
+Sturdy Recurve Bow: undefined
+Oak Recurve Bow: undefined
+Willow Recurve Bow: undefined
+Maple Recurve Bow: undefined
+Yew Recurve Bow: undefined
+Elder Recurve Bow: undefined
+Flimsy Longbow: undefined
+Sturdy Longbow: undefined
+Oak Longbow: undefined
+Willow Longbow: undefined
+Maple Longbow: undefined
+Yew Longbow: undefined
+Elder Longbow: undefined
+Flimsy Crossbow: undefined
+Light Crossbow: undefined
+Bone Crossbow: undefined
+Heavy Crossbow: undefined
+Reinforced Crossbow: undefined
+Arbalest: undefined
+Elder Crossbow: undefined
+Rough Throwing Knife: undefined
+Throwing Knife: undefined
+Light Throwing Knife: undefined
+Refined Throwing Knife: undefined
+Throwing Axe: undefined
+Throwing Javelin: undefined
+Throwing Spinner: undefined
+Driftwood Wand: undefined
+Sturdy Wand: undefined
+Academy Wand: undefined
+Imbued Wand: undefined
+Major Imbued Wand: undefined
+Greater Imbued Wand: undefined
+Elder Wand: undefined
+Driftwood Staff: undefined
+Sturdy Staff: undefined
+Academy Staff: undefined
+Imbued Staff: undefined
+Major Imbued Staff: undefined
+Greater Imbued Staff: undefined
+Elder Staff: undefined
+Arcane Notes: undefined
+Simple Arcane Focus: undefined
+Academy Focus: undefined
+Imbued Focus: undefined
+Major Imbued Focus: undefined
+Greater Imbued Focus: undefined
+Elder Focus: undefined
+Shoddy Ammo: A bunch of shoddily crafted ammunition for ranged weapons.
+Amateur Ammo: Ammo crafted by an amateur.
+Apprentice Ammo: Ammo that would be passable as being crafted by an apprentice crafter.
+Journeyman Ammo: Ammo that would be passable as being crafted by a journeyman crafter.
+Professional Ammo: Ammo that has clearly been crafted by a professional.
+Master Ammo: Ammo that has been crafted by a master and is clearly intended for more exotic weaponry. Has enhanced accuracy due to its lighter materials.
+Experimental Ammo: An experimental ammo that is on the edge of science and magic! Has enhanced damage due to its experimental nature.
+Void Ammo: The fully realized peak of ammunition technology made from the coalescence of science and magic.
+Low-Grade Whetstone: For basic weapon maintenance.
+Mid-Grade Whetstone: For advanced weapon maintenance.
+High-Grade Whetstone: To make your weapon perform better than it ever has before.
+Lesser Imbued Charm: Imbued energy within this stone is released when casting spells to somewhat empower them.
+Major Imbued Charm: Imbued energy within this stone is released when casting spells to empower them.
+Greater Imbued Charm: Imbued energy within this stone is released when casting spells to greatly empower them.
+Ancient Imbued Charm: Created by a technique lost to time. Massively empowers casted spells.
+Dwarven Whetstone: Created by a technique lost to time. Massively improves your weapons performance.
+Elven Ammo: Created by a technique lost to time. Whatever magic empowers this ammo massively improves your weapons performance.
+Santa Hat: undefined
+Snowman Head: undefined
+Tophat: undefined
+Lesser Ladle: This could help you with cooking even if it doesn't look like much! Grants 2 hidden levels of haste while cooking.
+Ladle: This could help you with cooking! Grants 2 hidden levels of haste while cooking.
+Greater Ladle: For when you're allowed only a single spoonful. Grants 2 hidden levels of haste while cooking.
+Moss Maul: A hulking mass of moss covered material; requires a giant's strength to wield properly!
+Modified Diving Gloves: Ready to punch anything you might encounter underwater or above!
+King's Crown: The crown of a Valley's true forever king.
+Fire Orb: This orb of living flame sharpens the senses to an inhuman degree.
+Kalanahmatti: A mere fragment of the legendary spear 'Kalanahmatti' can still be fashioned into a powerful weapon!
+Shard of Kalanahmatti: This powerful blade is fashioned from a shard of the legendary spear 'Kalanahmatti.'
+Zero Edge: Lightning never strikes twice, so surely this is an anomaly.
+Chaos Crest: The heat of this helm could empower your smithing abilities!
+Forgotten Sadness: Long forgotten in the waves. Can you throw it?
+Forgotten Madness: Driven mad by its endless drifting. Appears to channel magical energy.
+Forgotten Anger: Perhaps forgotten, absolutely enraged. Only good for melee!
+Gargoyle Chainmail: undefined
+Gargoyle Legs: undefined
+Gargoyle Boots: undefined
+Gargoyle Helm: undefined
+Gargoyle Shield: undefined
+Gargoyle Falchion: undefined
+Gargoyle Daggers: undefined
+Gargoyle Glaive: undefined
+Infernal Lance: A legendary weapon of great prestige and power.
+Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
+Chorus of Souls: It wails with every swing. Unnerving.
+Decayed Cloak: Despite its ragged appearance it is immensely durable. What could have caused this damage?
+Mysterious Man: Who are they? What are they? How did they get here?
+Corny Joke: You ever heard of this joke? Me neither
+Death Metal Wig: Who said Death metal is all evil?
+Shrimp Carapace: The chitinous shell of the Aberrant Shrimp formed into armor; it's tainted by some sort of demonic magic. Is this a blessing or a curse?
+Shrimp Greaves: The chitinous shell of the Aberrant Shrimp formed into greaves; it's tainted by some sort of demonic magic. Is this a blessing or a curse?
+Shrimp Helm: The chitinous shell of the Aberrant Shrimp formed into a helmet; it's tainted by some sort of demonic magic. Is this a blessing or a curse?
+Shrimp Shell: The chitinous shell of the Aberrant Shrimp formed into a shield; it's tainted by some sort of demonic magic. Is this a blessing or a curse?
+Naga's Bracelet: The liquid inlaid into the carvings seems far too familiar... Wearing the bracelet gives you a craving you cannot describe; if used to create an enchanted piece of jewelry perhaps it will become more apparent to you, but you may run the risk of corrupting its original power...
+Titanic Gauntlet: This gauntlet could become so much more if wielded by one with a strong will.
+Awakened World Shaper: You feel as if infinite power lies within your grasp.
+Shapeless Scythe: Its vorpal edge seems to shimmer and distort as you examine it.
+Giant King's Jewel: You feel limitless energy pulsing from the jewel.
+Giant Scraps: It would take a master craftsman to reshape this into something usable.
+World Walkers: No terrain is too difficult to traverse with these on.
+Giant King's Nails: ... You could try cooking it?
+Cooked Giant King's Nails: Why would you eat this? That's disgusting.
+Crystal Mace: A manifested shard of chaos. If only you knew how to utilize it's energy to perform magic!
+Signet Ring: Carries the signature of some unknown entity.
+Mantle of Flame: Wrap yourself in the cozy flames of a dying star and be reborn.
+Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey at extreme range.
+Hands of Khaast: You feel as if you could break the world in two with your bare hands and then burn it all down.
+Shrimp Scraps: It would take a master craftsman to reshape this into something usable.
+Black Knight Titan's Helm: A helm that grants the strength of titans to its wearer!
+Elven Hood: A magical hood of elven make.
+Elven Heavy Armor: An unnaturally light platebody of elven make.
+Elven Leggings: A pair of comfortably fitting leggings of elven make.
+Elven Boots: A set of light cavalry boots of elven make.
+Searing Ladle: Almost too hot to handle! Burned food rewards full experience. Grants 3 hidden levels of haste while cooking.
+Black Knight's Gauntlets: You feel like you could bend steel with these gauntlets on... but what is steel?
+Bestial Dagger: A light and deadly dagger able to be wielded in one hand to great effect. Channel your inner beast! Other people won't judge you for it, probably...
+Empowered Bestial Dagger: Empowered through magic and sheer rage. A light and deadly dagger able to be wielded in one hand to great effect. Channel your inner beast! Other people won't judge you for it, probably...
+Bestial Defender: A light, yet strong, dagger able to be used in the offhand to slightly increase your offensive potential while remaining potent defensively.
+Empowered Bestial Defender: Empowered through magic and sheer rage. A light, yet strong, dagger able to be used in the offhand to slightly increase your offensive potential while remaining potent defensively.
+Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched and the method to create weapons such as this is lost to time.
+Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
+Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
+Razorfin: A large scimitar taken from a fish! You could probably use it as a paddle! Seems mildly magical, almost...
+Elven Quiver: undefined
+Magic Quiver: undefined
+Defender's Band: A ring fashioned from the cornerstone of a great castle.
+Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
+Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
+Devourer's Band: What was, will be. What will be, was.
+Slayer's Pendant: A pendant depicting a sword through a skull. Small enough to fit in the palm of your hand!
+Alacrity Pendant: A pendant with a lightning bolt engraved on it. Though it greatly increases your speed, it also makes it harder to be accurate.
+Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience.
+Wrath and War: The demonic embodiment of Wrath and War. 'Warth'? Quite mad.
+Shrimp Scepter: undefined
+Shrimp Stinger: undefined
+Shrimp Tail: undefined
+Shrimp Eye: The Eye's power sleeps.
+Hunter's Band: To mark a true hunter's finest kill.
+Dwarven Hammer Necklace: When all you've got is a hammer everything looks like a nail.
+Ancient Token: An ancient token that freezes anything it touches.
+Ancient Ring: An ancient ring that allows you to control ice. Maybe you should take up ice sculpting and leave the adventuring life behind?
+Golem Ring: A ring fashioned from an artificial golem's internals. The magic infused within is said to stabilize the effects of negative affinities, albeit imperfectly.
+Phroglin Pheromones: A foul smelling jar filled with a substance that apparently attracts creatures called 'Phroglins.' If used in group combat only the leader's Phroglin Pheromones will be active.
+Elven Light Armor: An unnaturally light chainmail of elven make.
+Elven Hat: A magical hat of elven make.
+Sylvan Staff: A staff stolen from a Spriggan. Requires some druidic aptitude in order to communicate your will to the staff as it is actually a living embodiment of nature.
+Master Parrying Gauntlet: A parrying gauntlet for a true master, designed to give you the best chance to parry enemy attacks.
+Expert Parrying Gauntlet: An expert's tool to more reliably parry enemy attacks. Much more effective than its beginner counterpart.
+Beginner Parrying Gauntlet: A beginner's tool to parry and immediately strike an opponent's attack. While it may work sometimes, it's not very reliable.
+Scroll: Used in magic to store magical properties: enchantments.
+Scroll of Embers: undefined
+Scroll of the Prospector: undefined
+Scroll of the Scholar: undefined
+Scroll of Gathering: undefined
+Scroll of Superheating: undefined
+Scroll of Pyromancy: undefined
+Scroll of Wealth: undefined
+Scroll of Haste: undefined
+Scroll of Naturalist: undefined
+Scroll of Acrobatics: undefined
+Scroll of Critical Strike: undefined
+Scroll of Poisoning: undefined
+Scroll of Accuracy: undefined
+Scroll of Deflect: undefined
+Scroll of Force: undefined
+Scroll of Healing: undefined
+Scroll of Weakening: undefined
+Scroll of Reinforcement: undefined
+Scroll of Protection: undefined
+Scroll of Parry: undefined
+Scroll of False Equilibrium: undefined
+Scroll of Efficiency: undefined
+Scroll of Fishing: undefined
+Scroll of Cooking: undefined
+Scroll of Crafting: undefined
+Scroll of Refining: undefined
+Scroll of Runecrafting: undefined
+Scroll of Chances: undefined
+Scroll of the Shrimp Lord: undefined
+Scroll of Enlightenment: undefined
+Scroll of Prolonging: undefined
+Scroll of the Treasure Hunter: undefined
+Scroll of Inferno: undefined
+Scroll of Destructive Testing: undefined
+Scroll of Nature: undefined
+Scroll of Root Digging: undefined
+Scroll of Patience: undefined
+Scroll of Overhealing: undefined
+Scroll of Farming: undefined
+Scroll of the Gold Digger: undefined
+Scroll of Fertilizing: undefined
+Scroll of Cultivation: undefined
+Scroll of Fortitude: undefined
+Scroll of Pungent Bait: undefined
+Scroll of Reinforced Line: undefined
+Scroll of Fishing Magnetism: undefined
+Scroll of Bait Preservation: undefined
+Scroll of Oil Spill: undefined
+Scroll of Deadliest Catch: undefined
+Scroll of the Master Chef: undefined
+Scroll of the Herbalist: undefined
+Scroll of Seed Harvesting: undefined
+Scroll of Metallurgy: undefined
+Scroll of Pure Metals: undefined
+Scroll of Essence Concentration: undefined
+Scroll of the Fiber Finder: undefined
+Scroll of Archaeology: undefined
+Scroll of Endless Ammo: undefined
+Scroll of Rune Reserves: undefined
+Scroll of the Soul Wisdom: undefined
+Scroll of Overly Well Done: undefined
+Scroll of Recklessness: undefined
+Scroll of Engraving: undefined
+Scroll of Resistance: undefined
+Scroll of Supercooling: undefined
+Scroll of Dwarven Engineering: undefined
+Raw Chicken: Clucked its last cluck.
+Raw Beef: Fresh, never frozen!
+Spider Legs: It is somehow difficult to thread on a skewer.
+Goblin Brain: They are dumb. They are sad. Their brain run by Runecrafting. Beat them.
+Pepper: Don't sneeze or you'll dump too much ore into the forge! Achoo!
+Salt: For some reason it reminds you of yourself. A great chef! ... Probably.
+Ashes: The remnants of life.
+Sugar: A sugar rush would definitely make you more efficient!
+Honey: Why do fish like this so much?
+Milk: mooooooooo
+Butter: undefined
+Egg: GEG, scrambled egg.
+Mushroom: Kinda makes you feel like checking the roots of things.
+Carrot: Build your own snowman kit. Just add water and coal!
+Chili Pepper: So hot you feel like you could almost smelt ores with it!
+Potato: What's 'taters, eh?
+Pumpkin: Such a weird carrot!
+Tomato: Definitely a fruit.
+Apple: Didn't fall far from the tree.
+Wildberry: Like a blueberry, but wild.
+Banana: Gather 'em up in bunches!
+Wheat: How many of these do I need to make a Straw Hat?
+Rice: You're telling me a Limpe fried this rice?
+Sageberry: The ultimate big brain berry.
+Choccy Milk: Do you even know what chocolate is? ... Well, it's brown.
+Questionable Food: You're not quite sure what this is supposed to be.
+Monster Surprise: ... Probably edible!
+Seared Steak: A nice juicy steak.
+Seared Fish: You're not entirely sure which fish this is, but it's definitely seared!
+Seared Poultry: It's not fried but it'll do.
+Birdie Pasta: The invention of a true madman.
+Spaghetti & Meat: Classic.
+Sushi: Wait, is the fish raw or not?
+Birdie Pie: Could almost be called a chicken pot pie!
+Cottage Pie: Maybe you should have cut the meat up first.
+Fisherman's Pie: ... is that a whole fin sticking out of the crust?
+Fruit Pie: I don't think that's what many people have in mind when describing a fruit pie.
+Demon Cake: Probably not inherently evil! Probably.
+Cake: A lie.
+Fruit Cake: Pretty please with a cherry on top?
+Grain Cake: A little dry.
+Omelette: Sometimes you just gotta break a few eggs.
+Monster Omelette: Is it alive?
+Meaty Omelette: Rich and savoury!
+Veggie Crepe: Vegetables are crepe'y! Get it? No? Okay...
+Fruity Crepe: Should probably only be eaten as a dessert!
+Eggnog: Good all year round!
+Meat Roast: PROTEIN!!!
+Fried Fruit: Basically candy at this point.
+Grilled Veggies: Grilled to perfection!
+Kebabs: The action man's food!
+Candied Fruit: Almost too sweet to handle!
+Milkshake: Brings all the boys to the raid!
+Vegetable Stew: Reminds you of home.
+Meaty Stew: Definitely not just fried chicken in a bowl of sauce!
+Monster Stew: Parts of it are definitely still moving.
+Jerky: A chewy treat.
+Pudding: The old man's favorite. Don't steal it!
+Ice Cream: The ultimate dairy product. Comes with a free spoon!
+Monster Curry: Might actually be mildly edible!
+Birdie Curry: Did you just put an entire chicken in this dish without preparing it first?
+Beast Curry: Meat, spice, and everything nice! Or grain, mostly grain.
+Seafood Curry: There's just a whole fish in there. Why did you do that?
+Monster Gelato: Only partially inedible!
+Common Potion: undefined
+Common Concentrated Potion: undefined
+Common Large Potion: undefined
+Rare Potion: undefined
+Rare Concentrated Potion: undefined
+Rare Large Potion: undefined
+Epic Potion: undefined
+Epic Large Potion: undefined
+Legendary Potion: undefined
+Legendary Large Potion: undefined
+Epic Concentrated Potion: undefined
+Water Imbued Dust: Crushed up water runes. Not exactly a delicacy, but it might have some sort of effect when cooked.
+Empty Vial: An empty vial to pour a standard potion into. Using more than one in a recipe will not positively affect the produced potion.
+Empty Large Vial: A large empty vial to pour a large potion into. Using more than one in a recipe will not positively affect the produced potion.
+Empty Reinforced Vial: A reinforced empty vial to pour a concentrated potion into. Using more than one in a recipe will not positively affect the produced potion.
+Watermelon: Good for gathering! Now you only need 999,999 more! Is it spelled 'Melon' or 'Mellon'?
+Durian: INFO's Favorite!
+Onion: Makes you cry when it speaks. Luckily, it's incapable of speech. Or is it?
+Mana Berry: Named for its magic enhancing properties.
+Thorny Root: This one would hurt to fall face first into!
+Thorny Vine: Don't let this one snag you by surprise!
+Tangle Root: Would probably try to trip someone if it was still in the ground.
+Mandrake: Does not look man or drake shaped at all. Who named this thing?
+Jellyfish: How would it taste on a sandwich, you wonder.
+Frost Flowers: Perpetually cold. Does it remind you of home?
+Black Berry: It doesn't know how to speak.
+Fairy Dust: Not actually from a Fairy. Everybody knows Fairies aren't real!
+Lotus Flower: A rare flower that grows in the deepest parts of the Living Forest and is rumored to have minor magical properties when prepared through alchemy.
+Four-leaf Clover: Very lucky!
+Glow Spore Shroom: The mushroom itself is actually useless with only the spores having value.
+Pineapple: Does it go on pizza or not?
+Ghost Shrooms: A handful of very pale, small mushrooms that emit the barest amount of light.
+Yellow Pepper: It may be a yellow pepper, but it is Red Hot! ... Sorry.
+Bone: Used as a crafting material.
+Bone Plate: Used as a crafting material.
+Chitin: Used as a crafting material.
+Heavy Chitin: Used as a crafting material.
+Fur: Used as a crafting material.
+Thick Fur: Used as a crafting material.
+Wool: Used as a crafting material.
+Hide: Used as a crafting material.
+Rough Hide: Used as a crafting material.
+Scale: Used as a crafting material.
+Heavy Scale: Used as a crafting material.
+Crystal Scale: Used to enhance Elven equipment.
+Leather: Used as a crafting material.
+Rough Cloth: Used as a crafting material.
+Restored Cloth: Used as a crafting material.
+Lesser Cloth: Used as a crafting material.
+Imbued Cloth: Used as a crafting material.
+Greater Cloth: Used as a crafting material.
+Major Cloth: Used as a crafting material.
+Elder Cloth: Used as a crafting material.
+Aqueous Grass: Some aqueous grass that was stuck to your fishing tools. It appears to be weakly magical. Used as a crafting material.
+Water Weeds: Water weeds that appear to have been exposed to some sort of magical source. Used as a crafting material.
+River Vines: Thick underwater vines found predominantly in rivers. These give off a faint magical aura. Used as a crafting material.
+Violet Ribbons: Violet aquatic plants that radiate magical potential. Used as a crafting material.
+White Reeds: Aquatic reeds that appear to have grown near a font of magical energy and maintained some of its characteristics. Used as a crafting material.
+Ancient Kelp: Kelp that has been magically sustained for ages. Potent energy can be felt coursing through its fibers. Used as a crafting material.
+Aqueous Chunks: A chunk of stone supposedly from the bottom of the ocean, still pulsing with latent magical energy. Perhaps it could be used to augment something?
+Frost Shard: A chunk of ice that never melts. The magic keeping it solid could be channeled somewhere by a skilled enchanter.
+Elder Stone: A condensed shard of Elder Magic formerly owned by the Elves.
+Box Trap: A box trap with bait only suitable to catch small game.
+Pitfall Trap: A pitfall trap with bait suitable to catch small and medium sized game.
+Bird Trap: A bird trap with bait suitable to catch small flying creatures.
+Net Trap: A net trap with bait suitable to catch most creatures.
+Bear Trap: A bear trap with bait only suitable to catch large and medium sized creatures.
+Water Totem: A totem that periodically summons rainstorms. Has up to a 10% chance every farming tick to advance every plot by one growth stage. Its effect grows as it ages. Only the oldest water totem will take effect. The totem will automatically expire when it is fully grown.
+Nature Totem: A totem that imbues your farmland with nature energy. Has up to a 10% chance to make any automatic replant cost nothing. Its effect grows as it ages. Only the oldest nature totem will take effect. The totem will automatically expire when it is fully grown.
+Earth Totem: A totem that enhances your farmland's soil. Has up to a 10% chance to increase yields by 50% based on totem age. Its effect grows as it ages. Only the oldest earth totem will take effect. The totem will automatically expire when it is fully grown.
+Coalescing Totem: A totem that coalesces various energies into a single form. Gives up to a 15% chance to half fertilizer cost, increase yield by 50%, and increase growth speed with chance increasing most drastically when there are more unique things planted with various sizes to grow. Stacks with non-coalescing totems that have the same effect. Only the oldest coalescing totem will take effect. The totem will automatically expire when it is fully grown.
+Shrimp Bauble: Untamed magic oozes out from inside.
+Shrimp: One of perfection's many forms.
+Shrimp Ascendant: Perfection comes in many forms, but this is a perversion of the art.
+Gold Medal: First place award!
+Silver Medal: Second place award!
+Bronze Medal: Third place award!
+Event Token: Can be spent in the Event Shop for various event related items and buffs.
+Snow: Used to make Snowballs!
+Snowball: Use '/throw NAME' to throw at people!
+Wrapping Paper: Born to be torn apart
+Present: Merry Christmas!
+Cookie Dough: It smells like cookies
+Cookie: It reminds you of your childhood
+Gummy Fish: Delicious candy!
+Gummy Shark Fin: Looks like it came off a Gummy Shark!
+Krampus' Horn: A deathly energy weakly pulses from them still...
+Candy Buttons: The buttons from Lumpy, Dumpy and Clumpy!
+Scarf: Keeps you warm while you play in the snow!
+Evergreen Log: Smells faintly of mint and cinnamon
+Corrupted Evergreen Log: It reeks of decay
+Magic Ice: Magically makes you want to lick it
+Inferior Bearded Wanderer: The hat's a little loose and the beard is itchy
+Inferior Reindeer Hunters' Armor: Not the warmest or most protective, but it'll work!
+Inferior Reindeer Hunters' Leggings: Chafes in all the wrong places
+Inferior Christmas Lights: Still a little dusty from being in storage
+SuperSled 1337: An elite sled for elite sledders
+Bearded Wanderer: The hat's too tight and the beard smells funny.
+Reindeer Hunters' Armor: Hypothermia is no longer your biggest threat!
+Reindeer Hunters' Leggings: There's no holes, at least!
+Christmas Lights: Not for the nice!
+SuperSled 9000: For when sledding meets extreme sports
+Superior Bearded Wanderer: The hat's just right and the beard is perfectly groomed.
+Superior Reindeer Hunters' Armor: The skull whispers to you softly, urging you to kill
+Superior Reindeer Hunters' Leggings: The hide might not have protected the reindeer, but it will protect you.
+Superior Christmas Lights: For the naughty!
+SuperSled 9001: It's over 9000!
+Magical Snowball: undefined
+Candy Cane Daggers: undefined
+Festive Shroud: undefined
+Merry Maker's Mittens: A pair of mittens to keep you warm in the bitter cold! Wait, are they fingerless?
+Mistletoe Treads: For treading on snow or enemy faces.
+Magic Ice Bar: A coalesced bar of magic ice. Cold to the touch!
+Winter Rune: A slate imbued with the essence of winter.
+Scroll of Candy Canes: A scroll enchanted with some sort of winter magic, not compatible with any gear you know of.
+Gummy Lure: A gummy fish turned into a lure. Helps with Christmas zone fishin.
+Winter Essence: Winter essence can be gathered by doing non-combat Christmas event activities.
+Gummy Shark: More likely to bite you than let you bite it!
+Angry Letter: An angrily worded letter from someone you threw a snowball at!
+Baubles: Commemorates Christmas 2021! How many can you collect?
+Snowglobe: Stores your Christmas Spirit!
+Mr. Klimp: whatisthis? Fabled to have once costed trillions of gold.
+The Mine Dwelling Hamster: Back to the mines with you!!!
+Lil Crown Hamperster: Little hat REQUIRED
+Lightning Edge: Lightning never strikes twice, so surely this is an anomaly.
+Frost Maul: A hulking mass of snow covered ice.
+Abusive: gamster
+Elite Titan Helm: A particularly intricate helmet, far more than the average Titan would wear.
+Ancient Crown: An incredible old crown. Could be a bracelet if you are a giant.
+Idlescape Bond: A token that can be redeemed for a month of Idlescape Plus. Can be traded in the Marketplace. 
+Has an increased tax-rate of 20% when sold on the Marketplace. WIP: NO FUNCTIONALITY YET
+Character Token: A token that can be redeemed for a new character slot.
+Active Character Token: A token that can be redeemed for a new active character slot. NOTE: You can only have one Default league character active at the same time.
+Item Name Token: A token that can be redeemed to change an item's name. Will make the item untradeable.
+Vacation Token: A token that can be redeemed to allow offline progress for 72 hours.
+Loadout Token: A token that can be redeemed to increase base loadout count.
+Holy Avenger Helm: H... Pointy!
+Holy Avenger Breastplate: Full of righteous indignation!
+Holy Avenger Cape: Perpetually blowing in the wind. Very heroic looking.
+Holy Avenger Leggings: Don't actually try to wade through blood, it'll stain the cloth.
+Holy Avenger Boots: Don't actually try to wade through blood, it'll stain the cloth.
+Holy Avenger Gloves: Perfect for clasping your hands in prayer or beating the snot out of something!
+A Mad Faith's Wrath: Behold the wrath of the mad faith! War and battle! Madfaith's 'Warth'!
+Limpe K. Limpe: A creature that is beyond comprehension.
+Username Change Token: A token that can be redeemed to change your username.
+Shapeless Bow: A bow fashioned to use chaos itself.
+Shapeless Staff: A staff fashioned to use chaos itself.
+Gift of the Lightning King: Gift of the Lightning King
+Put Something On: Seriously, put something on.
+Fresh Off the Island: Do you even know what island?
+Forgotten Platebody: A forgotten relic 'farcasted' into the sea...
+Inventory Tab Token: A token that can be redeemed to increase your inventory tab count.
+RISE OF INFO: Ancient power emanates from the seal... It sorta smells like durian. Probably not a good idea to use this until raids are officially implemented.
+Black Knight's Trial: A dark scroll for a darker trial. Will you face it and reap the rewards?
+Giant Scroll: A gargantuan task for only the mightiest of heroes; are you counted amongst them?
+Corroded Scroll: The stench of decay hangs heavy about this squalid parchment. Are you ready to break the seal?
+Stew Stained Page: A repulsive taunt from a repulsive creature. Will you break the seal?
+Cluster-Cluck: The secret location of Ot_to's prized hen house. Want to find out what's inside?
+Demonic Trial: Unknown markings surround the stately seal binding this scroll closed. Are you sure you want to break the seal?
+Taproot Scroll: The parchment feels alive in your hands. Will you be able to conquer nature?
+The Final Test: Can you do what no one has ever done before?
+Shapeless Scroll: The scroll appears to be shifting in and out of reality. Do you dare unravel its secrets?
+Stormy Sea Scroll: It's soaking wet but the parchment seems untearable. Will you dive in?
+Enchanted Armory Scroll: A dignified invitation to test the armory's latest creations. Will you accept?
+Fallen Academy Scroll: An academy scroll that has been warped by some sort of demonic energy. Will you explore it?
+Overgrown Woods Scroll: An old scroll you found in the woods that leads you further into the woods. Should you follow it?
+Elven Encampment Scroll: An old scroll bearing the insignia of some long lost dynasty. Will you comb through history?
+Giant's Keep Key: The key to enter the Giant's Keep made of the various elemental fragments. Only five people could make it to the Keep without being spotted.
+Nature Fragment: A piece of living earth is imbued into this fragment.
+Ice Fragment: An unmelting shard of ice is imbued into this fragment.
+Fire Fragment: An unfaltering gout of flames is imbued into this fragment.
+Corrupted Fragment: A rotten slab of decay is imbued into this fragment.
+Chaos Fragment: An undescribable phenomenon is imbued into this fragment.
+Torn Goblin Settlement Map: A map to find an elusive goblin settlement. You could probably only bring up to three people to this location safely.
+Scrap of Stained Parchment: A scrap of parchment that appears to be a part of a map.
+Dark Fortress Key: A brutish key made of dark metal. The way to a fortress is treacherous, no more than three people could make the journey.
+Dark Key Piece: A piece of dark metal that looks like part of a key.
+Cursed Spade: A cursed spade that is drawn to long forgotten lands...
+Burning Feather: The feather itself appears to be made out of fire! You could probably lead yourself and one other wherever it's pointing. It just wants to go home, but you'd probably melt in there. Better bring some Flame Resistance food!
+Krampus' Key: A piece of bone with some bits of metal sticking off of it. If you squint really hard it somewhat resembles a key.
+Molten Ashes: The remains of some infernal creature. Still warm to the touch.
+Infernal Flame: The vestiges of an infernal soul, left to burn eternally.
+Cracked Shrimp Bauble: The roar of the ocean can be heard faintly while examining this bauble.
+Elder Lockstone: A lockstone that can lead its owner to a hidden Elder Ruin and reveal its untouched treasures.
+Castle Map: A full map that leads to an old castle.
+Ancient Pyramid: An ancient chunk of stone curiously shaped into a pyramid.
+Ancient Maelstrom Orb: A prism trapped inside of a magical prison. What could go wrong if you released it?
+Ancient Crystal: An ancient crystal. It is chaotic in origin but is far older than any chaotic crystal you have ever seen.
+Ancient Stone: An ancient stone. Appears to be hewn in such a way that it would be able to fit nicely with other similar stones, despite its obvious age and damage.
+Partial Map: A portion of a larger map. Useless on its own, but with the remaining pieces it may lead somewhere!
+Elder Gem: An elder gem. Prized heirloom of the Elves, or the final piece to a greater puzzle?
+Awakened Shrimp Eye: It's looking at you. Don't look too closely back. Probably not a good idea to use this until raids are officially implemented.
+Dwarven Research Key: The key to enter the Dwarven Research Station.
+Heart of the Oak: The key to enter the Nature Athaneum.
+Abandoned Academy Scroll: The key to enter the Abandoned Academy Base.
+Core Fragment: A chunk of ore drawn from the core of the land itself. Not human mined, so where did it come from?
+Core Ingot: A material that mimics Dwarven Craftdwarfship. Using this to craft a key would grant you access to long lost Dwarven ruins.
+Ancient Cloth Fragment: A particularly powerful piece of arcane cloth. It could be used to craft an even more powerful scroll.
+Ancient Oak Seed: A seed that predates even the Elder Trees.
+Cursed Spade Head: The head of a broken spade, evidently used to unearth some forgotten evil. With the right process you could use it to find these crypts...
+The Castled King: Show your true might.
+Dextrous Scraps: Perhaps you could salvage something dextrous from these scraps...
+Intellectual Scraps: Perhaps you could salvage something intellectual from these scraps...
+Gem Package: A bag of gems! I wonder what's inside? ...Gems, hopefully.
+Sealed Scroll: A sealed scroll. Doesn't come with postal information, so I guess it's yours now! What could its contents be?
+Small Gathering Supply Crate: A small crate addressed to someone named 'Diet$melter.' Sounds like a fake name, you should open it!
+Gathering Supply Crate: A crate addressed to someone named 'Diet$melter.' Sounds like a fake name, you should open it!
+Large Gathering Supply Crate: A large crate addressed to someone named 'Diet$melter.' Sounds like a fake name, you should open it!
+Bucket of Worms: A bucket of soil with worms inside! At least it isn't just a can of worms!
+Box of Skill Books: An ornate lockbox containing a variety of skill books. Testing Item.
+Box of Jewelry: An ornate lockbox containing a variety of skill books. Testing Item.
+Magic Starter Kit: A simple pouch containing some starter supplies. Will eventually be tied to a tutorial quest.
+Range Starter Kit: A simple pouch containing some starter supplies. Will eventually be tied to a tutorial quest.
+Lesser Jewelry Cache: undefined
+Greater Jewelry Cache: undefined
+Goblin Cache: undefined
+Dark Cache: undefined
+Giant Cache: undefined
+Elder Cache: undefined
+Overgrown Cache: undefined
+Barrows Cache: undefined
+Flaming Cache: undefined
+Storm Cache: undefined
+Maelstrom Cache: undefined
+INFO Cache: undefined
+Ancient Cache: undefined
+Dwarven Research Cache: undefined
+Elven Research Cache: undefined
+Academy Research Cache: undefined
+Novice Tacklebox: A beginner's novice tacklebox designed to be used by children. Not much good to catch anything large.
+Basic Tacklebox: A basic fishing tacklebox aimed for use by hobbyists and amateurs for basic fishing adventures to the local river or pond.
+Advanced Tacklebox: An advanced fishing tacklebox for those who've gotten more than their toes wet in fishing.
+Pro Tacklebox: The pro fishing tacklebox has nearly everything you could possibly need to catch fish.
+Supreme Tacklebox: A supreme fishing tacklebox rife with all the bits and bobs a master fisherman would need to fish up just about anything.
+Ocean's Embrace: The origin of this mythical equipment is lost to history but there is no doubt regarding its power. Enhances ancient fishing.
+Earthworm Bait: A tiny lil' earthworm.
+Fat Nightcrawler Bait: A big ol' nightcrawler.
+Glowbug Bait: A small glowbug.
+Shrimp Tail Bait: The tail of a shrimp.
+Fish Guts Bait: Some fish guts. Ew.
+Smelly Meat Bait: Some smelly, probably not rotten, meat.
+Hardened Hook Bait: A hook designed to make reeling in big catches easier.
+Alluring Lure Bait: A shiny lure designed to entice even the most wary catches.
+Writhing Tentacle Bait: An ancient writhing tentacle that reacts when you poke it. Enhances ancient fishing.
+Mysterious Bait: Who knows what effects using this bait would have? Each and every one of them is unique! Each bait has between +50 and +200 to a random fishing stat.
+Rotten Driftwood: A rotten piece of driftwood. Could it still be used for something?
+Sturdy Driftwood: A sturdy piece of driftwood. Could it still be used for something?
+Aquamarine: An aquamarine crystal. If you hold it up to your ear you can look like an idiot!
+Ancient Fishing Rod: An ancient fishing rod, straight out of a madman's fantasy. Not much good on its own in this condition; it would take a master crafter to repair it...
+Ancient Harpoon: An ancient harpoon, probably dragged up from some ancient aquatic ruin. Not much good on its own in this condition; it would take a master crafter to repair it...
+Ancient Fishing Net: An ancient fishing net, the material it's made out of appears to be alive. Not much good on its own in this condition; it would take a master crafter to repair it...
+Mystical Driftwood: An oddly glowing piece of driftwood. Could it still be used for something?
+Dwarven Alloy: An alloy made from metals you do not recognize.
+Dwarven Ingot: An incredibly hard dwarven ingot. It is basically impossible to work with.
+Dwarven Mold: A sort of mold to form a tool with.
+Very Mysterious Seedling: It is looking at you.
+Elder Sap: Sap taken from a tree that is much older than you are.
+World Tree Branch: Basically just a shiny branch!
+Fisherman's Smock: A smock for fishing! You can already feel it making your tools stronger.
+Fisherman's Bucket Hat: A hat for fishing! You can already feel it making your reflexes sharper.
+Fisherman's Waders: Waders for fishing! You can already feel it making your ability to bait fish stronger.
+Miner's Smock: A smock to rub the coal dust on after a long day in the mines.
+Miner's Lantern Helmet: OSHA improved! Let's you see better! Wow!
+Miner's Trousers: A pair of trousers that you swear definitely makes you better at mining despite being a simple pair of pants. Are they magical? Probably not. Probably.
+Lumberjack's Vest: Makes you want to shout timber.
+Lumberjack's Hat: If a tree falls on your head this will not help, but it can keep you warm!
+Lumberjack's Trousers: You're a lumberjack and you're okay!
+Fishing Shard: A shard for creating skilling gear.
+Mining Shard: A shard for creating skilling gear.
+Foraging Shard: A shard for creating skilling gear.
+Prismatic Dust: A fine dust that radiates a prismatic luster; formed when too much power is imbued into a Black Opal
+Chef's Hat: Kinda smells like your childhood meals. They must have really sucked since this hat came from a Goblin.
+Infernal Dust: A fine dust that is fueled by some inner flame. Formed when too much power is imbued into Obsidian.
+Golden Spoon: It's a golden spoon! Rewards full XP when burning food and grants 4 hidden levels of haste while cooking.
+Cooking Shard: A shard for creating skilling gear.
+Runecrafting Shard: A shard for creating skilling gear.
+Camo Cloak: A cloak with camo elements to help you avoid fights in dangerous places. Increases your combat ability in dangerous gathering encounters and gathering dungeons.
+Flamboyant Cape: A bright, flamboyant cape designed to catch the eye of monsters. Increases your combat ability in dangerous gathering encounters and gathering dungeons.
+Small Bag of Holding: A small bag that possesses some magic to help you gather all that you can from a resource. Will automatically be upgraded to the next bag of holding tier at +5 augment levels.
+Bag of Holding: A bag that possesses some magic to help you gather all that you can from a resource. Will automatically be upgraded to the next bag of holding tier at +10 augment levels.
+Large Bag of Holding: A large bag that possesses some magic to help you gather all that you can from a resource.
+Newbie Adventurer's Backpack: A backpack with all the goodies and supplies necessary to help an adventurer get more research done when gathering in the field. May require some adjustment by a new owner before becoming comfortable to wear!
+Dwarven Adventurer's Backpack: A redesigned backpack drawing from dwarven research to massively increase research capabilities when gathering out in the field. May require some significant adjustment by a new owner before becoming comfortable to wear!
+Cloak of Many Pockets: A cloak with many pockets to keep you more organized while processing materials.
+Cloak of the Void: A cloak with access to a small pocket dimension for storage. Greatly increases your ability to stay organized and efficient while processing materials.
+Dwarven Manufacturing Pendant: Empowers you to hastily process materials and items.
+Elven Logistics Pendant: Empowers you to efficiently process materials and items.
+Farming Shard: A shard for creating skilling gear.
+Dwarven Tongs: A legendary set of tongs made from lost dwarven technology.
+Smithing Shard: A shard for creating skilling gear.
+Elvish Hoe: A legendary farming implement purportedly used by the Elves. Why does it need a diamond?
+Void Portal Anchor: An anchor point for a void portal that can be used to create legendary equipment.
+Defunct Golem Core: Ancient dwarven tech that could be repurposed into a legendary piece of equipment.
+Combat Manual - Volume 1: A manual on how to take advantage of your weapon's edge. Apparently using the sharp part means it will hurt something more, who could have known?
+Combat Manual - Volume 2: A manual on how to take poke things really good. If the weapon has a decent tip, you can stab things! Wow!
+Combat Manual - Volume 3: A manual on how to just hit things hard. Crushing things is deceptively simple and to truly pummel your enemy you must understand that being blunt is sometimes the only way to go.
+Spell Tome - Fire Ball: A basic tome from the Academy formerly used for teaching aspiring mages how to control and utilize fire. Be careful where you practice it!
+Spell Tome - Flamethrower: An intermediate tome from the Academy formerly used for teaching mages how to utilize flames in a more lively manner.
+Ballistics 101: A textbook that explains the basic principles regarding how something that goes up usually comes back down.
+Projectile Based Diplomacy - I: A book that outline the merits of using projectiles, preferably several at once, to really get your point across.
+Projectile Based Diplomacy - II: A book that outline the merits of using projectiles, even just a single well placed one, to really get your point across.
+Projectile Based Diplomacy - III: A book that outline the merits of using projectiles, especially when trying to distract and divert, to really get your point across.
+Apocalyptic Tome: A spell tome that contains the necessary rituals and rites for summoning your own miniature apocalypse.
+Intermediate Combat Manual - Volume 1: A manual on how to hit two enemies at once in one swing.
+City Decree: Grants the owner the ability to summon City Guards as reinforcements in combat. You should probably feel a little guilty if you bring them into a fight they cannot survive.
+How To - First Aid: Teaches the fundamentals of mid-combat first aid rending.
+Defending the Weak - An Excerpt: A few pages that explain that you can actually use your shield to defend others instead of just yourself.
+Combat Manual - Volume 4: A manual on stabbing through one enemy and into the next one. A battle cry is optional but recommended!
+Attention Getting Tactics: It's a long scroll that explains in detail how awful you are. It gives you ideas on what to say to other people! Very healthy.
+Smoke and Mirrors: How to use the deceit and chaos to your aid on the battlefield.
+All Ghillied Up: Sticks, grass, leaves, and other foliage can make a proper bush out of you!
+Ice, Ice, Ice: ICE!
+Trapper's Guide: Setting traps is just one of the many ways you may shape the battlefield.
+Spell Tome - Ice Shard: A basic tome from the Academy formerly used for teaching aspiring mages how to control and utilize ice.
+Notes on Acid - I: Notes taken while engaging enemies that could use acid in combat. Perhaps there is a way to mimic this ability?
+Notes on Acid - II: Notes taken while engaging enemies that could use acid in combat. Perhaps there is a way to mimic this ability?
+Armor and its Weaknesses: Notes on the various types of armor and how smarter monsters react to them. Perhaps there is something to learn here?
+Slayer's Mark: A type of trophy taken from a slain foe.
+Token of Ownership: A token representing that some item was obtained.
+Token of Action: A token representing that some action was completed.
+Monster Tooth: A tooth taken from a slain monster; might be worth something to someone.
+Monster Horn: A horn taken from a slain monster; might be worth something to someone.
+Sturdy Horn: A sturdy horn taken from a slain monster; might be worth something to someone.
+Old Coins: Some old coins. Might be worth something to a collector
+Primitive Coin: A rather heavy, yet primitive, gold coin. This could easily be sold for a tidy sum.
+Undead Token: Some sort of token taken from the undead. Someone might be interested in it.
+Woodland Trinket: A trinket taken from the Elves; might be worth something to someone.
+Intact Wing: A mostly intact wing. Someone might be interested in it.
+Ornate Trinket: A rather ornate trinket; it should be worth a bit.
+Useless Metal Scraps: Useless metal scraps made from some poor quality material. Could probably be sold to someone for cheap.
+Exotic Trinket: An exotic trinket from some unknown origin. Should be worth quite a bit to the right person.
+Demonic Statue: A statue made from some sort of gem-like material depicting a small demon. May be worth quite a bit if you can find a buyer.
+Monster Claws: Claws taken from a slain monster; might be worth something to someone.
+Bottled Blood: Slightly magical blood taken from something. May be valuable to someone.
+Broken Armaments: Shattered pieces of equipment that probably is not worth salvaging by you; perhaps someone else may want to buy it.
+Creature Eggs: Eggs from some creature. Probably best to get rid of this quickly.
+Dwarven Coins: Shiny dwarven coins that are of no use to you. A vendor could exchange the currency.
+Bone Shards: Splinters of bone taken from a slain creature. Might be worth something to someone.
+Giant Heart: A giant heart, probably taken from a giant or similarly large creature. Superstition suggests making a meal with it will increase your attractiveness, but sadly that may be a wasted effort on you.
+Ancient Armor Scraps: Scraps of some ancient piece of equipment. Its origin is unknown, but it may be worth something to the right person.
+Unknown Rune: It appears to be a rune not created through conventional means. It is no use to you but someone may want it.
+Light Armor Scraps: Pieces of light armor that is too damaged to salvage. Might be worth something to someone.
+Armor Scraps: Pieces of armor that is too damaged to salvage. Might be worth something to someone.
+Heavy Armor Scraps: Pieces of heavy armor that is too damaged to salvage. Might be worth something to someone.
+Tusk: A tusk taken from a slain monster; might be worth something to someone.
+Gem Shards: Useless pieces of shattered gems. Not quite fine enough to be considered dust, but too small for you to properly refine or cut. Might be worth something to a vendor.
+Goblin Fork: A useless eating utensil used by goblins. Everyone knows you should just eat your meals whole! A vendor may want this.
+Nature Stone: A chunk of stone that appears to be imbued with life. Useless to you, but must be valuable to someone.
+Fire Stone: A chunk of stone that appears to be imbued with flame. Useless to you, but must be valuable to someone.
+Ice Stone: A chunk of stone that appears to be imbued with ice. Useless to you, but must be valuable to someone.
+A Diamond Plated Bug: I wonder who added this in?
+Valuable Furs: Worthless for making equipment out of but may be worth something to a vendor.
+ban_hamer: with this hammer you can play whac-a-mole more efficiently
