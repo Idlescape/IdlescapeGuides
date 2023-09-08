@@ -1,5 +1,5 @@
 Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
-Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches and coal.
+Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood, and coal.
 Air Essence: Air Essence can be gathered by waiting patiently.
 Earth Essence: Earth Essence can be gathered while mining.
 Fire Essence: Fire Essence can be gathered while smithing or cooking.
