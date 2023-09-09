@@ -40,8 +40,7 @@ function CookingGuide() {
 			Goblin Settlement Dungeon. When augmented, they’ll increase your effective cooking level as well as give you
 			a few hidden levels of haste when equipped. These can be enchanted with some useful enchantments, such as
 			Master Chef to help you with your cooking. 
-			<br />
-			<br />
+			<p>
 			A Chefs Hat, obtained from the Goblin Settlement Dungeon, comes with three Enchantment Slots and will increase your
 			effective cooking level when Augmented.
 			<Text color='gray' fontStyle='oblique'>
