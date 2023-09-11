@@ -13,24 +13,24 @@ Cosmic Essence: Cosmic Essence can be gathered by enchanting or runecrafting.
 Platinum: Platinum is used to purchase items from the Platinum Shop and to purchase server-wide Global Buffs.
 Book: A dusty tome. Perhaps I should read it?
 Task: Adventure awaits! HUZZAH!
-Raw Shrimp: S h r i m p
-Raw Anchovy: In what scape would these look like blue shrimp?
-Raw Trout: The fisherman's participation award.
-Raw Salmon: Not going up any rivers anymore.
-Raw Lobster: Raw Lobster!
-Raw Tuna: Tuna Tuna Tuna
-Raw Shark: A big toothy fish. It's a fish, right?
-Raw Megalodon: A monstrously large shark with incredibly tough meat.
-Raw Ancient Lobster: A mean looking and monstrously heavy lobster. It's definitely a lot older than you are.
-Raw Tentacle Meat: A massive chunk of ancient rubbery meat torn from some sort of tentacled monster.
-Raw Huge Tuna: A huge tuna!
-Seaweed: Smells real bad.
-Raw Magnetic Minnow: It didn't even bite the hook, it just got stuck to it.
-Raw Tigerfish: Mean looking and strong to boot!
-Raw Slippery Eel: Slippery and oily!
-Raw Great White Shark: A deadly creature to be sure.
-Raw Hammerhead Shark: Probably can't actually be used as a hammer.
-Raw Crab: In some places it's considered less desirable than lobster, but not here.
+Raw Shrimp: An ingredient for cooking and bait. S h r i m p
+Raw Anchovy: An ingredient for cooking and bait. In what scape would these look like blue shrimp?
+Raw Trout: An ingredient for cooking and bait. The fisherman's participation award.
+Raw Salmon: An ingredient for cooking and bait. Not going up any rivers anymore.
+Raw Lobster: An ingredient for cooking. Raw Lobster!
+Raw Tuna: An ingredient for cooking. Tuna Tuna Tuna
+Raw Shark: An ingredient for cooking. A big toothy fish. It's a fish, right?
+Raw Megalodon: An ingredient for cooking. A monstrously large shark with incredibly tough meat.
+Raw Ancient Lobster: An ingredient for cooking. A mean looking and monstrously heavy lobster. It's definitely a lot older than you are.
+Raw Tentacle Meat: An ingredient for cooking and bait. A massive chunk of ancient rubbery meat torn from some sort of tentacled monster.
+Raw Huge Tuna: An ingredient for cooking. A huge tuna!
+Seaweed: An ingredient for cooking. Smells real bad.
+Raw Magnetic Minnow: An ingredient for cooking. It didn't even bite the hook, it just got stuck to it.
+Raw Tigerfish: An ingredient for cooking. Mean looking and strong to boot!
+Raw Slippery Eel: An ingredient for cooking. Slippery and oily!
+Raw Great White Shark: An ingredient for cooking. A deadly creature to be sure.
+Raw Hammerhead Shark: An ingredient for cooking. Probably can't actually be used as a hammer.
+Raw Crab: An ingredient for cooking. In some places it's considered less desirable than lobster, but not here.
 Burnt Fish: The result of an overzealous cook. Perhaps studying this will make you a better cook?
 Burnt Food: The result of an overzealous cook. Perhaps studying this will make you a better cook?
 Copper Ore: Can be smelted into bronze bars with the help of some tin.
@@ -40,37 +40,37 @@ Gold Ore: A large chunk of gold ready to be smelted into a bar.
 Mithril Ore: A dark blue tinted and hardy metal that can be smelted into bars.
 Adamantite Ore: A green hued metal most consider nearly worthless that can be smelted into bars.
 Runite Ore: One of the hardest naturally occuring metals that may be smelted into tough bars.
-Clay: It may not be what plants crave, but you could probably mix this with sand to make fertilizer.
-Stone: This doesn't seem useful.
-Sand: Some particularly nutritious sand can be used to create fertilizer, though eating the sand itself doesn't seem like a good idea...
-Silver: A great material for channeling magic essence.
+Clay: Used in crafting. It may not be what plants crave, but you could probably mix this with sand or bones to make fertilizer.
+Stone: Used in crafting. A solid foundation for castles... but who would want that?
+Sand: Used in crafting and cooking. One can find great nutrients in sand for fertilizer, though eating the sand itself doesn't seem like a good idea...
+Silver: A great material for channeling magic essence into scrolls and other objects.
 Coal: Burn it up to make heat! It's okay, the industrial revolution hasn't happened yet so you're safe from environmental activists.
 Rune Slate: A blank magical canvas.
 Stygian Ore: An unnaturally glittering ore sourced from the deepest of delves. May be smelted into bars with the aid of ichor.
-Void Stone: A stone pulsing with chaotic energy.
-Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants.
-Carrot Seed: undefined
-Peppercorn Seed: undefined
-Sugarcane Seed: undefined
-Wheat Seed: undefined
-Potato Seed: undefined
-Rice Seed: undefined
-Tomato Seed: undefined
-Wildberry Bush Seed: undefined
-Chili Pepper Seed: undefined
-Pumpkin Seed: undefined
-Mushroom Spore: undefined
-Tree Seed: undefined
-Oak Tree Seed: undefined
-Willow Tree Seed: undefined
-Maple Tree Seed: undefined
-Yew Tree Seed: undefined
-Banana Tree Seed: undefined
-Apple Tree Seed: undefined
+Void Stone: A stone pulsing with chaotic energy. Perhaps you could further process it?
+Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants in farming.
+Carrot Seed: Plant this on your farm. Won't improve your vision yet.
+Peppercorn Seed: Plant this on your farm. May cause uncontrolled sneezing on harvest.
+Sugarcane Seed: Plant this on your farm for a sweet treat.
+Wheat Seed: Plant this on your farm. It's honest work.
+Potato Seed: Plant this on your farm. Adventurers would often use potatos to show others their desire to dungeon delve with one another.
+Rice Seed: Plant this on your farm. 
+Tomato Seed: Plant this on your farm. Definitely a Vegetable.
+Wildberry Bush Seed: Plant this on your farm. 
+Chili Pepper Seed: Plant this on your farm.
+Pumpkin Seed: Plant this on your farm. 
+Mushroom Spore: Plant this on your farm.
+Tree Seed: Plant this on your farm. Good place to take naps under.
+Oak Tree Seed: Plant this on your farm.
+Willow Tree Seed: Plant this on your farm.
+Maple Tree Seed: Plant this on your farm. Sometimes sticky sap is found on this tree, but its safe to ignore.
+Yew Tree Seed: Plant this on your farm.
+Banana Tree Seed: Plant this on your farm.
+Apple Tree Seed: Plant this on your farm. Not a good place to take naps under.
 Elder Tree Seed: Every type of forest can be traced back to one of these trees.
-Sageberry Bush Seed: It may be wise to plant this.
+Sageberry Bush Seed: It may be wise to plant this on your farm.
 Mysterious Seed: Life is not necessarily the opposite of corruption. I wonder what this could grow into?
-Bronze Bar: Used as a crafting material.
+Bronze Bar: Used as a basic crafting material.
 Iron Bar: May be used to craft iron equipment or to augment obsidian gear.
 Gold Bar: May be used to craft or augment jewelry. Sadly you aren't authorized to create your own currency.
 Mithril Bar: May be used to craft mithril equipment or to augment obsidian gear.
