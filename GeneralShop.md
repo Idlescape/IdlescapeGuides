@@ -1,0 +1,1 @@
+The general shop is where you'll go in order to sell and buy other items from players. 
