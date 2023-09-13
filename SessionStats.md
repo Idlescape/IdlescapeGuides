@@ -1,0 +1,1 @@
+Here you can see the items, experience, and levels you have gained, or lost, within the current session. It will also show how many enchantment procs you've had within the session.
