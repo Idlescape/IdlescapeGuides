@@ -2,5 +2,3 @@ The Shrine is an optional activity that all players can access and benefit from 
 <br />
 In order to make an offering, input the amount of gold you wish to offer in the text box below, then click "OFFER" to confirm. 
 <br />
-<b> Buffs that can appear </b>
-(List of buffs that can appear within the shrine so players can stop asking.)
