@@ -1,1 +1,2 @@
 Updated tooltips for most fish to reflect their use in cooking and baits. Updated Sand, Stone, Clay, fertilizer, and void stones. Seeds too. 9/8 -Fey
+Added and Updated "guides" for the other tabs within the game. 9/12 - Fey
