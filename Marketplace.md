@@ -6,4 +6,4 @@ In order to sell items on the market, you can click the "Sell" button also in th
 <b> Buying </b>
 In order to buy items, click on the item you desire to purchase, then click again on the desired listing. This will bring up another menu asking how many of the item you wish to purchase, before showing you a price in gold that you will be spending to do so. If satisfied with the option, you can click "Buy" to complete the purchase. Items purchased will automatically be placed within your stockpile, ready to be used.
 <br />
-When inputting an amount, you can use K, M, and B as values. For example: 4k for 4,000, 7.5M for 7,500,000 or 2.5B for 2,500,000,000
+When inputting an amount, you can use K, M, and B to quickly enter values. For example: 4k for 4,000, 7.5M for 7,500,000 or 2.5B for 2,500,000,000
