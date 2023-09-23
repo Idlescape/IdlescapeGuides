@@ -1,5 +1,5 @@
 Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
-Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood, and coal.
+Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood and coal.
 Air Essence: Air Essence can be gathered by waiting patiently.
 Earth Essence: Earth Essence can be gathered while mining.
 Fire Essence: Fire Essence can be gathered while smithing or cooking.
@@ -54,11 +54,11 @@ Peppercorn Seed: Plant this on your farm. May cause uncontrolled sneezing on har
 Sugarcane Seed: Plant this on your farm for a sweet treat.
 Wheat Seed: Plant this on your farm. It's honest work.
 Potato Seed: Plant this on your farm. Adventurers would often use potatos to show others their desire to dungeon delve with one another.
-Rice Seed: Plant this on your farm. 
+Rice Seed: Plant this on your farm.
 Tomato Seed: Plant this on your farm. Definitely a Vegetable.
-Wildberry Bush Seed: Plant this on your farm. 
+Wildberry Bush Seed: Plant this on your farm.
 Chili Pepper Seed: Plant this on your farm.
-Pumpkin Seed: Plant this on your farm. 
+Pumpkin Seed: Plant this on your farm.
 Mushroom Spore: Plant this on your farm.
 Tree Seed: Plant this on your farm. Good place to take naps under.
 Oak Tree Seed: Plant this on your farm.
@@ -741,7 +741,7 @@ Frost Maul: A hulking mass of snow covered ice.
 Abusive: gamster
 Elite Titan Helm: A particularly intricate helmet, far more than the average Titan would wear.
 Ancient Crown: An incredible old crown. Could be a bracelet if you are a giant.
-Idlescape Bond: A token that can be redeemed for a month of Idlescape Plus. Can be traded in the Marketplace. 
+Idlescape Bond: A token that can be redeemed for a month of Idlescape Plus. Can be traded in the Marketplace.
 Has an increased tax-rate of 20% when sold on the Marketplace. WIP: NO FUNCTIONALITY YET
 Character Token: A token that can be redeemed for a new character slot.
 Active Character Token: A token that can be redeemed for a new active character slot. NOTE: You can only have one Default league character active at the same time.

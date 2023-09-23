@@ -30,7 +30,7 @@ amount of essence they reward, depending on other factors.
 Talismans can be found by opening up a Geode, Bird's Nest, Sunken Treasure, or a Satchel from Combat. The
 first time you consume a Talisman, you'll triple your passive essence gained, afterwards, anytime you
 consume a Talisman, it'll reward you with a random amount of Essence between 35k to 50k based on the type of Talisman consumed.
-Talismans can be also crafted with an Unstable Talisman and some Essence, making Essence sellable.{' '}
+Talismans can be also crafted with an Unstable Talisman and some Essence, making Essence sellable.
 
 ## Cloth Weaving itemIcon(itemsIds.imbued_cloth)
 Runecrafting can additionally create Imbued Cloth, which requires Aquatic Fibers gathered from Fishing.
