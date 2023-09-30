@@ -836,7 +836,7 @@ Barrows Cache: A cache containing loot from the Ancient Barrows. Its a bit dusty
 Flaming Cache: A cache containing loot from the Palace of Flames. Its still warm.
 Storm Cache: A cache containing loot from the Eye of the Storm. You feel as if you're being watched.
 Maelstrom Cache: A cache containing loot from the Maelstrom. It whispers to you.
-INFO Cache: A cache containing loot from INFO himself. They see you as worthy.
+INFO Cache: A cache containing loot from INFO themself. They see you as worthy.
 Ancient Cache: undefined
 Dwarven Research Cache: A cache containing loot from a Dwarven Research Station. What secrets does it contain?
 Elven Research Cache: A cache containing loot from the Nature Athaneum. What secrets does it contain?
