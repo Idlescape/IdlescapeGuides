@@ -8,7 +8,7 @@ Both your equipment and your skill levels decide how effective you are in combat
 work in order to make effective loadouts. Combat is broken into six skills, each with their own experience and how to earn it.
 Constitution: Earned when other Combat experience is earned.
 Attack: Landing hits in Combat.
-Defense: Taking and mitigating damage in Combat.
+Defense: Taking, mitigating and dodging damage in Combat.
 Strength: Dealing damage with Melee related skills.
 Magic: Dealing damage with Magic related skills.
 Ranged: Dealing damage with Ranged related skills.
