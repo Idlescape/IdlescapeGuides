@@ -23,14 +23,14 @@ Each rune crafted is worth 25 experience. Without any additional factors, you wi
 
 ## Essence and Runes
 In order to create runes, one must gather essence. Essence is earned at a base rate of 3 per action, which
-can be increased to 9 once you find and consume a Talisman. However, some actions have multipliers to the
+can be increased to 9 once you find and consume a talisman. However, some actions have multipliers to the
 amount of essence they reward, depending on other factors.
 
 ## Talismans itemIcon(itemsIds.unstable_talisman)
 Talismans can be found by opening up a Geode, Bird's Nest, Sunken Treasure, or a Satchel from Combat. The
-first time you consume a Talisman, you'll triple your passive essence gained, afterwards, anytime you
-consume a Talisman, it'll reward you with a random amount of Essence between 35k to 50k based on the type of Talisman consumed.
-Talismans can be also crafted with an Unstable Talisman and some Essence, making Essence sellable.
+first time you consume a talisman, you'll triple your passive essence gained, afterwards, anytime you
+consume a talisman, it'll reward you with a random amount of Essence between 35k to 50k based on the type of talisman consumed.
+Talismans can be also crafted with an Unstable Talisman and 50k Essence, making Essence sellable.
 
 ## Cloth Weaving itemIcon(itemsIds.imbued_cloth)
 Runecrafting can additionally create Imbued Cloth, which requires Aquatic Fibers gathered from Fishing.

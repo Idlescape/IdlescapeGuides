@@ -57,8 +57,8 @@ Potato Seed: Plant this on your farm. Adventurers would often use potatos to sho
 Rice Seed: Plant this on your farm.
 Tomato Seed: Plant this on your farm. Definitely a Vegetable.
 Wildberry Bush Seed: Plant this on your farm.
-Chili Pepper Seed: Plant this on your farm.
-Pumpkin Seed: Plant this on your farm.
+Chili Pepper Seed: Plant this on your farm. Even the seeds are hot to the touch.
+Pumpkin Seed: Plant this on your farm. The orange melon.
 Mushroom Spore: Plant this on your farm.
 Tree Seed: Plant this on your farm. Good place to take naps under.
 Oak Tree Seed: Plant this on your farm.
@@ -74,24 +74,24 @@ Bronze Bar: Used as a basic crafting material.
 Iron Bar: May be used to craft iron equipment or to augment obsidian gear.
 Gold Bar: May be used to craft or augment jewelry. Sadly you aren't authorized to create your own currency.
 Mithril Bar: May be used to craft mithril equipment or to augment obsidian gear.
-Adamantite Bar: A rather limited, yet hard, metal. May only be used to create Adamantite gear.
+Adamantite Bar: A rather limited, yet hard, metal. May be used to create Adamantite gear and some hooks.
 Runite Bar: One of the toughest natural metals. May be used to craft Runite equipment.
 Stygian Bar: An unnaturally tough metal that is almost crystalline in nature. May be used to craft Stygian equipment.
 Chaotic Crystal: A condensed crystal formed through processing a large amount of void stones. May be used to craft or enhance unique equipment.
 Obsidian Glass: A splinter of mildly reflective obsidian glass; can be used to augment obsidian or obsidian-adjacent gear.
 Golem Marrow: A piece of golem marrow, the lifeblood of an artificial construct.
-Chaos Stone: A shard of chaotic essence that is not only contained, but refined. The process to do this is forever lost to the ages.
-Living Shard: A shard of dense material that pulsates with life. Could it be the heart of some undying creature?
-Runed Stone: An impossibly heavy stone tablet bearing an unknown rune that still glows with power.
-Magma Core: A chunk of stone with an unquenchable fire burning within. What could you do with this?
-Heavy Chaos Shard: An unrefined splinter of chaotic energy. Though dulled compared to the chaos it was drawn from, it may still have a potent effect.
-Worn Ancient Splinter: A splinter of some long lost metal; it has more in common with stone than it does metal and would require a master craftsman to work it.
-Royal Ice Shard: A somewhat workable shard of frozen stone sourced from the frozen wastes within the Valley of Giants. Appears to be a material commonly used by Ice Giants to form their accessories; perhaps you could make something useful with it?
+Chaos Stone: Crafting Material. A shard of chaotic essence that is not only contained, but refined. The process to do this is forever lost to the ages.
+Living Shard: Crafting Material. A shard of dense material that pulsates with life. Could it be the heart of some undying creature?
+Runed Stone: Crafting Material. An impossibly heavy stone tablet bearing an unknown rune that still glows with power.
+Magma Core: Crafting Material. A chunk of stone with an unquenchable fire burning within. What could you do with this?
+Heavy Chaos Shard: Crafting Material. An unrefined splinter of chaotic energy. Though dulled compared to the chaos it was drawn from, it may still have a potent effect.
+Worn Ancient Splinter: Crafting Material. A splinter of some long lost metal; it has more in common with stone than it does metal and would require a master craftsman to work it.
+Royal Ice Shard: Crafting Material. A somewhat workable shard of frozen stone sourced from the frozen wastes within the Valley of Giants. Appears to be a material commonly used by Ice Giants to form their accessories; perhaps you could make something useful with it?
 Branch: Used as a crafting material or turned into heat.
 Log: Used as a crafting material or turned into heat.
 Oak Log: Used as a crafting material or turned into heat.
 Willow Log: Used as a crafting material or turned into heat.
-Maple Log: Used as a crafting material or turned into heat.
+Maple Log: Used as a crafting material or turned into heat. Still sticky somehow.
 Yew Log: Used as a crafting material or turned into heat.
 Elder Log: Used as a crafting material or turned into heat.
 Sapphire: An inexpensive blue gem that may be used for crafting.
@@ -146,8 +146,8 @@ Prismatic Necklace: A necklace capable of holding extraordinary enchantments.
 Prismatic Ring: A ring capable of holding extraordinary enchantments.
 Black Opal Ring: A ring capable of holding powerful enchantments.
 Black Opal Necklace: A necklace capable of holding powerful enchantments.
-Gold Ring: undefined
-Gold Necklace: undefined
+Gold Ring: A simple golden ring, ready to hold limitless potential.
+Gold Necklace: A simple golden necklace, ready to hold limitless potential.
 Corrupted Ring: None are incorruptible. Succumb to the hunger.
 Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman.
 Ancient Fire Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of flame.
@@ -179,7 +179,7 @@ Fishing Net: A rough net assembled from branches. Used as part of tackleboxes an
 Fly Fishing Rod: String on a stick. Used as part of tackleboxes and other fishing gear.
 Cage: An iron cage. Used as part of tackleboxes and other fishing gear.
 Harpoon: A barbed spear. Used as part of tackleboxes and other fishing gear.
-Feather: undefined
+Feather: Useful for making ranged ammunition.
 Fish Oil: Ew, slimy. Should make logs burn longer or make cooking faster, though!
 Pyre Log: These can be burned for some heat.
 Pyre Oak Log: These can be burned for moderate heat.
@@ -189,13 +189,13 @@ Pyre Yew Log: These can be burned for massive heat.
 Pyre Elder Log: These can be burned for massive heat.
 Ichor: A strange substance found in the presence of demons.
 Phoenix's Feather: A white-hot feather taken from a fallen phoenix.
-Geode: undefined
-Bird's Nest: undefined
-Sunken Treasure: undefined
-Satchel: undefined
-Ancient Treasure: undefined
-Greater Geode: undefined
-Greater Bird's Nest: undefined
+Geode: Perhaps you could crack this open?
+Bird's Nest: You see various seeds as well as some strange items inside. Is that a glint of gold?
+Sunken Treasure: Who knows what the sea holds? You could if you opened it.
+Satchel: Strange that a monster had this, perhaps it belonged to an adventurer? Might as well open it, as they don't need it anymore.
+Ancient Treasure: It's said that these might contain ancient tools, open it and see if you are lucky.
+Greater Geode: Bigger than a normal geode, that's for sure. Wonder why the dwarves were so interested in these... Only one way to find out.
+Greater Bird's Nest: What kind of bird would use this nest? Whatever it was, it liked picking up odd items... Open it to see what is inside.
 Bronze Scimitar: undefined
 Bronze Battleaxe: undefined
 Bronze Daggers: undefined
@@ -204,10 +204,10 @@ Iron Scimitar: undefined
 Iron Battleaxe: undefined
 Iron Daggers: undefined
 Iron Greatsword: undefined
-Obsidian Scimitar: undefined
+Obsidian Scimitar: You feel hidden potential in this blade...
 Obsidian Battleaxe: undefined
-Obsidian Daggers: undefined
-Obsidian Greatsword: undefined
+Obsidian Daggers: You feel hidden potential in these daggers...
+Obsidian Greatsword: You feel hidden potential in this sword... Something great...
 Mithril Scimitar: undefined
 Mithril Battleaxe: undefined
 Mithril Daggers: undefined
@@ -216,7 +216,7 @@ Adamantite Scimitar: undefined
 Adamantite Battleaxe: undefined
 Adamantite Daggers: undefined
 Adamantite Greatsword: undefined
-Runite Scimitar: undefined
+Runite Scimitar: A decent blade, you feel lightning form whenever you augment this.. before it suddenly vanishes. Strange.
 Runite Battleaxe: undefined
 Runite Daggers: undefined
 Runite Greatsword: undefined
@@ -226,21 +226,21 @@ Stygian Daggers: undefined
 Stygian Greatsword: undefined
 Bronze Helm: undefined
 Iron Helm: undefined
-Obsidian Helm: undefined
+Obsidian Helm: You feel hidden fiery potential in this helm...
 Mithril Helm: undefined
 Adamantite Helm: undefined
 Runite Helm: undefined
 Stygian Helm: undefined
 Bronze Full Helm: undefined
 Iron Full Helm: undefined
-Obsidian Full Helm: undefined
+Obsidian Full Helm: You feel hidden powerful potential in this full helm...
 Mithril Full Helm: undefined
 Adamantite Full Helm: undefined
 Runite Full Helm: undefined
 Stygian Full Helm: undefined
 Bronze Shield: undefined
 Iron Shield: undefined
-Obsidian Shield: undefined
+Obsidian Shield: You feel hidden potential in this shield...
 Mithril Shield: undefined
 Adamantite Shield: undefined
 Runite Shield: undefined
@@ -251,7 +251,7 @@ Bronze Chainmail: undefined
 Iron Breastplate: undefined
 Iron Chainmail: undefined
 Obsidian Breastplate: undefined
-Obsidian Chainmail: undefined
+Obsidian Chainmail: You feel hidden potential in the chainmail...
 Mithril Breastplate: undefined
 Mithril Chainmail: undefined
 Adamantite Breastplate: undefined
@@ -262,14 +262,14 @@ Stygian Breastplate: undefined
 Stygian Chainmail: undefined
 Bronze Plate Leggings: undefined
 Iron Plate Leggings: undefined
-Obsidian Plate Leggings: undefined
+Obsidian Plate Leggings: You feel hidden potential in these legs... The armor, not your legs.
 Mithril Plate Leggings: undefined
 Adamantite Plate Leggings: undefined
 Runite Plate Leggings: undefined
 Stygian Plate Leggings: undefined
 Bronze Boots: These boots cannot be traded.
 Iron Boots: These boots cannot be traded.
-Obsidian Boots: undefined
+Obsidian Boots: You feel hidden potential in these boots...
 Mithril Boots: These boots cannot be traded.
 Adamantite Boots: These boots cannot be traded.
 Runite Boots: These boots cannot be traded.
@@ -389,9 +389,9 @@ Greater Imbued Charm: Imbued energy within this stone is released when casting s
 Ancient Imbued Charm: Created by a technique lost to time. Massively empowers casted spells.
 Dwarven Whetstone: Created by a technique lost to time. Massively improves your weapons performance.
 Elven Ammo: Created by a technique lost to time. Whatever magic empowers this ammo massively improves your weapons performance.
-Santa Hat: undefined
-Snowman Head: undefined
-Tophat: undefined
+Santa Hat: Tis the season.
+Snowman Head: You'd be surprised how comfortable this feels.
+Tophat: For the classy ones.
 Lesser Ladle: This could help you with cooking even if it doesn't look like much! Grants 2 hidden levels of haste while cooking.
 Ladle: This could help you with cooking! Grants 2 hidden levels of haste while cooking.
 Greater Ladle: For when you're allowed only a single spoonful. Grants 2 hidden levels of haste while cooking.
@@ -413,7 +413,7 @@ Gargoyle Helm: undefined
 Gargoyle Shield: undefined
 Gargoyle Falchion: undefined
 Gargoyle Daggers: undefined
-Gargoyle Glaive: undefined
+Gargoyle Glaive: You feel like there is more potential to be unlocked here...
 Infernal Lance: A legendary weapon of great prestige and power.
 Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
 Chorus of Souls: It wails with every swing. Unnerving.
@@ -434,7 +434,7 @@ Giant Scraps: It would take a master craftsman to reshape this into something us
 World Walkers: No terrain is too difficult to traverse with these on.
 Giant King's Nails: ... You could try cooking it?
 Cooked Giant King's Nails: Why would you eat this? That's disgusting.
-Crystal Mace: A manifested shard of chaos. If only you knew how to utilize it's energy to perform magic!
+Crystal Mace: A manifested shard of chaos. It's able to channel magic fairly well, but seems unstable.
 Signet Ring: Carries the signature of some unknown entity.
 Mantle of Flame: Wrap yourself in the cozy flames of a dying star and be reborn.
 Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey at extreme range.
@@ -455,15 +455,15 @@ Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched a
 Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
 Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
 Razorfin: A large scimitar taken from a fish! You could probably use it as a paddle! Seems mildly magical, almost...
-Elven Quiver: undefined
-Magic Quiver: undefined
+Elven Quiver: This enchanted quiver of elven make is said to hold limitless ammunition, but it actually just teleports the ammo back into the quiver... sometimes.
+Magic Quiver: A poor imitation of an elven quiver, but perhaps it just needed a bit more magic. Gets the job done however.
 Defender's Band: A ring fashioned from the cornerstone of a great castle.
 Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
 Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
 Devourer's Band: What was, will be. What will be, was.
 Slayer's Pendant: A pendant depicting a sword through a skull. Small enough to fit in the palm of your hand!
 Alacrity Pendant: A pendant with a lightning bolt engraved on it. Though it greatly increases your speed, it also makes it harder to be accurate.
-Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience.
+Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience. Not even the dead can escape taxes.
 Wrath and War: The demonic embodiment of Wrath and War. 'Warth'? Quite mad.
 Shrimp Scepter: undefined
 Shrimp Stinger: undefined
@@ -482,98 +482,98 @@ Master Parrying Gauntlet: A parrying gauntlet for a true master, designed to giv
 Expert Parrying Gauntlet: An expert's tool to more reliably parry enemy attacks. Much more effective than its beginner counterpart.
 Beginner Parrying Gauntlet: A beginner's tool to parry and immediately strike an opponent's attack. While it may work sometimes, it's not very reliable.
 Scroll: Used in magic to store magical properties: enchantments.
-Scroll of Embers: undefined
-Scroll of the Prospector: undefined
-Scroll of the Scholar: undefined
-Scroll of Gathering: undefined
-Scroll of Superheating: undefined
-Scroll of Pyromancy: undefined
-Scroll of Wealth: undefined
-Scroll of Haste: undefined
-Scroll of Naturalist: undefined
+Scroll of Embers: Foraging Enchantment. You aren't sure how it works. You just know it does. Best to not ask questions.
+Scroll of the Prospector: Mining Enchantment. Makes your pick more likely to find gems and silver.
+Scroll of the Scholar: Skilling Enchantment. Who needs material wealth when you have knowledge? Just don't forget to take it off.
+Scroll of Gathering: Gathering Enchantment. Magically creates more materials! Wow!
+Scroll of Superheating: Mining Enchantment. Seems to help target those high value ores.
+Scroll of Pyromancy: Skilling Enchantment. Helps with reducing heat costs, or at least makes you more efficent with heat.
+Scroll of Wealth: Skilling Enchantment. Some would say you have the Midas touch. Others would ask who Midas is.
+Scroll of Haste: Skilling Enchantment. Thanks to advancements in magic, you can now work more in less time!
+Scroll of Naturalist: Gathering Enchantment. Helps you to find those hidden treasures all the more better.
 Scroll of Acrobatics: undefined
-Scroll of Critical Strike: undefined
+Scroll of Critical Strike: Combat Enchantment. No need to hit harder, just aim for the weakspots.
 Scroll of Poisoning: undefined
-Scroll of Accuracy: undefined
+Scroll of Accuracy: Combat Enchantment. Tired of missing those monsters?
 Scroll of Deflect: undefined
-Scroll of Force: undefined
-Scroll of Healing: undefined
-Scroll of Weakening: undefined
-Scroll of Reinforcement: undefined
-Scroll of Protection: undefined
+Scroll of Force: Combat Enchantment. Use your defensive capabilities aggressively.
+Scroll of Healing: Combat Enchantment. Somehow makes food more tasty, as well as you more healthy! 
+Scroll of Weakening: Combat Enchantment. It's okay you're not strong enough, just pretend you are.
+Scroll of Reinforcement: Combat Enchantment. Makes one harder to hit.
+Scroll of Protection: Combat Enchantment. This isnt what they meant by bulking up, but it works.
 Scroll of Parry: undefined
-Scroll of False Equilibrium: undefined
-Scroll of Efficiency: undefined
-Scroll of Fishing: undefined
-Scroll of Cooking: undefined
-Scroll of Crafting: undefined
-Scroll of Refining: undefined
-Scroll of Runecrafting: undefined
-Scroll of Chances: undefined
-Scroll of the Shrimp Lord: undefined
-Scroll of Enlightenment: undefined
-Scroll of Prolonging: undefined
-Scroll of the Treasure Hunter: undefined
-Scroll of Inferno: undefined
-Scroll of Destructive Testing: undefined
-Scroll of Nature: undefined
-Scroll of Root Digging: undefined
-Scroll of Patience: undefined
-Scroll of Overhealing: undefined
-Scroll of Farming: undefined
-Scroll of the Gold Digger: undefined
-Scroll of Fertilizing: undefined
-Scroll of Cultivation: undefined
-Scroll of Fortitude: undefined
-Scroll of Pungent Bait: undefined
-Scroll of Reinforced Line: undefined
-Scroll of Fishing Magnetism: undefined
-Scroll of Bait Preservation: undefined
-Scroll of Oil Spill: undefined
-Scroll of Deadliest Catch: undefined
-Scroll of the Master Chef: undefined
-Scroll of the Herbalist: undefined
-Scroll of Seed Harvesting: undefined
-Scroll of Metallurgy: undefined
-Scroll of Pure Metals: undefined
-Scroll of Essence Concentration: undefined
-Scroll of the Fiber Finder: undefined
-Scroll of Archaeology: undefined
-Scroll of Endless Ammo: undefined
-Scroll of Rune Reserves: undefined
-Scroll of the Soul Wisdom: undefined
-Scroll of Overly Well Done: undefined
-Scroll of Recklessness: undefined
-Scroll of Engraving: undefined
-Scroll of Resistance: undefined
-Scroll of Supercooling: undefined
-Scroll of Dwarven Engineering: undefined
-Raw Chicken: Clucked its last cluck.
-Raw Beef: Fresh, never frozen!
-Spider Legs: It is somehow difficult to thread on a skewer.
-Goblin Brain: They are dumb. They are sad. Their brain run by Runecrafting. Beat them.
-Pepper: Don't sneeze or you'll dump too much ore into the forge! Achoo!
-Salt: For some reason it reminds you of yourself. A great chef! ... Probably.
-Ashes: The remnants of life.
-Sugar: A sugar rush would definitely make you more efficient!
-Honey: Why do fish like this so much?
-Milk: mooooooooo
-Butter: undefined
-Egg: GEG, scrambled egg.
-Mushroom: Kinda makes you feel like checking the roots of things.
-Carrot: Build your own snowman kit. Just add water and coal!
-Chili Pepper: So hot you feel like you could almost smelt ores with it!
-Potato: What's 'taters, eh?
-Pumpkin: Such a weird carrot!
-Tomato: Definitely a fruit.
-Apple: Didn't fall far from the tree.
-Wildberry: Like a blueberry, but wild.
-Banana: Gather 'em up in bunches!
-Wheat: How many of these do I need to make a Straw Hat?
-Rice: You're telling me a Limpe fried this rice?
-Sageberry: The ultimate big brain berry.
-Choccy Milk: Do you even know what chocolate is? ... Well, it's brown.
-Questionable Food: You're not quite sure what this is supposed to be.
+Scroll of False Equilibrium: Combat Enchantment. Everything has its ups and downs...
+Scroll of Efficiency: Skilling Enchantment. Best to not let those extra materials go to waste.
+Scroll of Fishing: Fishing Enchantment. Adventures fear you. Fish want you.
+Scroll of Cooking: Cooking Enchantment. No need to waste years of training to become a master chef, but you should still probably practice...
+Scroll of Crafting: Crafting Enchantment. There is always improvements to be found in recipes...
+Scroll of Refining: Smithing Enchantment. Helps to filter out those impurities into something better.
+Scroll of Runecrafting: Runecrafting Enchantment. Helps you channel essence more efficiently.
+Scroll of Chances: Augmentation Enchantment. To help you find any hidden potential in items.
+Scroll of the Shrimp Lord: Cooking Enchantment. The shrimp calls. It beckons... Something sinister.
+Scroll of Enlightenment: General Enchantment. You'll be able to gather more essence from actions.
+Scroll of Prolonging: Combat Enchantment. Able to take that extra mile with potions and buffs.
+Scroll of the Treasure Hunter: Combat Enchantment. Gives you a keen eye for any treasure monsters might have.
+Scroll of Inferno: Cooking/Smithing Enchantment. Once you get into the flow of it, nothing can stop you.
+Scroll of Destructive Testing: Mining Enchantment. Who knew breaking rocks could give one so much knowledge.
+Scroll of Nature: Foraging Enchantment. No tree is safe from you.
+Scroll of Root Digging: Foraging Enchantment. A glint of light within nature often leads to hidden treasure.
+Scroll of Patience: Combat Enchantment. You might not be the fastest... but you sure hit the hardest.
+Scroll of Overhealing: Combat Enchantment. Why waste all of that power? Why not use it to sustain oneself...
+Scroll of Farming: Farming Enchantment. It's an honest life, one to be proud of.
+Scroll of the Gold Digger: Farming Enchantment. It's an honest life, one that pays.
+Scroll of Fertilizing: Farming Enchantment. Careful care of ones plants will bring you the highest yeilds.
+Scroll of Cultivation: Farming Enchantment. Nature always has it's ways of keeping itself going.
+Scroll of Fortitude: Combat Enchantment. The healthy option.
+Scroll of Pungent Bait: Fishing Enchantment. While fish love the smell of it, others seem to keep away from you.
+Scroll of Reinforced Line: Fishing Enchantment. Able to catch the toughest of fish, you'll be reeling them in quickly.
+Scroll of Fishing Magnetism: Fishing Enchantment. While slower then other methods, the fish do seem to actually just stick to your line.
+Scroll of Bait Preservation: Fishing Enchantment. Why constantly buy more bait when you can just reuse it?
+Scroll of Oil Spill: Fishing Enchantment. You're not sure how this works, but its better to just accept it does... 
+Scroll of Deadliest Catch: Fishing Enchantment. Your reckless use of bait seems to actually make it better.
+Scroll of the Master Chef: Cooking Enchantment. All those years perfecting your cooking has paid off.
+Scroll of the Herbalist: Foraging Enchantment. What other see as grass, you see as a potent ingredient.
+Scroll of Seed Harvesting: Foraging Enchantment. The true bounty of the woods is what you can grow yourself.
+Scroll of Metallurgy: Smithing Enchantment. Increases your heat tolerance, slightly.
+Scroll of Pure Metals: Smithing Enchantment. You know quality ore when you see it, and you only use the best.
+Scroll of Essence Concentration: Runecrafting Enchantment. Using large amounts of essence, you can create so much more...
+Scroll of the Fiber Finder: Fishing Enchantment. Attune yourself to the magic of the ocean.
+Scroll of Archaeology: Gathering Enchantment. Find everything the world might hide from you. Even Junk.
+Scroll of Endless Ammo: Combat Enchantment. Its not actually endless, but the enemy doesn't need to know that.
+Scroll of Rune Reserves: Combat Enchantment. Use every rune for what it is worth... Waste nothing.
+Scroll of the Soul Wisdom: General Enchantment. Your gear should be an extension of you... of your soul.
+Scroll of Overly Well Done: Cooking Enchantment. We learn the most from our failures, or so you are told.
+Scroll of Recklessness: Combat Enchantment. Charge into battle without fear, you'll have time later for those wounds...
+Scroll of Engraving: Runecrafting Enchantment. Such delicate work.
+Scroll of Resistance: Combat Enchantment. The mages of the land mean nothing to you now.
+Scroll of Supercooling: Mining Enchantment. Seems to target the more common ores.
+Scroll of Dwarven Engineering: Mining Enchantment. The dwarves of old knew how to extract the most resources from the land... This is only a fraction of what they knew.
+Raw Chicken: Cooking Ingredient. Clucked its last cluck.
+Raw Beef: Cooking Ingredient. Fresh, never frozen!
+Spider Legs: Cooking Ingredient. It is somehow difficult to thread on a skewer.
+Goblin Brain: Cooking Ingredient. They are dumb. They are sad. Their brain run by Runecrafting. Beat them.
+Pepper: Cooking Ingredient. Don't sneeze or you'll dump too much ore into the forge! Achoo!
+Salt: Cooking/Crafting Ingredient. For some reason it reminds you of yourself. A great chef! ... Probably.
+Ashes: Cooking Ingredient. The remnants of life.
+Sugar: Cooking Ingredient. A sugar rush would definitely make you more efficient!
+Honey: Cooking Ingredient. Why do fish like this so much?
+Milk: Cooking Ingredient. mooooooooo
+Butter: Cooking Ingredient. This really didnt take a lot of effort to make like everyone is saying...
+Egg: Cooking Ingredient. GEG, scrambled egg.
+Mushroom: Cooking Ingredient. Kinda makes you feel like checking the roots of things.
+Carrot: Cooking Ingredient. Build your own snowman kit. Just add water and coal!
+Chili Pepper: Cooking Ingredient. So hot you feel like you could almost smelt ores with it!
+Potato: Cooking Ingredient. What's 'taters, eh?
+Pumpkin: Cooking Ingredient. Such a weird melon!
+Tomato: Cooking Ingredient. Definitely a fruit.
+Apple: Cooking Ingredient. Didn't fall far from the tree.
+Wildberry: Cooking Ingredient. Like a blueberry, but wild.
+Banana: Cooking Ingredient. Gather 'em up in bunches!
+Wheat: Cooking Ingredient. How many of these do I need to make a Straw Hat?
+Rice: Cooking Ingredient. You're telling me a Limpe fried this rice?
+Sageberry: Cooking Ingredient. The ultimate big brain berry.
+Choccy Milk: Cooking Ingredient. Do you even know what chocolate is? ... Well, it's brown.
+Questionable Food: You're not quite sure what this is supposed to be. Are you really going to eat it?
 Monster Surprise: ... Probably edible!
 Seared Steak: A nice juicy steak.
 Seared Fish: You're not entirely sure which fish this is, but it's definitely seared!
@@ -719,9 +719,9 @@ Superior Reindeer Hunters' Armor: The skull whispers to you softly, urging you t
 Superior Reindeer Hunters' Leggings: The hide might not have protected the reindeer, but it will protect you.
 Superior Christmas Lights: For the naughty!
 SuperSled 9001: It's over 9000!
-Magical Snowball: undefined
-Candy Cane Daggers: undefined
-Festive Shroud: undefined
+Magical Snowball: Thankfully its magical and not lemon infused.
+Candy Cane Daggers: Best to not lick these.
+Festive Shroud: Makes you feel rather jolly. 
 Merry Maker's Mittens: A pair of mittens to keep you warm in the bitter cold! Wait, are they fingerless?
 Mistletoe Treads: For treading on snow or enemy faces.
 Magic Ice Bar: A coalesced bar of magic ice. Cold to the touch!
@@ -825,22 +825,22 @@ Box of Skill Books: An ornate lockbox containing a variety of skill books. Testi
 Box of Jewelry: An ornate lockbox containing a variety of skill books. Testing Item.
 Magic Starter Kit: A simple pouch containing some starter supplies. Will eventually be tied to a tutorial quest.
 Range Starter Kit: A simple pouch containing some starter supplies. Will eventually be tied to a tutorial quest.
-Lesser Jewelry Cache: undefined
-Greater Jewelry Cache: undefined
-Goblin Cache: undefined
-Dark Cache: undefined
-Giant Cache: undefined
-Elder Cache: undefined
-Overgrown Cache: undefined
-Barrows Cache: undefined
-Flaming Cache: undefined
-Storm Cache: undefined
-Maelstrom Cache: undefined
-INFO Cache: undefined
+Lesser Jewelry Cache: A small cache of jewelry, might contain something useful.
+Greater Jewelry Cache: A grand cache of jewelry, might contain something useful.
+Goblin Cache: A cache containing loot from a Goblin Settlement. Smells like one too.
+Dark Cache: A cache containing loot from a Dark Fortress. It feels powerful.
+Giant Cache: A cache containing loot from the Giants Keep. Its incredibly heavy.
+Elder Cache: A cache containing loot from the Elders Ruin. It looks very elegent.
+Overgrown Cache: A cache containing loot from an Old Castle. There are still vines on it and some bite marks.
+Barrows Cache: A cache containing loot from the Ancient Barrows. Its a bit dusty.
+Flaming Cache: A cache containing loot from the Palace of Flames. Its still warm.
+Storm Cache: A cache containing loot from the Eye of the Storm. You feel as if you're being watched.
+Maelstrom Cache: A cache containing loot from the Maelstrom. It whispers to you.
+INFO Cache: A cache containing loot from INFO himself. They see you as worthy.
 Ancient Cache: undefined
-Dwarven Research Cache: undefined
-Elven Research Cache: undefined
-Academy Research Cache: undefined
+Dwarven Research Cache: A cache containing loot from a Dwarven Research Station. What secrets does it contain?
+Elven Research Cache: A cache containing loot from the Nature Athaneum. What secrets does it contain?
+Academy Research Cache: A cache containing loot from the Abandoned Academy Base. What lost secrets does it contain?
 Novice Tacklebox: A beginner's novice tacklebox designed to be used by children. Not much good to catch anything large.
 Basic Tacklebox: A basic fishing tacklebox aimed for use by hobbyists and amateurs for basic fishing adventures to the local river or pond.
 Advanced Tacklebox: An advanced fishing tacklebox for those who've gotten more than their toes wet in fishing.
