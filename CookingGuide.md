@@ -1,6 +1,6 @@
-Cooking is a somewhat complex skill that requires a bit of messing around with ingredients to get a solid
+Cooking is a complex skill that requires a bit of experimenting with ingredients to get a solid
 grasp on, however it is a very useful skill to help supply you with all your food and potion needs. In order
-to start, one would throw some ingredients into their cooking pot, such as one carrot and one shrimp in
+to start, you need to throw some ingredients into the cooking pot, such as one carrot and one shrimp in
 order to make a dish/meal. The listed ingredients above will make a Kebab +0, which is a decent food option
 starting out. The +0 comes from the size of ingredients added, which can be improved by adding more of the
 same ingredients. You also get +1 for every 30 effective cooking levels.
@@ -15,21 +15,24 @@ Difficulty is how complex a dish is made by
 adding it to the pot, which in turn makes the success rate lower and the time to cook higher. The higher
 your effective level, the more complex dishes one can make.
 <br/>
-Size on the other hand, is the size of the
-ingredients Tag, such as three Vegetables for a Pumpkin or Two Meat and Fish for a Raw Trout. These play a
+Size is the amount of the ingredient, such as three Vegetables for a Pumpkin or Two Meat and Fish for a Raw Trout. These play a
 hand in recipes such as the Kebab mentioned above which requires at least one Veggie and one Meat to create.
 You can make a stronger level of Kebabs by doing 1x Pumpkin and 1x Raw Tuna which would come out as a higher
-quality. Another Decent but advanced food is 1x Raw Beef, Raw Chicken and Raw Trout which would be Meat
+quality. Another Decent but advanced food is 1x Raw Beef, Raw Chicken and Raw Trout which would create a Meat
 Roast. These are just some examples, there are many other recipes that can be found with some
-Experimentation or asking some fellow players.
+experimentation or asking some fellow players.
+<br/>
+Fish oil can be obtained by cooking fish, with each fish giving a fixed percentage to give an oil. 
+Fish oil can also be used in cooking to decrease the size of a dish/meal, making it take less time to cook.
+You can use more then one fish oil to speed it up further, however this will be costly.
 
 ## Alchemy itemIcon(itemsIds.empty_large_vial)
 While meals are mainly for healing in combat, Alchemy is mainly for Buffs. Some ingredients have certain
-Buffs on them, such as Inferno on Pepper. These can be made into potions, which disregard the Type of an
-Ingredient. They instead use Alchemy Size and Normal Size in its creation. Of course, to make a potion, one
+buffs on them, such as Inferno on pepper. These can be made into potions, which disregard the Type of an
+Ingredient. They instead use Alchemy Size and Normal Size in its creation. Additional to make a potion, one
 will need a vial which can be crafted using some sand and heat, then the targeted buff item, then you can
-increase the amount of stacks the potion will give, as well as the potent it is, by adding more Alchemy Size
-to it, however it will become increasing more difficult to create a potion the more complex it is.
+increase the amount of stacks the potion will give, as well as how potent it is by adding more Alchemy Size
+to it, however it will become increasingly more difficult to create a potion the more complex it is.
 
 ## Gear itemIcon(itemsIds.greater_ladle), itemIcon(itemsIds.chefs_hat)
 
