@@ -482,72 +482,72 @@ Master Parrying Gauntlet: A parrying gauntlet for a true master, designed to giv
 Expert Parrying Gauntlet: An expert's tool to more reliably parry enemy attacks. Much more effective than its beginner counterpart.
 Beginner Parrying Gauntlet: A beginner's tool to parry and immediately strike an opponent's attack. While it may work sometimes, it's not very reliable.
 Scroll: Used in magic to store magical properties: enchantments.
-Scroll of Embers: Foraging Enchantment. You aren't sure how it works. You just know it does. Best to not ask questions.
-Scroll of the Prospector: Mining Enchantment. Makes your pick more likely to find gems and silver.
-Scroll of the Scholar: Skilling Enchantment. Who needs material wealth when you have knowledge? Just don't forget to take it off.
-Scroll of Gathering: Gathering Enchantment. Magically creates more materials! Wow!
-Scroll of Superheating: Mining Enchantment. Seems to help target those high value ores.
-Scroll of Pyromancy: Skilling Enchantment. Helps with reducing heat costs, or at least makes you more efficent with heat.
-Scroll of Wealth: Skilling Enchantment. Some would say you have the Midas touch. Others would ask who Midas is.
-Scroll of Haste: Skilling Enchantment. Thanks to advancements in magic, you can now work more in less time!
-Scroll of Naturalist: Gathering Enchantment. Helps you to find those hidden treasures all the more better.
+Scroll of Embers: Foraging Enchantment.
+Scroll of the Prospector: Mining Enchantment.
+Scroll of the Scholar: Skilling Enchantment.
+Scroll of Gathering: Gathering Enchantment.
+Scroll of Superheating: Mining Enchantment.
+Scroll of Pyromancy: Skilling Enchantment.
+Scroll of Wealth: Skilling Enchantment.
+Scroll of Haste: Skilling Enchantment.
+Scroll of Naturalist: Gathering Enchantment.
 Scroll of Acrobatics: undefined
-Scroll of Critical Strike: Combat Enchantment. No need to hit harder, just aim for the weakspots.
+Scroll of Critical Strike: Combat Enchantment.
 Scroll of Poisoning: undefined
-Scroll of Accuracy: Combat Enchantment. Tired of missing those monsters?
+Scroll of Accuracy: Combat Enchantment.
 Scroll of Deflect: undefined
-Scroll of Force: Combat Enchantment. Use your defensive capabilities aggressively.
-Scroll of Healing: Combat Enchantment. Somehow makes food more tasty, as well as you more healthy! 
-Scroll of Weakening: Combat Enchantment. It's okay you're not strong enough, just pretend you are.
-Scroll of Reinforcement: Combat Enchantment. Makes one harder to hit.
-Scroll of Protection: Combat Enchantment. This isnt what they meant by bulking up, but it works.
+Scroll of Force: Combat Enchantment.
+Scroll of Healing: Combat Enchantment.
+Scroll of Weakening: Combat Enchantment.
+Scroll of Reinforcement: Combat Enchantment.
+Scroll of Protection: Combat Enchantment.
 Scroll of Parry: undefined
-Scroll of False Equilibrium: Combat Enchantment. Everything has its ups and downs...
-Scroll of Efficiency: Skilling Enchantment. Best to not let those extra materials go to waste.
-Scroll of Fishing: Fishing Enchantment. Adventures fear you. Fish want you.
-Scroll of Cooking: Cooking Enchantment. No need to waste years of training to become a master chef, but you should still probably practice...
-Scroll of Crafting: Crafting Enchantment. There is always improvements to be found in recipes...
-Scroll of Refining: Smithing Enchantment. Helps to filter out those impurities into something better.
-Scroll of Runecrafting: Runecrafting Enchantment. Helps you channel essence more efficiently.
-Scroll of Chances: Augmentation Enchantment. To help you find any hidden potential in items.
-Scroll of the Shrimp Lord: Cooking Enchantment. The shrimp calls. It beckons... Something sinister.
-Scroll of Enlightenment: General Enchantment. You'll be able to gather more essence from actions.
-Scroll of Prolonging: Combat Enchantment. Able to take that extra mile with potions and buffs.
-Scroll of the Treasure Hunter: Combat Enchantment. Gives you a keen eye for any treasure monsters might have.
-Scroll of Inferno: Cooking/Smithing Enchantment. Once you get into the flow of it, nothing can stop you.
-Scroll of Destructive Testing: Mining Enchantment. Who knew breaking rocks could give one so much knowledge.
-Scroll of Nature: Foraging Enchantment. No tree is safe from you.
-Scroll of Root Digging: Foraging Enchantment. A glint of light within nature often leads to hidden treasure.
-Scroll of Patience: Combat Enchantment. You might not be the fastest... but you sure hit the hardest.
-Scroll of Overhealing: Combat Enchantment. Why waste all of that power? Why not use it to sustain oneself...
-Scroll of Farming: Farming Enchantment. It's an honest life, one to be proud of.
-Scroll of the Gold Digger: Farming Enchantment. It's an honest life, one that pays.
-Scroll of Fertilizing: Farming Enchantment. Careful care of ones plants will bring you the highest yeilds.
-Scroll of Cultivation: Farming Enchantment. Nature always has it's ways of keeping itself going.
-Scroll of Fortitude: Combat Enchantment. The healthy option.
-Scroll of Pungent Bait: Fishing Enchantment. While fish love the smell of it, others seem to keep away from you.
-Scroll of Reinforced Line: Fishing Enchantment. Able to catch the toughest of fish, you'll be reeling them in quickly.
-Scroll of Fishing Magnetism: Fishing Enchantment. While slower then other methods, the fish do seem to actually just stick to your line.
-Scroll of Bait Preservation: Fishing Enchantment. Why constantly buy more bait when you can just reuse it?
-Scroll of Oil Spill: Fishing Enchantment. You're not sure how this works, but its better to just accept it does... 
-Scroll of Deadliest Catch: Fishing Enchantment. Your reckless use of bait seems to actually make it better.
-Scroll of the Master Chef: Cooking Enchantment. All those years perfecting your cooking has paid off.
-Scroll of the Herbalist: Foraging Enchantment. What other see as grass, you see as a potent ingredient.
-Scroll of Seed Harvesting: Foraging Enchantment. The true bounty of the woods is what you can grow yourself.
-Scroll of Metallurgy: Smithing Enchantment. Increases your heat tolerance, slightly.
-Scroll of Pure Metals: Smithing Enchantment. You know quality ore when you see it, and you only use the best.
-Scroll of Essence Concentration: Runecrafting Enchantment. Using large amounts of essence, you can create so much more...
-Scroll of the Fiber Finder: Fishing Enchantment. Attune yourself to the magic of the ocean.
-Scroll of Archaeology: Gathering Enchantment. Find everything the world might hide from you. Even Junk.
-Scroll of Endless Ammo: Combat Enchantment. Its not actually endless, but the enemy doesn't need to know that.
-Scroll of Rune Reserves: Combat Enchantment. Use every rune for what it is worth... Waste nothing.
-Scroll of the Soul Wisdom: General Enchantment. Your gear should be an extension of you... of your soul.
-Scroll of Overly Well Done: Cooking Enchantment. We learn the most from our failures, or so you are told.
-Scroll of Recklessness: Combat Enchantment. Charge into battle without fear, you'll have time later for those wounds...
-Scroll of Engraving: Runecrafting Enchantment. Such delicate work.
-Scroll of Resistance: Combat Enchantment. The mages of the land mean nothing to you now.
-Scroll of Supercooling: Mining Enchantment. Seems to target the more common ores.
-Scroll of Dwarven Engineering: Mining Enchantment. The dwarves of old knew how to extract the most resources from the land... This is only a fraction of what they knew.
+Scroll of False Equilibrium: Combat Enchantment.
+Scroll of Efficiency: Skilling Enchantment.
+Scroll of Fishing: Fishing Enchantment.
+Scroll of Cooking: Cooking Enchantment.
+Scroll of Crafting: Crafting Enchantment.
+Scroll of Refining: Smithing Enchantment.
+Scroll of Runecrafting: Runecrafting Enchantment.
+Scroll of Chances: Augmentation Enchantment.
+Scroll of the Shrimp Lord: Cooking Enchantment.
+Scroll of Enlightenment: General Enchantment.
+Scroll of Prolonging: Combat Enchantment.
+Scroll of the Treasure Hunter: Combat Enchantment.
+Scroll of Inferno: Cooking/Smithing Enchantment.
+Scroll of Destructive Testing: Mining Enchantment.
+Scroll of Nature: Foraging Enchantment.
+Scroll of Root Digging: Foraging Enchantment.
+Scroll of Patience: Combat Enchantment.
+Scroll of Overhealing: Combat Enchantment.
+Scroll of Farming: Farming Enchantment.
+Scroll of the Gold Digger: Farming Enchantment.
+Scroll of Fertilizing: Farming Enchantment.
+Scroll of Cultivation: Farming Enchantment.
+Scroll of Fortitude: Combat Enchantment.
+Scroll of Pungent Bait: Fishing Enchantment.
+Scroll of Reinforced Line: Fishing Enchantment.
+Scroll of Fishing Magnetism: Fishing Enchantment.
+Scroll of Bait Preservation: Fishing Enchantment.
+Scroll of Oil Spill: Fishing Enchantment.
+Scroll of Deadliest Catch: Fishing Enchantment.
+Scroll of the Master Chef: Cooking Enchantment.
+Scroll of the Herbalist: Foraging Enchantment.
+Scroll of Seed Harvesting: Foraging Enchantment.
+Scroll of Metallurgy: Smithing Enchantment.
+Scroll of Pure Metals: Smithing Enchantment.
+Scroll of Essence Concentration: Runecrafting Enchantment.
+Scroll of the Fiber Finder: Fishing Enchantment.
+Scroll of Archaeology: Gathering Enchantment.
+Scroll of Endless Ammo: Combat Enchantment.
+Scroll of Rune Reserves: Combat Enchantment.
+Scroll of the Soul Wisdom: General Enchantment.
+Scroll of Overly Well Done: Cooking Enchantment.
+Scroll of Recklessness: Combat Enchantment.
+Scroll of Engraving: Runecrafting Enchantment.
+Scroll of Resistance: Combat Enchantment.
+Scroll of Supercooling: Mining Enchantment.
+Scroll of Dwarven Engineering: Mining Enchantment.
 Raw Chicken: Cooking Ingredient. Clucked its last cluck.
 Raw Beef: Cooking Ingredient. Fresh, never frozen!
 Spider Legs: Cooking Ingredient. It is somehow difficult to thread on a skewer.
