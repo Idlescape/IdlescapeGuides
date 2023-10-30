@@ -179,7 +179,7 @@ Fishing Net: A rough net assembled from branches. Used as part of tackleboxes an
 Fly Fishing Rod: String on a stick. Used as part of tackleboxes and other fishing gear.
 Cage: An iron cage. Used as part of tackleboxes and other fishing gear.
 Harpoon: A barbed spear. Used as part of tackleboxes and other fishing gear.
-Feather: Useful for making ranged ammunition.
+Feather: Feather, from a chicken most likely. Useful for making ranged ammunition.
 Fish Oil: Ew, slimy. Should make logs burn longer or make cooking faster, though!
 Pyre Log: These can be burned for some heat.
 Pyre Oak Log: These can be burned for moderate heat.
@@ -455,8 +455,8 @@ Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched a
 Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
 Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
 Razorfin: A large scimitar taken from a fish! You could probably use it as a paddle! Seems mildly magical, almost...
-Elven Quiver: This enchanted quiver of elven make is said to hold limitless ammunition, but it actually just teleports the ammo back into the quiver... sometimes.
-Magic Quiver: A poor imitation of an elven quiver, but perhaps it just needed a bit more magic. Gets the job done however.
+Elven Quiver: A quiver blessed by Elven magic! It appears to retrieve your expended ammunition automatically!
+Magic Quiver: A slightly magical quiver that seems to retrieve some of your expended ammunition automatically!
 Defender's Band: A ring fashioned from the cornerstone of a great castle.
 Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
 Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
@@ -498,7 +498,7 @@ Scroll of Accuracy: Combat Enchantment.
 Scroll of Deflect: undefined
 Scroll of Force: Combat Enchantment.
 Scroll of Healing: Combat Enchantment.
-Scroll of Weakening: Combat Enchantment.
+Scroll of Weakening: General Enchantment.
 Scroll of Reinforcement: Combat Enchantment.
 Scroll of Protection: Combat Enchantment.
 Scroll of Parry: undefined
@@ -512,7 +512,7 @@ Scroll of Runecrafting: Runecrafting Enchantment.
 Scroll of Chances: Augmentation Enchantment.
 Scroll of the Shrimp Lord: Cooking Enchantment.
 Scroll of Enlightenment: General Enchantment.
-Scroll of Prolonging: Combat Enchantment.
+Scroll of Prolonging: General Enchantment.
 Scroll of the Treasure Hunter: Combat Enchantment.
 Scroll of Inferno: Cooking/Smithing Enchantment.
 Scroll of Destructive Testing: Mining Enchantment.
@@ -721,7 +721,7 @@ Superior Christmas Lights: For the naughty!
 SuperSled 9001: It's over 9000!
 Magical Snowball: Thankfully its magical and not lemon infused.
 Candy Cane Daggers: Best to not lick these.
-Festive Shroud: Makes you feel rather jolly. 
+Festive Shroud: Makes you feel rather jolly.
 Merry Maker's Mittens: A pair of mittens to keep you warm in the bitter cold! Wait, are they fingerless?
 Mistletoe Treads: For treading on snow or enemy faces.
 Magic Ice Bar: A coalesced bar of magic ice. Cold to the touch!
@@ -830,13 +830,13 @@ Greater Jewelry Cache: A grand cache of jewelry, might contain something useful.
 Goblin Cache: A cache containing loot from a Goblin Settlement. Smells like one too.
 Dark Cache: A cache containing loot from a Dark Fortress. It feels powerful.
 Giant Cache: A cache containing loot from the Giants Keep. Its incredibly heavy.
-Elder Cache: A cache containing loot from the Elders Ruin. It looks very elegent.
+Elder Cache: A cache containing loot from the Elders Ruin. It looks very elegant.
 Overgrown Cache: A cache containing loot from an Old Castle. There are still vines on it and some bite marks.
 Barrows Cache: A cache containing loot from the Ancient Barrows. Its a bit dusty.
 Flaming Cache: A cache containing loot from the Palace of Flames. Its still warm.
 Storm Cache: A cache containing loot from the Eye of the Storm. You feel as if you're being watched.
 Maelstrom Cache: A cache containing loot from the Maelstrom. It whispers to you.
-INFO Cache: A cache containing loot from INFO themself. They see you as worthy.
+INFO Cache: A cache containing loot from INFO themself. They see you as worthy. At least a bit.
 Ancient Cache: undefined
 Dwarven Research Cache: A cache containing loot from a Dwarven Research Station. What secrets does it contain?
 Elven Research Cache: A cache containing loot from the Nature Athaneum. What secrets does it contain?
