@@ -1,6 +1,3 @@
-<p fontStyle='oblique'>
-	The augmenting interface is a bit clunky. It's on our list to rework this. Stay tuned!
-</p>
 Enchanting comes with three different uses: Scrollcrafting, Augmenting, and Enchanting, which can be
 switched between at any time using the tabs. Scrollcrafting and Enchanting go hand in hand together while
 Augmenting is how you increase the power of items, at a risk.
@@ -31,7 +28,7 @@ You can further enhance any gear you obtain here, by increasing its augmentation
 resources. Every augmentation attempt has a success chance which increases with your effective enchanting
 level. Higher augments have a higher risk to fail. If the augmentation fails it will{' '}
 <p as='b' color='red'>
-	destroy the input item and the used resources.
+	destroy the input item and the used resources!
 </p>
 
 ## Soulbinding
@@ -42,8 +39,8 @@ return soulbound items can be augmented up to their Soulbinding level with a 100
 three levels you Augment an soulbound item, you'll need a base copy of said item, which also increases by
 one every three levels after (One base item at level 3, two base items at level 6, three at level 9, and so
 forth). However there is a cap on how high you can augment a soulbound item, which is 3 + 1 for every 10
-levels of your Effective Enchanting Level. (So at Effective level 170, you can enchantment an item up to
-level 3+(170/10) = 20, even if the Soulbinding level of the item is higher.)
+levels of your Effective Enchanting Level. (So at Effective level 170, you can augment an item up to level
+3+(170/10) = 20, even if the Soulbinding level of the item is higher.)
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
 </p>
