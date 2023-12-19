@@ -149,7 +149,7 @@ Black Opal Necklace: A necklace capable of holding powerful enchantments.
 Gold Ring: A simple golden ring, ready to hold limitless potential.
 Gold Necklace: A simple golden necklace, ready to hold limitless potential.
 Corrupted Ring: None are incorruptible. Succumb to the hunger.
-Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman.
+Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman. You feel safe and healthy with this on.
 Ancient Fire Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of flame.
 Ancient Water Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of ice.
 Ancient Blood Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you bathe in the blood of your enemies. Very edgy.
@@ -196,34 +196,34 @@ Satchel: Strange that a monster had this, perhaps it belonged to an adventurer? 
 Ancient Treasure: It's said that these might contain ancient tools, open it and see if you are lucky.
 Greater Geode: Bigger than a normal geode, that's for sure. Wonder why the dwarves were so interested in these... Only one way to find out.
 Greater Bird's Nest: What kind of bird would use this nest? Whatever it was, it liked picking up odd items... Open it to see what is inside.
-Bronze Scimitar: undefined
-Bronze Battleaxe: undefined
-Bronze Daggers: undefined
-Bronze Greatsword: undefined
-Iron Scimitar: undefined
-Iron Battleaxe: undefined
-Iron Daggers: undefined
-Iron Greatsword: undefined
+Bronze Scimitar: A simple bronze sword. Not very good, but not bad.
+Bronze Battleaxe: A rather heavy bronze axe. It's easier to just wack enemies with this.
+Bronze Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
+Bronze Greatsword: A big heavy bronze sword. At least you can slash someone with this easily.
+Iron Scimitar: A standard iron sword. Getting better.
+Iron Battleaxe: A rather heavy iron axe. It's easier to just wack enemies with this.
+Iron Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
+Iron Greatsword: A big heavy iron sword. At least you can slash someone with this easily.
 Obsidian Scimitar: You feel hidden potential in this blade...
-Obsidian Battleaxe: undefined
+Obsidian Battleaxe: Curiously, you didn't see any knights using a Battleaxe... Where did this come from?
 Obsidian Daggers: You feel hidden potential in these daggers...
 Obsidian Greatsword: You feel hidden potential in this sword... Something great...
-Mithril Scimitar: undefined
-Mithril Battleaxe: undefined
-Mithril Daggers: undefined
-Mithril Greatsword: undefined
-Adamantite Scimitar: undefined
-Adamantite Battleaxe: undefined
-Adamantite Daggers: undefined
-Adamantite Greatsword: undefined
+Mithril Scimitar: An average mithril sword. Could do some serious damage.
+Mithril Battleaxe: A rather heavy mithril axe. It's easier to just wack enemies with this.
+Mithril Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
+Mithril Greatsword: A big heavy mithril sword. At least you can slash someone with this easily.
+Adamantite Scimitar: A simple adamantite sword. The edge is very sharp.
+Adamantite Battleaxe: A rather heavy adamantite axe. It's easier to just wack enemies with this.
+Adamantite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
+Adamantite Greatsword: A big heavy adamantite sword. At least you can slash someone with this easily.
 Runite Scimitar: A decent blade, you feel lightning form whenever you augment this.. before it suddenly vanishes. Strange.
-Runite Battleaxe: undefined
-Runite Daggers: undefined
-Runite Greatsword: undefined
-Stygian Scimitar: undefined
-Stygian Battleaxe: undefined
-Stygian Daggers: undefined
-Stygian Greatsword: undefined
+Runite Battleaxe: A rather heavy runite axe. It's easier to just wack enemies with this.
+Runite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
+Runite Greatsword: A big heavy runite sword. At least you can slash someone with this easily.
+Stygian Scimitar: A sword forged with demonic metal, its razor sharp.
+Stygian Battleaxe: A rather heavy stygian axe. Will you stop using the blunt end already?
+Stygian Daggers: Pointy daggers infused with demonic energy. Still great at stabbing.
+Stygian Greatsword: A big heavy stygian sword. You could cleave enemies in two with this.
 Bronze Helm: undefined
 Iron Helm: undefined
 Obsidian Helm: You feel hidden fiery potential in this helm...
@@ -238,13 +238,13 @@ Mithril Full Helm: undefined
 Adamantite Full Helm: undefined
 Runite Full Helm: undefined
 Stygian Full Helm: undefined
-Bronze Shield: undefined
-Iron Shield: undefined
+Bronze Shield: A crude bronze shield. Better then nothing.
+Iron Shield: A simple iron shield. The standard for most guards.
 Obsidian Shield: You feel hidden potential in this shield...
-Mithril Shield: undefined
-Adamantite Shield: undefined
-Runite Shield: undefined
-Stygian Shield: undefined
+Mithril Shield: An average mithril shield. You feel safer already.
+Adamantite Shield: A strong adamantite shield. It's comfortable as well!
+Runite Shield: A professionally made runite shield. Hardly ever dents or bends.
+Stygian Shield: A mastercrafted stygian shield. The demonic powers seems to repair the shield.
 Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
 Bronze Breastplate: undefined
 Bronze Chainmail: undefined
@@ -765,48 +765,48 @@ Fresh Off the Island: Do you even know what island?
 Forgotten Platebody: A forgotten relic 'farcasted' into the sea...
 Inventory Tab Token: A token that can be redeemed to increase your inventory tab count.
 RISE OF INFO: Ancient power emanates from the seal... It sorta smells like durian. Probably not a good idea to use this until raids are officially implemented.
-Black Knight's Trial: A dark scroll for a darker trial. Will you face it and reap the rewards?
-Giant Scroll: A gargantuan task for only the mightiest of heroes; are you counted amongst them?
-Corroded Scroll: The stench of decay hangs heavy about this squalid parchment. Are you ready to break the seal?
-Stew Stained Page: A repulsive taunt from a repulsive creature. Will you break the seal?
-Cluster-Cluck: The secret location of Ot_to's prized hen house. Want to find out what's inside?
-Demonic Trial: Unknown markings surround the stately seal binding this scroll closed. Are you sure you want to break the seal?
-Taproot Scroll: The parchment feels alive in your hands. Will you be able to conquer nature?
-The Final Test: Can you do what no one has ever done before?
-Shapeless Scroll: The scroll appears to be shifting in and out of reality. Do you dare unravel its secrets?
-Stormy Sea Scroll: It's soaking wet but the parchment seems untearable. Will you dive in?
-Enchanted Armory Scroll: A dignified invitation to test the armory's latest creations. Will you accept?
-Fallen Academy Scroll: An academy scroll that has been warped by some sort of demonic energy. Will you explore it?
-Overgrown Woods Scroll: An old scroll you found in the woods that leads you further into the woods. Should you follow it?
-Elven Encampment Scroll: An old scroll bearing the insignia of some long lost dynasty. Will you comb through history?
-Giant's Keep Key: The key to enter the Giant's Keep made of the various elemental fragments. Only five people could make it to the Keep without being spotted.
+Black Knight's Trial: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "City" based on highest augment level completed successfully.
+Giant Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Valley of Giants" based on highest augment level completed successfully.
+Corroded Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Corrupted Lands" based on highest augment level completed successfully.
+Stew Stained Page: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Caves" based on highest augment level completed successfully.
+Cluster-Cluck: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Farm" based on highest augment level completed successfully.
+Demonic Trial: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Lava Maze" based on highest augment level completed successfully.
+Taproot Scroll: Useable in the Combat "Fight" Menu. Can be augmented.
+The Final Test: Useable in the Combat "Fight" Menu. Can you do what no one has ever done before?
+Shapeless Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Chaos Wastes" based on highest augment level completed successfully.
+Stormy Sea Scroll: Useable in the Combat "Fight" Menu. Can be augmented.
+Enchanted Armory Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Enchanted Armory" based on highest augment level completed successfully.
+Fallen Academy Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Fallen Academy" based on highest augment level completed successfully.
+Overgrown Woods Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Overgrown Woods" based on highest augment level completed successfully.
+Elven Encampment Scroll: Useable in the Combat "Fight" Menu. Can be augmented. Will increase max difficulty in "Elven Encampment" based on highest augment level completed successfully.
+Giant's Keep Key: Useable in the Combat "Fight" Menu. The key to enter the Giant's Keep made of the various elemental fragments. Only five people could make it to the Keep without being spotted.
 Nature Fragment: A piece of living earth is imbued into this fragment.
 Ice Fragment: An unmelting shard of ice is imbued into this fragment.
 Fire Fragment: An unfaltering gout of flames is imbued into this fragment.
 Corrupted Fragment: A rotten slab of decay is imbued into this fragment.
 Chaos Fragment: An undescribable phenomenon is imbued into this fragment.
-Torn Goblin Settlement Map: A map to find an elusive goblin settlement. You could probably only bring up to three people to this location safely.
+Torn Goblin Settlement Map: Useable in the Combat "Fight" Menu. A map to find an elusive goblin settlement. You could probably only bring up to three people to this location safely.
 Scrap of Stained Parchment: A scrap of parchment that appears to be a part of a map.
-Dark Fortress Key: A brutish key made of dark metal. The way to a fortress is treacherous, no more than three people could make the journey.
+Dark Fortress Key: Useable in the Combat "Fight" Menu. A brutish key made of dark metal. The way to a fortress is treacherous, no more than three people could make the journey.
 Dark Key Piece: A piece of dark metal that looks like part of a key.
-Cursed Spade: A cursed spade that is drawn to long forgotten lands...
-Burning Feather: The feather itself appears to be made out of fire! You could probably lead yourself and one other wherever it's pointing. It just wants to go home, but you'd probably melt in there. Better bring some Flame Resistance food!
+Cursed Spade: Useable in the Combat "Fight" Menu. A cursed spade that is drawn to long forgotten lands... Seems to only allow two to follow it.
+Burning Feather: Useable in the Combat "Fight" Menu. The feather itself appears to be made out of fire! You could probably lead yourself and one other wherever it's pointing. It just wants to go home, but you'd probably melt in there. Better bring some Flame Resistance food!
 Krampus' Key: A piece of bone with some bits of metal sticking off of it. If you squint really hard it somewhat resembles a key.
 Molten Ashes: The remains of some infernal creature. Still warm to the touch.
 Infernal Flame: The vestiges of an infernal soul, left to burn eternally.
 Cracked Shrimp Bauble: The roar of the ocean can be heard faintly while examining this bauble.
-Elder Lockstone: A lockstone that can lead its owner to a hidden Elder Ruin and reveal its untouched treasures.
-Castle Map: A full map that leads to an old castle.
-Ancient Pyramid: An ancient chunk of stone curiously shaped into a pyramid.
-Ancient Maelstrom Orb: A prism trapped inside of a magical prison. What could go wrong if you released it?
+Elder Lockstone: Useable in the Combat "Fight" Menu. A lockstone that can lead its owner to a hidden Elder Ruin and reveal its untouched treasures. Best bring a light party of four.
+Castle Map: Useable in the Combat "Fight" Menu. A full map that leads to an old castle. The magic in the map only allows for three people to be guided by it.
+Ancient Pyramid: Useable in the Combat "Fight" Menu. An ancient chunk of stone curiously shaped into a pyramid. Seems to go inert when more then five people are around.
+Ancient Maelstrom Orb: Useable in the Combat "Fight" Menu. A prism trapped inside of a magical prison. What could go wrong if you released it? Perhaps a group of five could contain it?
 Ancient Crystal: An ancient crystal. It is chaotic in origin but is far older than any chaotic crystal you have ever seen.
 Ancient Stone: An ancient stone. Appears to be hewn in such a way that it would be able to fit nicely with other similar stones, despite its obvious age and damage.
 Partial Map: A portion of a larger map. Useless on its own, but with the remaining pieces it may lead somewhere!
 Elder Gem: An elder gem. Prized heirloom of the Elves, or the final piece to a greater puzzle?
 Awakened Shrimp Eye: It's looking at you. Don't look too closely back. Probably not a good idea to use this until raids are officially implemented.
-Dwarven Research Key: The key to enter the Dwarven Research Station.
-Heart of the Oak: The key to enter the Nature Athaneum.
-Abandoned Academy Scroll: The key to enter the Abandoned Academy Base.
+Dwarven Research Key: Useable in the Combat "Fight" Menu. The key to enter the Dwarven Research Station.
+Heart of the Oak: Useable in the Combat "Fight" Menu. The key to enter the Nature Athaneum.
+Abandoned Academy Scroll: Useable in the Combat "Fight" Menu. The key to enter the Abandoned Academy Base.
 Core Fragment: A chunk of ore drawn from the core of the land itself. Not human mined, so where did it come from?
 Core Ingot: A material that mimics Dwarven Craftdwarfship. Using this to craft a key would grant you access to long lost Dwarven ruins.
 Ancient Cloth Fragment: A particularly powerful piece of arcane cloth. It could be used to craft an even more powerful scroll.
@@ -962,6 +962,6 @@ Goblin Fork: A useless eating utensil used by goblins. Everyone knows you should
 Nature Stone: A chunk of stone that appears to be imbued with life. Useless to you, but must be valuable to someone.
 Fire Stone: A chunk of stone that appears to be imbued with flame. Useless to you, but must be valuable to someone.
 Ice Stone: A chunk of stone that appears to be imbued with ice. Useless to you, but must be valuable to someone.
-A Diamond Plated Bug: I wonder who added this in?
+A Diamond Plated Bug: I wonder who added this in? Some nerd probably.
 Valuable Furs: Worthless for making equipment out of but may be worth something to a vendor.
 ban_hamer: with this hammer you can play whac-a-mole more efficiently
