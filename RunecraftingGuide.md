@@ -9,8 +9,7 @@ const chanceForNext = runeCount - floored;
 
 Runecrafting is the art of creating runes using rune slates and essence gathered from doing activities
 within the game. You can see how to earn certain essences by hovering over each essence, while rune slates
-are primarily gained from Mining. You also gain 1 Runecrafting shard for every five minutes you spend doing
-actions.
+are primarily gained from Mining.
 <br />
 Every 20 levels you have in Runecrafting will increase the amount of runes made per action by 1. This is
 also increased by 1 when you consume a talisman for the first time.
