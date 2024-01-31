@@ -1,50 +1,46 @@
-Cooking is a complex skill that requires a bit of experimenting with ingredients to get a solid
-grasp on, however it is a very useful skill to help supply you with all your food and potion needs. In order
-to start, you need to throw some ingredients into the cooking pot, such as one carrot and one shrimp in
-order to make a dish/meal. The listed ingredients above will make a Kebab +0, which is a decent food option
-starting out. The +0 comes from the size of ingredients added, which can be improved by adding more of the
-same ingredients. You also get +1 for every 30 effective cooking levels.
+Cooking is a very useful and helpful skill as it supplies combat with food for healing and skills with buff 
+potions with Alchemy. In order to get started with cooking, one must first prepare the ingredients for the
+various recipes within the game. To prepare ingredients and essence, click on the items in the preparation tab
+to select it for prep, then click start. You will then use the item to prepare it into its raw ingredients and 
+essence if it gives any.
+Once you have obtained the ingredients/essence for said recipes and potions, they will automatically unlock.
 <br />
-You will also obtain one cooking shard for every 5 minutes spent cooking, which can be used towards The
-Golden Spoon, the Legendary Cooking tool.
+Each 30 levels in your effective cooking level will give you +1 to your base recipe level.
+<br />
+You will also obtain one cooking shard for every 5 minutes spent cooking, which can be used towards the
+Golden Spoon, the Legendary Cooking tool and the Cooking set.
 
 ## Difficulty and Size
-On each ingredient, there is a difficulty and size rating.
+On each ingredient, there is a difficulty, size rating, and alchemy size.
 <br/>
-Difficulty is how complex a dish is made by
-adding it to the pot, which in turn makes the success rate lower and the time to cook higher. The higher
-your effective level, the more complex dishes one can make.
+Difficulty is how hard it is to make a certain recipe/potion based upon the ingredients it has. It also increases the amount of experience
+earned multiplied by 5. 
 <br/>
-Size is the amount of the ingredient, such as three Vegetables for a Pumpkin or two Meat and Fish for a Raw Trout. These play a
-hand in recipes such as the Kebab mentioned above which requires at least one Veggie and one Meat to create.
-You can make a stronger level of Kebabs by doing 1x Pumpkin and 1x Raw Tuna which would come out as a higher
-quality. Another Decent but advanced food is 1x Raw Beef, Raw Chicken and Raw Trout which would create a Meat
-Roast. These are just some examples, there are many other recipes that can be found with some
-experimentation or asking some fellow players.
+Size is how much raw ingredients for that tag you will get from preparing the various cooking items in the game. An example would be a tomato 
+having a size of three, thusly giving you three of each of raw veggies and fruits as well as one sour essence due to its one alchemy size.
 <br/>
-Fish oil can be obtained by cooking fish, with each fish having a fixed percentage to give an oil.
-Fish oil can also be used in cooking to decrease the size of a dish/meal, making it take less time to cook.
-You can use more then one fish oil to speed it up further, however this will be costly.
+Fish oil can be obtained by preparing fish, with each fish having a fixed percentage to give an oil.
+
+## Cooking
+Cooking will have a list of various recipes that you can make if you have the ingredients for them, if this tab is empty, then you need to prepare some
+ingredients to unlock them first. To get started, click on the dish you wish to create and it will give you a list of ingredients you need to create it 
+on the right. You can increase the strength of the dish by increasing the slider, but this will require more ingredients as well as increase the dish difficulty.
+Additionally, you can add certain items to a dish to give it a combat related buff, such as Ichor for Demon Skin for damage reduction.
 
 ## Alchemy itemIcon(itemsIds.empty_large_vial)
-While meals are mainly for healing in combat, Alchemy is mainly for Buffs. Some ingredients have certain
-buffs on them, such as Inferno on pepper. These can be made into potions, which disregard the type of an
-Ingredient. They instead use Alchemy Size and Normal Size in its creation. Additional to make a potion, one
-will need a vial which can be crafted using some sand and heat, then the targeted buff item, then you can
-increase the amount of stacks the potion will give, as well as how potent it is by adding more Alchemy Size
-to it, however it will become increasingly more difficult to create a potion the more complex it is.
+Alchemy can be used to create potions with various buffs to help with the skills in the game. To create a potion, click on the buff you wish to create
+then select the size of the potion in the first box on the right side of the interface using one of the three vial types. Additionally to this, you can 
+upgrade potions you've already created into highier and stronger buffs at the cost of more ingredients and essence.
 
 ## Gear itemIcon(itemsIds.greater_ladle), itemIcon(itemsIds.chefs_hat)
 
 <p>
-	A useful tool for cooking is a Ladle, which can be obtained from Goblins in Combat. There are few different
-	types of base ladles, but they are the same, the searing ladle being an exception which is earned from the
-	Goblin Settlement Dungeon. When augmented, they’ll increase your effective cooking level as well as give you
-	a few hidden levels of haste when equipped. These can be enchanted with some useful enchantments, such as
-	Master Chef to help you with your cooking.
+	Ladles can be obtained from goblins, which will increase your effective cooking level when equiped as well as some hidden levels of haste.
+	There is no difference between the three different ladles they can drop.
+	Searing Ladles and Chefs Hat can be obtained from the Goblin Settlement dungeon, which will boost highier effective levels when augmented.
+	The Golden Spoon and cooking gear can be crafted with cooking shards and certain materials, which will even further boost your cooking abilities.
 </p>
 
-<p>A Chefs Hat, obtained from the Goblin Settlement Dungeon, comes with three Enchantment Slots and will increase your effective cooking level when Augmented.</p>
-<p color='gray' fontStyle='oblique'>
+<p> color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
 </p>
