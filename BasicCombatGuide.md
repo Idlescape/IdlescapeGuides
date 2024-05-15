@@ -1,19 +1,20 @@
 ## Combat Basics
 In Idlescape there are three main ways to fight various enemies; Melee, Magic, and Ranged.
-You can earn experience in these different styles of combat by hitting enemies with their related skills.
+You can earn experience in these different styles of combat by hitting enemies with their related abilities.
 To get more skills to use, you can get them from either skill books or equiping certain items.
 <br />
 
 ## Consumables
 In combat you can use food, ammo, and runes as consumables to help you fight.
 Food will increase survivability, while ammo will increase damage.
-Runes are used mostly in magic for certain skills, without them the skills wont be as potent.
+Runes are used mostly in magic for certain abilities, without them the skills wont be as potent.
+<br />
 
-## Skills and Rotations
-When you obtain skills, you can slot them into a rotation, which will automatically execute in combat related activities.
-You can do this by either dragging and dropping them into place, or clicking the skills.
-Skills in the first slot will be prioritized when they are off cooldown compared to skills in the last slot.
-You can change your auto attack to be more specalized depending on your equipment. These skills have no cooldown and are placed at the end of your rotation.
+## Abilities and Rotations
+When you obtain abilities, you can slot them into a rotation, which will automatically execute in combat related activities.
+You can do this by either dragging and dropping them into place, or clicking the abilities.
+Abilities in the first slot will be prioritized when they are off cooldown compared to abilities in the last slot.
+You can change your auto attack to be more specalized depending on your equipment. These abilities have no cooldown and are placed at the end of your rotation.
 <br />
 
 ## Waves and Elites
