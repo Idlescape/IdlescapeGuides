@@ -27,12 +27,12 @@ clicking on it and clicking "Disenchant".
 Augmenting can increase the power of your equipment at the cost of resources. When augmenting any gear, you'll
 slowly increase an augment counter, that when maxed out, will increase the equipments level by +1 and then reset with a higher requirement. 
 While augmenting you can get a Critical proc which will increase the count by 2 instead of 1, but only be the cost of one attempt.
-During augmenting at certain levels, you'll require the base item in order to increase the level of your gear.
+During augmenting at certain levels, you'll require an amount of the base item in order to increase the level of your gear.
 
 ## Researching
-Researching is a new mechanic introduced in Season 2 that will research the choosen item and procude Runic Dusts and Scraps.
+Researching is a new mechanic that will research the choosen item and procude Runic Dusts and Scraps at the cost of some resources.
 Successful researches on an item will procude Runic Dust at the same rarity that the item is being researched, while failures will destroy the item and create scrap.
-Highier level augmented gear will produce more Runic Dust and Scrap than base gear.
+High level augmented gear will produce more Runic Dust and Scrap than base gear.
 
 ## Soulbinding
 Soulbinding has been removed from the game, any soulbound gear you have will keep its augmented level and become tradable again.

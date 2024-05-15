@@ -32,7 +32,8 @@ Dwarven and Volcanic forges. From there, you can freely switch which forge you w
 Refining is a special Enchantment that can be used with Smithing to give you a chance per action to acquire
 additional items depending on the forge currently being used. All of the forges have a chance to give gems and slag,
 while the city forge can sometimes award silver.
-However, rarely while smelting most bars at high intensity heats, one can obtain Core Fragments. 
+However, rarely when smelting bars at any high intensity heat in the Volcanic Forge, one can obtain Core Fragments.
+When you have Refining equiped, you can see proc drop chances below the exp per action when you hover over "Refining" 
 These can be further smelted down into Core Ingots and then crafted
 into Dwarven Research Keys, a Gathering Dungeon that scales off your Mining and Smithing levels.
 <p color='gray' fontStyle='oblique'>
