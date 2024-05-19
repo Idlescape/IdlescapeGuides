@@ -29,6 +29,7 @@ When your HP hits zero, you will be "knocked out" and respawn after a minute or 
 When this happens, waves will reset and combat will start again.
 When "knocked out" in elite scrolls, you will not respawn and will fail the scroll, so plan and prepare carefully.
 In dungeons you will fail when everyone in your party is "knocked out".
+To prevent this, you can bring good food or use certain abilities and enchantments to keep yourself healthy.
 <br />
 
 ## Loadouts

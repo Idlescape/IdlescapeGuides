@@ -48,7 +48,7 @@ Coal: Burn it up to make heat! It's okay, the industrial revolution hasn't happe
 Rune Slate: A blank magical canvas.
 Stygian Ore: An unnaturally glittering ore sourced from the deepest of delves. May be smelted into bars with the aid of ichor.
 Void Stone: A stone pulsing with chaotic energy. Perhaps you could further process it?
-Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants in farming.
+Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants and somehow traps in farming.
 Carrot Seed: Plant this on your farm. Won't improve your vision yet.
 Peppercorn Seed: Plant this on your farm. May cause uncontrolled sneezing on harvest.
 Sugarcane Seed: Plant this on your farm for a sweet treat.
