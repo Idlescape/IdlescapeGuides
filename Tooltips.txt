@@ -48,7 +48,7 @@ Coal: Burn it up to make heat! It's okay, the industrial revolution hasn't happe
 Rune Slate: A blank magical canvas.
 Stygian Ore: An unnaturally glittering ore sourced from the deepest of delves. May be smelted into bars with the aid of ichor.
 Void Stone: A stone pulsing with chaotic energy. Perhaps you could further process it?
-Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants in farming.
+Fertilizer: Stinky sack of nutrients. Increases minimum yield and experience of plants and somehow traps in farming.
 Carrot Seed: Plant this on your farm. Won't improve your vision yet.
 Peppercorn Seed: Plant this on your farm. May cause uncontrolled sneezing on harvest.
 Sugarcane Seed: Plant this on your farm for a sweet treat.
@@ -406,14 +406,14 @@ Chaos Crest: The heat of this helm could empower your smithing abilities!
 Forgotten Sadness: Long forgotten in the waves. Can you throw it?
 Forgotten Madness: Driven mad by its endless drifting. Appears to channel magical energy.
 Forgotten Anger: Perhaps forgotten, absolutely enraged. Only good for melee!
-Gargoyle Chainmail: undefined
-Gargoyle Legs: undefined
-Gargoyle Boots: undefined
-Gargoyle Helm: undefined
+Gargoyle Chainmail: You feel as if you could draw infernal power from this...
+Gargoyle Legs: You feel as if you could draw infernal power from this...
+Gargoyle Boots: These keep your feet very warm.
+Gargoyle Helm: You feel as if you could draw infernal power from this...
 Gargoyle Shield: undefined
 Gargoyle Falchion: undefined
 Gargoyle Daggers: undefined
-Gargoyle Glaive: You feel like there is more potential to be unlocked here...
+Gargoyle Glaive: You feel as if you could draw infernal power from this...
 Infernal Lance: A legendary weapon of great prestige and power.
 Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
 Chorus of Souls: It wails with every swing. Unnerving.

@@ -33,7 +33,7 @@ reduced using this value. <br />
 <b>Agility</b> is used to calculate your dodge chance. The higher this value is, the less likely it is that
 an enemy will be able to hit you. <br />
 <b>Stamina</b> determines the value of your total health, in addition to your <b>Constitution</b> level
-# Affinities
+## Affinities
 Affinities are used in calculating your effectiveness for each subclass of combat, both for offense and
 defense. A good example of this are Breatplates, which give a high amount of negative offensive affinities,
 but lots of positive defensive affinities in return. This makes them very effective at tanking, but not good
