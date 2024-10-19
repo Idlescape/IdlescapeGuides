@@ -21,3 +21,10 @@ If you want to contribute directly, follow these steps:
 7. Done! Your changes will be reviewed and integrated into the game. Thank you for contributing!
 
 If you have any questions, feel free to ask either in the discord or ingame.
+
+## Tooltips
+To get an up-to-date list of all the item tooltips, you can use the following code snippet in the console of the game:
+```javascript
+Object.values(window.Idlescape.data.items).map((item) => `${item.name}: ${item.extraTooltipInfo ?? ''}`).join('\n')
+```
+Expand the output, right-click and copy it.
