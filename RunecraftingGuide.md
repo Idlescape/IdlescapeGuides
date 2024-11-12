@@ -11,7 +11,7 @@ Runecrafting is the art of creating runes using rune slates and essence gathered
 within the game. You can see how to earn certain essences by hovering over each essence, while rune slates
 are primarily gained from Mining.
 <br />
-Every 20 levels you have in Runecrafting will increase the amount of runes made per action by 1. This is
+Every 30 levels you have in Runecrafting will increase the amount of runes made per action by 1. This is
 also increased by 1 when you consume a talisman for the first time.
 <br />
 You have a base rune crafting amount of {floored} runes per action, with a{' '}
