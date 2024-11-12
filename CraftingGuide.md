@@ -16,11 +16,7 @@ If you are unable to craft certain items, they may be locked behind a quest.
 
 ## Crafting Enchantment itemIcon(itemsIds.scroll_of_crafting)
 
-If you want to save yourself some ingredients per craft, you can enchantment some boots or gloves with the
-Crafting enchantment, which will save you 2% ingredients per enchantment level. Crafting 7 means 14% less
-crafting Ingredients needed per craft. Please note that this enchantment works per item, which means if
-something costs one ingredient per craft and you are making 270 of that item, it will still cost you 270 of
-that ingredient.
+The crafting enchantment currently doesnt do anything as of this moment, please suggest some ideas for what it could do!
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
 </p>

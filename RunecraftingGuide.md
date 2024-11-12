@@ -36,6 +36,16 @@ Runecrafting can additionally create Imbued Cloth, which requires Aquatic Fibers
 Cloth Weaving is not affected by standard Runecrafting Enchants, other than Efficiency and Haste. Rarely
 when weaving cloth, you'll find Ancient Cloth Fragments, which can be used to craft an Abandoned Academy
 Scroll. This is a solo gathering dungeon that will scale off your Fishing and Runecrafting levels.
+
+## Affixing
+Affixing gives you the ability to add additional stats to your items to further enhance your playstyles to a
+certain degree. In order to affix an item, you'll need runic dust matching the same rarity of the item you are
+attempting to affix, which can be obtained via research or combat.
+Once you have applied affixes, you can reroll them using more dust and gear scrap; obtained from research failures, in
+an attempt to get highier values on your rolls. When you reroll, you are given the option of either keeping your new roll
+or keeping your old rolls. If you are happy with a roll you currently have but want to reroll a different affix, you can 
+lock the affix you wish to keep and reroll the others by simply clicking on them.
+
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
 </p>
