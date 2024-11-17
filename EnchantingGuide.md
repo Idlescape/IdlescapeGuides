@@ -32,7 +32,6 @@ During augmenting at certain levels, you'll require an amount of the base item i
 ## Researching
 Researching is a new mechanic that will research the choosen item and procude Runic Dusts and Scraps at the cost of some resources.
 Successful researches on an item will procude Runic Dust at the same rarity that the item is being researched, while failures will destroy the item and create scrap.
-High level augmented gear will produce more Runic Dust and Scrap than base gear.
 
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
