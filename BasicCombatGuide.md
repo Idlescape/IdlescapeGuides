@@ -6,7 +6,7 @@ To get more abilities to use, you can get them from either skill books or equipp
 ## Consumables
 In combat you can use food, ammo, and runes as consumables to help you fight.
 Food will increase survivability, while ammo will increase damage.
-Runes are used mostly in magic for certain abilities, without them the skills wont be as potent.
+Runes are used mostly in magic for certain abilities, without them the skills won't be as potent.
 
 ## Abilities and Rotations
 When you obtain abilities, you can slot them into a rotation, which will automatically execute in combat related activities.

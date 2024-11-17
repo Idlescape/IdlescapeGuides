@@ -39,7 +39,7 @@ week, growing stronger the farther longer they are in their growth.
 	</li>
 </ul>
 
-## TrapsitemIcon(itemsIds.box_trap)
+## Traps itemIcon(itemsIds.box_trap)
 You can craft
 different kinds of traps using logs from Foraging. These traps can be used to collect some useful items used
 in crafting Ranged Equipment, such as Scales, Chiten, and furs/hides to make leather. Different traps are
