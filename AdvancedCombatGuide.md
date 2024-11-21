@@ -42,19 +42,18 @@ affinity, which would be added with the +35% fire affinity given by the Mantle o
 affinity of +50%). Affinities can increase or decrease your total effectiveness in combat, but not as
 drastically as it first seems. Each ability used takes an average of all styles used in an ability.
 <br />
-Player Stats: +50% magic affinity,, +115% fire affinity
+Player Stats: +50% magic affinity, +215% fire affinity
 <br />
 Ability Being Used: Fireball (1x Magic, 1.33x Fire) {abilityIcon(abilitiesIds.fire_ball)}
 <br />
-(Magicaffinity x Magicmultiplier1 + Fireaffinity x Firemultiplier2) / 2
+(MagicAffinity x AbilityMagicMultiplier + FireAffinity x AbilityFireMultiplier) / AffinityTypeCount
 <br />
 ↓↓
 <br />
-(1.00 x 1.50 + 1.33 x 2.15) / 2
+PlayerDamageEffectiveness = (1.00 x 1.50 + 1.33 x 2.15) / 2 = 2.179
 <br />
-↓↓
-<br />
-Effectiveness = 2.179
+Damage = AbilityDamage x (PlayerDamageEffectiveness / EnemyDefenseEffectiveness)
+
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by HeckYea with some edits and formatting from Feylos. Thx
 	HeckYea and Feylos {'<3'}
