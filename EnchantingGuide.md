@@ -13,7 +13,7 @@ The Lesser MAgic Tome can be found in the crafting skill.
 Scrollcrafting allows you to create enchanted scrolls, which you can then put on your gear. Each enchanted
 scroll requires one Scroll, Silver from Mining, and a variety of Runes from Runecrafting.
 You can filter what type of enchantments you want by clicking on the gear filters at the top.
-Please note that Enchants do not stack across gear. (Infero 5 on boots and Inferno 4 on gloves wont add up to 9, but will default 
+Please note that Enchants do not stack across gear. (Inferno 5 on boots and Inferno 4 on gloves wont add up to 9, but will default 
 to the highest enchanted one, which is 5.) 
 
 ## Enchanting
