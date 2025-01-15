@@ -5,7 +5,7 @@ Augmenting is how you increase the power of items, while Researching can create 
 ## itemIcon(itemsIds.lesser_magic_tome)Magic Tomes
 Your effective enchanting level can be increased by crafting a Lesser Magic Tome. This tome can be 
 upgrade by augging it to a certain level, transforming into the next tier, capping out at the Ancient Magic Tome. 
-The Lesser MAgic Tome can be found in the crafting skill.
+The Lesser Magic Tome can be found in the crafting skill.
 
 ## itemIcon(itemsIds.scroll_of_the_shrimp_lord)
 	Scrollcrafting
@@ -17,7 +17,7 @@ Please note that Enchants do not stack across gear. (Inferno 5 on boots and Infe
 to the highest enchanted one, which is 5.) 
 
 ## Enchanting
-After you've made some scrolls, this is where you'd go to apply them on the applicable gear. Gear can only
+After you've made some scrolls, this is where you'd go to apply them on any applicable gear. Gear can only
 hold so many enchantments, as denoted by the circle enchantment slots on any given item (if it has any).
 Starting gear can usually only hold one enchantment while late game gear can have anywhere from six to
 eight. You can overwrite enchantments in items with a different one. You can disenchant an enchanted item by
