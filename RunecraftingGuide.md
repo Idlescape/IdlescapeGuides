@@ -45,6 +45,8 @@ Once you have applied affixes, you can reroll them using more dust and gear scra
 an attempt to get highier values on your rolls. When you reroll, you are given the option of either keeping your new roll
 or keeping your old rolls. If you are happy with a roll you currently have but want to reroll a different affix, you can
 lock the affix you wish to keep and reroll the others by simply clicking on them.
+If you want to complete remove affixes from an item, you can do so by right clicking the item and pressing "Clear Affixes"
+This will however have a cost of gold, dust, and scrap.
 
 <p color='gray' fontStyle='oblique'>
 	A significant part of this guide was written by Feylos. Thx Feylos {'<3'}
