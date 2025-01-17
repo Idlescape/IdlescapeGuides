@@ -39,13 +39,13 @@ Scroll. This is a solo gathering dungeon that will scale off your Fishing and Ru
 
 ## Affixing
 Affixing gives you the ability to add additional stats to your items to further enhance your playstyles to a
-certain degree. In order to affix an item, you'll need runic dust matching the same rarity of the item you are
-attempting to affix, which can be obtained via research or combat.
-Once you have applied affixes, you can reroll them using more dust and gear scrap; obtained from research failures, in
-an attempt to get highier values on your rolls. When you reroll, you are given the option of either keeping your new roll
-or keeping your old rolls. If you are happy with a roll you currently have but want to reroll a different affix, you can
-lock the affix you wish to keep and reroll the others by simply clicking on them.
-If you want to complete remove affixes from an item, you can do so by clicking the item and pressing "Clear Affixes"
+certain degree. In order to affix an item, you'll need runic dust matching the same rarity of the item you
+are attempting to affix, which can be obtained via research or combat. Once you have applied affixes, you
+can reroll them using more dust and gear scrap; obtained from research failures, in an attempt to get
+highier values on your rolls. When you reroll, you are given the option of either keeping your new roll or
+keeping your old rolls. If you are happy with a roll you currently have but want to reroll a different
+affix, you can lock the affix you wish to keep and reroll the others by simply clicking on them. If you want
+to completely remove affixes from an item, you can do so by clicking the item and pressing "Clear Affixes".
 This will however have a cost of gold, dust, and scrap.
 
 <p color='gray' fontStyle='oblique'>
