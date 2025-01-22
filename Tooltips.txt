@@ -302,7 +302,7 @@ Runite Gloves: Gloves cannot be traded.
 Stygian Gloves: Gloves cannot be traded.
 Hide Body:
 Fur Body:
-Thick Hide Body:
+Thick Hide Body:test
 Leather Body:
 Reinforced Leather Body:
 Chitin Body:
