@@ -305,21 +305,21 @@ Fur Body: Despite the itchiness, it’s easy to move in and provides some protec
 Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
 Leather Body: An quality piece created from dozens of tanned leather sections sewn together.
 Reinforced Leather Body: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better body piece without using exotic materials.
-Chitin Body: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Chitin Body: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. 
 Scale Body: Representing the pinnacle of human armor crafting abilities, this body has exceptional defensive capabilities without hindering movement at all.
 Hide Coif: A coarsely stitched garment worn only by those with nothing else to wear.
 Fur Coif: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
 Thick Hide Coif: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
 Leather Coif: An quality piece created from dozens of tanned leather sections sewn together.
 Reinforced Leather Coif: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better coif without using exotic materials.
-Chitin Coif: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Chitin Coif: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
 Scale Coif: Representing the pinnacle of human armor crafting abilities, this coif has exceptional defensive capabilities without hindering movement at all.
 Hide Trousers: A coarsely stitched garment worn only by those with nothing else to wear.
 Fur Trousers: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
 Thick Hide Trousers: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
 Leather Trousers: An quality piece created from dozens of tanned leather sections sewn together.
 Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
-Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
 Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
 Robe Top:
 Practitioner Robe Top:
@@ -351,7 +351,7 @@ Yew Recurve Bow: The strength of this bow quells all fears that the slithering y
 Elder Recurve Bow: The simple design of the recurve bow, perfected.
 Flimsy Longbow: Though it takes a few seconds to line up a shot, it can pierce prey effectively.
 Sturdy Longbow: A stronger bow suitable to take down larger prey and some monsters.
-Oak Longbow: With a bow like this, you could slay a dragon. If it were asleep, incapacitated, or otherwise not fighting back. And you had a few free hours.
+Oak Longbow: A stronger bow capable of handing tougher threats.
 Willow Longbow: Functionally no different from any other bow, but with a skull attached. Turns out they do make weapons stronger.
 Maple Longbow: This well-carved bow is suitable to take on almost any threat.
 Yew Longbow: A great bow that definitely isn’t evil.
