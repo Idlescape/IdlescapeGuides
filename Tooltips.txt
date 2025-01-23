@@ -300,9 +300,32 @@ Mithril Gloves: Gloves cannot be traded.
 Adamantite Gloves: Gloves cannot be traded.
 Runite Gloves: Gloves cannot be traded.
 Stygian Gloves: Gloves cannot be traded.
+<<<<<<< HEAD
+Hide Body: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Body: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Body: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Body: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better body piece without using exotic materials.
+Chitin Body: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Scale Body: Representing the pinnacle of human armor crafting abilities, this body has exceptional defensive capabilities without hindering movement at all.
+Hide Coif: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Coif: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Coif: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Coif: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Coif: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better coif without using exotic materials.
+Chitin Coif: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Scale Coif: Representing the pinnacle of human armor crafting abilities, this coif has exceptional defensive capabilities without hindering movement at all.
+Hide Trousers: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Trousers: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Trousers: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Trousers: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
+Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
+Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
+=======
 Hide Body:
 Fur Body:
-Thick Hide Body:
+Thick Hide Body:test
 Leather Body:
 Reinforced Leather Body:
 Chitin Body:
@@ -321,6 +344,7 @@ Leather Trousers:
 Reinforced Leather Trousers:
 Chitin Trousers:
 Scale Trousers:
+>>>>>>> a54cb08b6d40d6f03687f05a223d4963a5054d4e
 Robe Top:
 Practitioner Robe Top:
 Academy Robe Top:
@@ -342,34 +366,34 @@ Imbued Robe Bottom:
 Major Imbued Robe Bottom:
 Greater Imbued Robe Bottom:
 Elder Robe Bottom:
-Flimsy Recurve Bow:
-Sturdy Recurve Bow:
-Oak Recurve Bow:
-Willow Recurve Bow:
-Maple Recurve Bow:
-Yew Recurve Bow:
-Elder Recurve Bow:
-Flimsy Longbow:
-Sturdy Longbow:
-Oak Longbow:
-Willow Longbow:
-Maple Longbow:
-Yew Longbow:
-Elder Longbow:
-Flimsy Crossbow:
-Light Crossbow:
-Bone Crossbow:
-Heavy Crossbow:
-Reinforced Crossbow:
-Arbalest:
+Flimsy Recurve Bow: A simple bow, suitable for hunting weak prey.
+Sturdy Recurve Bow: Now with 20% less splinters!
+Oak Recurve Bow: A quality bow capable of handling most foes in the human territory. If only it was easier to wash the sap off your hands.
+Willow Recurve Bow: The skull on the bow watches out for you, shows you where to aim, when to shoot. Or maybe you’re just getting better at archery. Hard to tell.
+Maple Recurve Bow: A bow almost as strong as the sap is sticky.
+Yew Recurve Bow: The strength of this bow quells all fears that the slithering yew trees are haunted. Well, almost.
+Elder Recurve Bow: The simple design of the recurve bow, perfected.
+Flimsy Longbow: Though it takes a few seconds to line up a shot, it can pierce prey effectively.
+Sturdy Longbow: A stronger bow suitable to take down larger prey and some monsters.
+Oak Longbow: With a bow like this, you could slay a dragon. If it were asleep, incapacitated, or otherwise not fighting back. And you had a few free hours.
+Willow Longbow: Functionally no different from any other bow, but with a skull attached. Turns out they do make weapons stronger.
+Maple Longbow: This well-carved bow is suitable to take on almost any threat.
+Yew Longbow: A great bow that definitely isn’t evil.
+Elder Longbow: An incredible longbow with power like you’ve never seen. Is it possible to improve this design any further?
+Flimsy Crossbow: A basic attempt at a one-handed bow. By some miracle, it holds together despite the poor-quality materials. 
+Light Crossbow: An overall improvement to the previous design while still being easy to wield in one hand.
+Bone Crossbow: Attaching bones to weapons to make them stronger? Utter nonsense.
+Heavy Crossbow: An impressive weapon, though still a bit awkward to use in one hand.
+Reinforced Crossbow: An exceptional weapon capable striking down powerful beasts and monsters alike.
+Arbalest: You’re nearing the limit of simple crossbow technology. Perhaps researching this might lead to new technological developments?
 Elder Crossbow: Perhaps researching this crossbow will lead to new technological developments?
-Rough Throwing Knife:
-Throwing Knife:
-Light Throwing Knife:
-Refined Throwing Knife:
-Throwing Axe:
-Throwing Javelin:
-Throwing Spinner:
+Rough Throwing Knife: A roughly carved throwing knife. The runic etching on the blade makes it return to your hand no matter how far you throw it.
+Throwing Knife: In a stroke of genius, you realize you can hollow out the blade to make it fly faster. Structural integrity is for nerds.  
+Light Throwing Knife: If you remove any more of the blade, there won’t be anything left. 
+Refined Throwing Knife:Legend tells of a shade carrying a weapon much like this, traveling deep into an underground kingd… wait, wrong game.
+Throwing Axe: Finally, a reason to use the sharp end.
+Throwing Javelin: There are records of cave-idlers long ago who stuck sharp stones to sticks to use as weapons. Maybe there’s more merit to that than expected.
+Throwing Spinner: A thrown weapon surpassing all others. Don't play with it. You will cut yourself.
 Driftwood Wand:
 Sturdy Wand:
 Academy Wand:
@@ -435,7 +459,7 @@ Lesser Ladle: This could help you with cooking even if it doesn't look like much
 Ladle: This could help you with cooking! Grants 2 hidden levels of haste while cooking.
 Greater Ladle: For when you're allowed only a single spoonful. Grants 2 hidden levels of haste while cooking.
 Moss Maul: A hulking mass of moss covered material; requires a giant's strength to wield properly!
-Modified Diving Gloves: Ready to punch anything you might encounter underwater or above!
+Modified Diving Gloves: There appears to be some remnant of fire magic in these gloves. By researching these, it might be possible to restore those lost effects.
 King's Crown: The crown of a Valley's true forever king.
 Fire Orb: This orb of living flame sharpens the senses to an inhuman degree.
 Kalanahmatti: A mere fragment of the legendary spear 'Kalanahmatti' can still be fashioned into a powerful weapon!
