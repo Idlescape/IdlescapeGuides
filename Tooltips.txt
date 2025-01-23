@@ -300,7 +300,6 @@ Mithril Gloves: Gloves cannot be traded.
 Adamantite Gloves: Gloves cannot be traded.
 Runite Gloves: Gloves cannot be traded.
 Stygian Gloves: Gloves cannot be traded.
-<<<<<<< HEAD
 Hide Body: A coarsely stitched garment worn only by those with nothing else to wear.
 Fur Body: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
 Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
@@ -322,29 +321,6 @@ Leather Trousers: An quality piece created from dozens of tanned leather section
 Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
 Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear. Hopefully the shrimp god won’t curse you for wearing this.
 Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
-=======
-Hide Body:
-Fur Body:
-Thick Hide Body:test
-Leather Body:
-Reinforced Leather Body:
-Chitin Body:
-Scale Body:
-Hide Coif:
-Fur Coif:
-Thick Hide Coif:
-Leather Coif:
-Reinforced Leather Coif:
-Chitin Coif:
-Scale Coif:
-Hide Trousers:
-Fur Trousers:
-Thick Hide Trousers:
-Leather Trousers:
-Reinforced Leather Trousers:
-Chitin Trousers:
-Scale Trousers:
->>>>>>> a54cb08b6d40d6f03687f05a223d4963a5054d4e
 Robe Top:
 Practitioner Robe Top:
 Academy Robe Top:
