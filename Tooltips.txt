@@ -1,4 +1,4 @@
-Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
+`Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
 Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood and coal.
 Air Essence: Air Essence can be gathered by waiting patiently.
 Earth Essence: Earth Essence can be gathered while mining.
@@ -477,7 +477,7 @@ Cooked Giant King's Nails: Why would you eat this? That's disgusting.
 Crystal Mace: A manifested shard of chaos. It's able to channel magic fairly well, but seems unstable.
 Signet Ring: Carries the signature of some unknown entity.
 Mantle of Flame: Wrap yourself in the cozy flames of a dying star and be reborn.
-Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey at extreme range.
+Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey up close or from afar.
 Hands of Khaast: You feel as if you could break the world in two with your bare hands and then burn it all down.
 Shrimp Scraps: It would take a master craftsman to reshape this into something usable.
 Black Knight Titan's Helm: A helm that grants the strength of titans to its wearer!
@@ -494,7 +494,7 @@ Empowered Bestial Defender: Empowered through magic and sheer rage. A light, yet
 Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched and the method to create weapons such as this is lost to time.
 Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
 Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
-Razorfin: A large scimitar taken from a fish! You could probably use it as a paddle! Seems mildly magical, almost...
+Razorfin: A large scimitar taken from a fish! Seems particularly magical, but casting magic with a sword this wide will not be the most accurate.
 Elven Quiver: A quiver blessed by Elven magic! It appears to retrieve your expended ammunition automatically!
 Magic Quiver: A slightly magical quiver that seems to retrieve some of your expended ammunition automatically!
 Defender's Band: A ring fashioned from the cornerstone of a great castle.
@@ -502,7 +502,7 @@ Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
 Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
 Devourer's Band: What was, will be. What will be, was.
 Slayer's Pendant: A pendant depicting a sword through a skull. Small enough to fit in the palm of your hand!
-Alacrity Pendant: A pendant with a lightning bolt engraved on it. Though it greatly increases your speed, it also makes it harder to be accurate.
+Alacrity Pendant: A pendant with a lightning bolt engraved on it. Your speed is increased massively while wielding it, but your reflexes are still just as slow, making accuracy a problem.
 Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience. Not even the dead can escape taxes.
 Wrath and War: The demonic embodiment of Wrath and War. 'Warth'? Quite mad.
 Shrimp Scepter: A scepter formed from the void given shape: the Shrimp God.
@@ -605,6 +605,7 @@ Scroll of Elemental Accuracy: Combat Enchantment.
 Scroll of Physical Accuracy: Combat Enchantment.
 Scroll of Fishy Fortune: Fishing Enchantment.
 Scroll of Fiber Snagging: Fishing Enchantment.
+Scroll of Junk Snagging: Fishing Enchantment.
 Elven Royal Leggings: A pair of royal leggings that offer an incredible amount of flexibility.
 Elven Royal Tunic: A tunic fashioned from sort magical fiber you have never encountered. Not the most protective, but very light.
 Elven Royal Hat: Somehow lets you see better while you are wearing it!
@@ -624,6 +625,21 @@ Militia Quiver: A basic quiver to help with your ammo management.
 Rune Bag: A basic bag for managing your runes better.
 Goblin Club: A club typically wielded by goblins. Its crude nature lets it be more easily wielded by amateurs.
 Demon Tooth Spear: A hardy spear tipped with a demon tooth.
+Log Maul: It's pretty much just a big log to hit things with.
+Damaged Goblin Club: Crafting Material. Could be repaired into a Goblin Club.
+Sharp Demon Tooth: Crafting Material. Could be fashioned into a Demon Tooth Spear.
+Damaged Log Maul: Crafting Material. Could be repaired into a Log Maul.
+Soul Fragment: Crafting Material. Can be used to create weaponized souls or augment those souls.
+Damaged Militia Sling: Crafting Material. Could be repaired into a Militia Sling.
+Damaged Shaman Staff: Crafting Material. Could be repaired into a Shaman Staff. Is this just a barely magical ladle?
+Militia Sling: WIP art asset. A deceptively strong sling used for defense by some farmers and militia recruits. Easy to wield by amateurs.
+Shaman Staff: WIP art asset. A staff taken from a Goblin. It seems to just be a big ladle with some charms on it. Useless as a ladle, unfortunately.
+Shattered Forging Hammer: The broken and cursed remains of an ancient hammer. Its shards are held in place by an unknown force; is it worth meddling with?
+Broken Hammer Head: Crafting Material. A shattered hammer head. The pieces cannot be fully joined together, perhaps you can make something of this strange phenomena?
+Giant Champion's Belt: An enchanted former armband from a champion of the giants, perfect to fit around your waist instead! Giants are really big, huh?
+Spiked Cuffs: Imposing spiked cuffs that appear to increase the deadliness of your glancing blows.
+Bestial Cloak: A thick cloak to keep the claws of dangerous game from cutting too deeply.
+Charred Pelt: Crafting Material. The pelt taken from a fiery foe. Does not seem damaged at all; it is incredibly durable and light.
 All Potions:
 All Foods:
 Raw Chicken: Cooking Ingredient. Clucked its last cluck.
@@ -824,6 +840,8 @@ Winter Essence: Winter essence can be gathered by doing non-combat Christmas eve
 Gummy Shark: More likely to bite you than let you bite it!
 Angry Letter: An angrily worded letter from someone you threw a snowball at!
 Baubles: Commemorates Christmas 2021! How many can you collect?
+Extra Large Snowball: Normally used to build snowmen, but not today. Use '/throw NAME large' to "throw" at people!
+Extra Large Baubles: Commemorates Christmas 2024! How many can you collect? How many can you even hold? These things are heavy.
 Snowglobe: Stores your Christmas Spirit!
 Mr. Klimp: whatisthis? Fabled to have once costed trillions of gold.
 The Mine Dwelling Hamster: Back to the mines with you!!!
@@ -1075,7 +1093,24 @@ Enlightened Parchment: A mostly nonsensical rant that claims to know the truth o
 Slayer's Mark: A type of trophy taken from a slain foe.
 Token of Ownership: A token representing that some item was obtained.
 Token of Action: A token representing that some action was completed.
-Talent Respec Token: Allows a full respec of your talent tree. Consumed on use!
+Talent Respec Token: Allows a full respec of your talent tree. Consumed on use! Untradeable version.
+Tradeable Talent Respec Token: Allows a full respec of your talent tree. Consumed on use! Tradeable version.
+Wooden Cup: An enchanted wooden cup that occasionally leaks out barely drinkable water.
+Wooden Goblet: A more refined wooden cup. At least it can hold the water it conjures, but it is more useful for purifying water you find.
+Wooden Chalice: A fancy wooden chalice with engravings. No leaks and the water is never outright muddy. Getting better!
+Refined Wooden Chalice: A wooden chalice inlaid with cheap gems. They might actually be colored glass, but they may be enchanted to somewhat cool the conjured and cleaned water.
+Exquisite Wooden Chalice: A large wooden chalice resembling a trophy! Clear, cool water is always available to drink. Very fancy, but still made of wood.
+Small Silver Cup: A small silver cup. The water drawn from this cup is magically refreshing, but low in quantity. Very delicate and worth more than wood.
+Silver Goblet: A larger silver cup. Magically refreshing water that you can take more than a couple sips at a time from!
+Silver Chalice: An enchanted silver chalice. Has handles!
+Refined Silver Chalice: A silver chalice of fine craftsmanship with decorative engravings. Whether or not these engravings bolster its ability to conjure water is still up for debate.
+Exquisite Silver Chalice: A hefty silver chalice that would not be out of place in a rich wizard's tower as an artifact of some note. You can almost hear a healthy burbling stream when it produces water.
+Tall Gold Goblet: A small golden cup, barely able to contain any liquid, but very expensive nonetheless. What little liquid it produces matches the taste of the drinker perfectly.
+Wide Gold Goblet: A wide golden cup, but now wide instead of tall! Supports even more flavors!
+Golden Chalice: A golden chalice inlaid with real gems. The gems seem to sparkle and glow of their own volition, allowing the produced liquid to be either hot or cold. There is no doubt to your wealth when you drink from this.
+Refined Golden Chalice: A large golden chalice inlaid with engravings. The engravings seem to glow faintly, and the liquid produced is always the perfect temperature.
+Exquisite Golden Chalice: A huge golden chalice with engravings AND gems! Enchanted gems and glowing engravings indicate that this chalice is an artifact of some renown, capable of supplying an entire noble house with any beverage they may desire.
+Golden Grail: A veritable cauldron made of pure gold and inlaid with precious gems. Did you take this from a king, or did you become one just to own it? It deserves its own castle for how much it is worth. 'Property of Habs' is written on the bottom.
 Monster Tooth: A tooth taken from a slain monster; might be worth something to someone.
 Monster Horn: A horn taken from a slain monster; might be worth something to someone.
 Sturdy Horn: A sturdy horn taken from a slain monster; might be worth something to someone.
@@ -1109,4 +1144,5 @@ Ice Stone: A chunk of stone that appears to be imbued with ice. Useless to you, 
 A Diamond Plated Bug: I wonder who added this in? Some nerd probably.
 Valuable Furs: Worthless for making equipment out of but may be worth something to a vendor.
 Metal Slag: Slag from Smithing; it is completely useless to you but a vendor may be convinced to buy it.
-ban_hamer: with this hammer you can play whac-a-mole more efficiently
+ban_hamer: with this hammer you can play whac-a-mole more efficiently`
+
