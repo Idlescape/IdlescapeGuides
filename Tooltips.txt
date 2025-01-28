@@ -366,7 +366,7 @@ Elder Crossbow: Perhaps researching this crossbow will lead to new technological
 Rough Throwing Knife: A roughly carved throwing knife. The runic etching on the blade makes it return to your hand no matter how far you throw it.
 Throwing Knife: In a stroke of genius, you realize you can hollow out the blade to make it fly faster. Structural integrity is for nerds.  
 Light Throwing Knife: If you remove any more of the blade, there won’t be anything left. 
-Refined Throwing Knife:Legend tells of a shade carrying a weapon much like this, traveling deep into an underground kingd… wait, wrong game.
+Refined Throwing Knife: Excessively thin, this blade can slice enemies without them even seeing what hit them.
 Throwing Axe: Finally, a reason to use the sharp end.
 Throwing Javelin: There are records of cave-idlers long ago who stuck sharp stones to sticks to use as weapons. Maybe there’s more merit to that than expected.
 Throwing Spinner: A thrown weapon surpassing all others. Don't play with it. You will cut yourself.
