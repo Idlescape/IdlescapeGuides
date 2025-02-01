@@ -143,7 +143,7 @@ Adamantite Pickaxe: Adds 40 to your mining level when determining speed.
 Runite Pickaxe: Adds 50 to your mining level when determining speed.
 Stygian Pickaxe: Adds 60 to your mining level when determining speed.
 Dwarven Rocksmasher: A legendary mining tool using lost dwarven technology.
-Bronze Hatchet: Adds 10 to your effective foraging level when determining speed.
+Bronze Hatchet: The poor bronze hatchet. One can only imagine how it feels. Crafted from the weakest of materials, it is bound to be replaced, yet it is responsible for the destruction of its kin. Does it take pride in its moment of power, or does it wallow in despair at its doomed fate? One can only wonder.
 Iron Hatchet: Adds 20 to your foraging level when determining speed.
 Mithril Hatchet: Adds 30 to your foraging level when determining speed.
 Adamantite Hatchet: Adds 40 to your foraging level when determining speed.
@@ -185,7 +185,7 @@ Runite Tongs: Adds 50 to your smithing level.
 Stygian Tongs: Adds 60 to your smithing level.
 Lesser Magic Tome: A tome of magic that grants you minor benefits for augmentation.
 Major Magic Tome: A tome of magic that grants you some benefits for augmentation.
-Greater Magic Tome: A tome of magic that grants you benefits for augmentation.
+Greater Magic Tome: A tome of magic that grants you major benefits for augmentation.
 Elder Magic Tome: A tome of magic that grants you strong benefits for augmentation.
 Ancient Magic Tome: An ancient tome of magic that grants you the strongest benefits for augmentation.
 Apprentice Runic Chisel: A basic chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
@@ -243,20 +243,20 @@ Stygian Scimitar: A sword forged with demonic metal, it's razor sharp.
 Stygian Battleaxe: A rather heavy stygian axe. Will you stop using the blunt end already?
 Stygian Daggers: Pointy daggers infused with demonic energy. Still great at stabbing.
 Stygian Greatsword: A big heavy stygian sword. You could cleave enemies in two with this.
-Bronze Helm:
-Iron Helm:
+Bronze Helm: A simple bronze helm. Not the best, but better than nothing.
+Iron Helm: A standard issue iron helm ofted used by the militia.
 Obsidian Helm: You feel hidden fiery potential in this helm...
-Mithril Helm:
-Adamantite Helm:
-Runite Helm:
-Stygian Helm:
-Bronze Full Helm:
-Iron Full Helm:
+Mithril Helm: An average mithril helm, perfect for keeping your head intact.
+Adamantite Helm: A good adamantite helm, perfect for keeping your skull un-bashed.
+Runite Helm: A high quality runite helm, perfect for keeping your brain smooth and whole.
+Stygian Helm: An exceptional helm forged from demonic metal. Few foes could hurt you with this on.
+Bronze Full Helm: A basic bronze full helm. It has better defensive capabilities, but is a bit hard to see through.
+Iron Full Helm: An acceptable iron full helm. Stronger, but still hard to see through.
 Obsidian Full Helm: You feel hidden powerful potential in this full helm...
-Mithril Full Helm:
-Adamantite Full Helm:
-Runite Full Helm:
-Stygian Full Helm:
+Mithril Full Helm: A decent mithril full helm. Very strong, but still hard to see through.
+Adamantite Full Helm: A quality adamantite full helm. Very strong, but still hard to see through.
+Runite Full Helm: An impressive runite full helm. Very strong, but still hard to see through.
+Stygian Full Helm: An exceptional full helm made from demonic metal. You do know you can lift the visor, right?
 Bronze Shield: A crude bronze shield. Better then nothing.
 Iron Shield: A simple iron shield. The standard for most guards.
 Obsidian Shield: You feel hidden potential in this shield...
@@ -265,41 +265,41 @@ Adamantite Shield: A strong adamantite shield. It's comfortable as well!
 Runite Shield: A professionally made runite shield. Hardly ever dents or bends.
 Stygian Shield: A mastercrafted stygian shield. The demonic powers seems to repair the shield.
 Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
-Bronze Breastplate:
-Bronze Chainmail:
-Iron Breastplate:
-Iron Chainmail:
-Obsidian Breastplate:
+Bronze Breastplate: A basic bronze breastplate. Weaing it makes your movement feel sluggish.
+Bronze Chainmail: Simple chainmail made from bronze. Hardly protective, but it's a start.
+Iron Breastplate: A better breastplate made from iron. Provides more worthwhile defense considering its weight.
+Iron Chainmail: An okay piece of iron chainmail. It offers better defense without impeding your movement.
+Obsidian Breastplate: It's surprisingly sturdy for something made of glass.
 Obsidian Chainmail: You feel hidden potential in the chainmail...
-Mithril Breastplate:
-Mithril Chainmail:
-Adamantite Breastplate:
-Adamantite Chainmail:
-Runite Breastplate:
-Runite Chainmail:
-Stygian Breastplate:
-Stygian Chainmail:
-Bronze Plate Leggings:
-Iron Plate Leggings:
+Mithril Breastplate: A decent mithril breastplate. It's hard to move in but very protective.
+Mithril Chainmail: A decent chainmail piece made from mithril. Relatively strong without interfering with your movement.
+Adamantite Breastplate: A good adamantite breastplate. It's hard to move in but very protective.
+Adamantite Chainmail: A good chainmail piece made from adamantite. Relatively strong without infering with your movement.
+Runite Breastplate: A high quality mithril breastplate. It is still hard to move in, but its defensive abilities make up for it.
+Runite Chainmail: A high quality chainmail piece made from runite. It's almost impossible to scratch despite its light weight.
+Stygian Breastplate: The demonic power in the breastplate gives it unmatched defensive abilities. Still very heavy.
+Stygian Chainmail: Forged from demonic metal, this chainmail piece provides exceptional defence without slowing you down.
+Bronze Plate Leggings: Not the greatest defense, but provides basic protection from animals.
+Iron Plate Leggings: Incredibly uncomfortable. Now you know why the militia opts for fur trousers instead.
 Obsidian Plate Leggings: You feel hidden potential in these legs... The armor, not your legs.
-Mithril Plate Leggings:
-Adamantite Plate Leggings:
-Runite Plate Leggings:
-Stygian Plate Leggings:
+Mithril Plate Leggings: These mithril plate leggings are heavy and uncomfortable, but they provide solid defense.
+Adamantite Plate Leggings: These adamantite plate leggings are heavy and uncomfortable, but they provide good defense.
+Runite Plate Leggings: These runite plate leggings aren't the most comfortable, but they can protect you from most threats.
+Stygian Plate Leggings: Fashioned out of demonic metal, these leggings don't hurt your legs. Actually, you can't feel your legs at all while wearing these. They must be working well.
 Bronze Boots: These boots cannot be traded.
 Iron Boots: These boots cannot be traded.
 Obsidian Boots: You feel hidden potential in these boots...
 Mithril Boots: These boots cannot be traded.
 Adamantite Boots: These boots cannot be traded.
 Runite Boots: These boots cannot be traded.
-Stygian Boots: These boots cannot be traded.
+Stygian Boots: Wearing these, stubbing your toe is naught but a distant memory. Cannot be traded.
 Bronze Gloves: Gloves cannot be traded.
 Iron Gloves: Gloves cannot be traded.
 Obsidian Gloves: Gloves cannot be traded.
 Mithril Gloves: Gloves cannot be traded.
 Adamantite Gloves: Gloves cannot be traded.
 Runite Gloves: Gloves cannot be traded.
-Stygian Gloves: Gloves cannot be traded.
+Stygian Gloves: These gloves are exceptionally welded from demonic metal. Just wearing them makes you feel stronger. Cannot be traded.
 Hide Body: A coarsely stitched garment worn only by those with nothing else to wear.
 Fur Body: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
 Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
@@ -384,7 +384,7 @@ Imbued Staff:
 Major Imbued Staff:
 Greater Imbued Staff:
 Elder Staff:
-Arcane Notes:
+Arcane Notes: A reference book on how to properly cast beginner's magic. Not inherently magical unless you consider your nearly illegible handwriting to be on par with some ancient text.
 Simple Arcane Focus:
 Academy Focus:
 Imbued Focus:
@@ -398,8 +398,8 @@ Torn Banner: A torn banner still humming with magical power. You should restore 
 Necromancer's Cowl: A magical cowl to hide your face. Somewhat helps with keeping out the stench of the dead.
 Necromancer's Robe Top: The robes of a necromancer. Smells like death.
 Necromancer's Robe Bottoms: The robe bottoms of a necromancer.
-Book of Death:
-Necromancer's Wand:
+Book of Death: It has a powerful toxic aura. Just touching it feels like breaking a taboo, but great power is often found in such things.
+Necromancer's Wand: A wand capable of controlling death itself. Do you dare to take such power into your own hands?
 Necromancer's Remains: The rotten belongings of a long dead necromancer. Can be restored through crafting.
 Royal Elven Remnants: The remnants of a more civilized past. Can be restored through crafting.
 Gargoyle Shards: A burning shard taken from a failed experiment. Can be restored through crafting.
@@ -658,10 +658,10 @@ Diced Fruit: Fruit salad. Cook these for more nutrition!
 Chopped Vegetables: You're not sure if that tomato belongs here. Cook these for a hearty meal.
 Minced Meat: Cook them you monster!
 Butchered Monster: Really!? Is it better cooked?
-Sour Essence:
-Bitter Essence:
-Sweet Essence:
-Spicy Essence:
+Sour Essence: Essence extracted from sour foods. Used in alchemy.
+Bitter Essence: Essence extracted from bitter foods. Used in alchemy.
+Sweet Essence: Essence extracted from sweet foods. Used in alchemy.
+Spicy Essence: Essence extracted from spicy foods. Used in alchemy.
 Seed Oil: Made by pressing seeds. Cooking Ingredient.
 Questionable Food: You're not quite sure what this is supposed to be. Are you really going to eat it?
 Monster Surprise: ... Probably edible!
