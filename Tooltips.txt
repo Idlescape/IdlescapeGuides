@@ -150,22 +150,22 @@ Adamantite Hatchet: Adds 40 to your foraging level when determining speed.
 Runite Hatchet: Adds 50 to your foraging level when determining speed.
 Stygian Hatchet: Adds 60 to your foraging level when determining speed.
 The Grovekeeper: A legendary foraging tool. It appears to actually be alive.
-Sapphire Ring: A ring capable of holding weak enchantments.
-Sapphire Necklace: A necklace capable of holding weak enchantments.
-Emerald Ring: A ring capable of holding moderate enchantments.
-Emerald Necklace: A necklace capable of holding moderate enchantments.
-Ruby Ring: A ring capable of holding decent enchantments.
-Ruby Necklace: A necklace capable of holding decent enchantments.
-Diamond Ring: A ring capable of holding strong enchantments.
-Diamond Necklace: A necklace capable of holding strong enchantments.
+Sapphire Ring: A ring capable of holding weak enchantments. Old stories suggest that the bluer the Sapphire the more attuned to the Sea it is.
+Sapphire Necklace: A necklace capable of holding weak enchantments. Despite its lower value and magical potential, pure Sapphires are known to glow in response to the presence of Runecrafting energies.
+Emerald Ring: A ring capable of holding moderate enchantments. Foragers argue that Emeralds give good luck in the wilderness.
+Emerald Necklace: A necklace capable of holding moderate enchantments. Farmers claim that the green hue indicates a connection to agriculture.
+Ruby Ring: A ring capable of holding decent enchantments. Miners claim that some Rubies glow slightly in the presence of rarer ores.
+Ruby Necklace: A necklace capable of holding decent enchantments. Rubies are highly valued in Goblin society for representing the purity of the Cooking fire.
+Diamond Ring: A ring capable of holding strong enchantments. One of the hardest natural gems, it is suggested that Diamonds are only naturally found in select chunks of ore when refined in a certain way.
+Diamond Necklace: A necklace capable of holding strong enchantments. Rumored to aid in harnessing Enchanting energies.
 Prismatic Necklace: A necklace capable of holding extraordinary enchantments.
 Prismatic Ring: A ring capable of holding extraordinary enchantments.
-Black Opal Ring: A ring capable of holding powerful enchantments.
-Black Opal Necklace: A necklace capable of holding powerful enchantments.
+Black Opal Ring: A ring capable of holding powerful enchantments. Its unnatural gem is rumored to have more devious, magical origins than its more common counterparts.
+Black Opal Necklace: A necklace capable of holding powerful enchantments. Black Opals are said to be the product of unnatural alchemical processes.
 Gold Ring: A simple golden ring, ready to hold limitless potential.
 Gold Necklace: A simple golden necklace, ready to hold limitless potential.
 Corrupted Ring: None are incorruptible. Succumb to the hunger.
-Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman. You feel safe and healthy with this on.
+Ancient Nature Amulet: An ancient energy keeps you from attempting to absorb the talisman. You feel more connected to nature with this around.
 Ancient Fire Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of flame.
 Ancient Water Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you could wield an aspect of ice.
 Ancient Blood Amulet: An ancient energy keeps you from attempting to absorb the talisman. With this you bathe in the blood of your enemies. Very edgy.
@@ -243,20 +243,20 @@ Stygian Scimitar: A sword forged with demonic metal, it's razor sharp.
 Stygian Battleaxe: A rather heavy stygian axe. Will you stop using the blunt end already?
 Stygian Daggers: Pointy daggers infused with demonic energy. Still great at stabbing.
 Stygian Greatsword: A big heavy stygian sword. You could cleave enemies in two with this.
-Bronze Helm:
-Iron Helm:
+Bronze Helm: 
+Iron Helm: 
 Obsidian Helm: You feel hidden fiery potential in this helm...
-Mithril Helm:
-Adamantite Helm:
-Runite Helm:
-Stygian Helm:
-Bronze Full Helm:
-Iron Full Helm:
+Mithril Helm: 
+Adamantite Helm: 
+Runite Helm: 
+Stygian Helm: 
+Bronze Full Helm: 
+Iron Full Helm: 
 Obsidian Full Helm: You feel hidden powerful potential in this full helm...
-Mithril Full Helm:
-Adamantite Full Helm:
-Runite Full Helm:
-Stygian Full Helm:
+Mithril Full Helm: 
+Adamantite Full Helm: 
+Runite Full Helm: 
+Stygian Full Helm: 
 Bronze Shield: A crude bronze shield. Better then nothing.
 Iron Shield: A simple iron shield. The standard for most guards.
 Obsidian Shield: You feel hidden potential in this shield...
@@ -265,27 +265,27 @@ Adamantite Shield: A strong adamantite shield. It's comfortable as well!
 Runite Shield: A professionally made runite shield. Hardly ever dents or bends.
 Stygian Shield: A mastercrafted stygian shield. The demonic powers seems to repair the shield.
 Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
-Bronze Breastplate:
-Bronze Chainmail:
-Iron Breastplate:
-Iron Chainmail:
-Obsidian Breastplate:
+Bronze Breastplate: 
+Bronze Chainmail: 
+Iron Breastplate: 
+Iron Chainmail: 
+Obsidian Breastplate: 
 Obsidian Chainmail: You feel hidden potential in the chainmail...
-Mithril Breastplate:
-Mithril Chainmail:
-Adamantite Breastplate:
-Adamantite Chainmail:
-Runite Breastplate:
-Runite Chainmail:
-Stygian Breastplate:
-Stygian Chainmail:
-Bronze Plate Leggings:
-Iron Plate Leggings:
+Mithril Breastplate: 
+Mithril Chainmail: 
+Adamantite Breastplate: 
+Adamantite Chainmail: 
+Runite Breastplate: 
+Runite Chainmail: 
+Stygian Breastplate: 
+Stygian Chainmail: 
+Bronze Plate Leggings: 
+Iron Plate Leggings: 
 Obsidian Plate Leggings: You feel hidden potential in these legs... The armor, not your legs.
-Mithril Plate Leggings:
-Adamantite Plate Leggings:
-Runite Plate Leggings:
-Stygian Plate Leggings:
+Mithril Plate Leggings: 
+Adamantite Plate Leggings: 
+Runite Plate Leggings: 
+Stygian Plate Leggings: 
 Bronze Boots: These boots cannot be traded.
 Iron Boots: These boots cannot be traded.
 Obsidian Boots: You feel hidden potential in these boots...
@@ -300,97 +300,97 @@ Mithril Gloves: Gloves cannot be traded.
 Adamantite Gloves: Gloves cannot be traded.
 Runite Gloves: Gloves cannot be traded.
 Stygian Gloves: Gloves cannot be traded.
-Hide Body:
-Fur Body:
-Thick Hide Body:
-Leather Body:
-Reinforced Leather Body:
-Chitin Body:
-Scale Body:
-Hide Coif:
-Fur Coif:
-Thick Hide Coif:
-Leather Coif:
-Reinforced Leather Coif:
-Chitin Coif:
-Scale Coif:
-Hide Trousers:
-Fur Trousers:
-Thick Hide Trousers:
-Leather Trousers:
-Reinforced Leather Trousers:
-Chitin Trousers:
-Scale Trousers:
-Robe Top:
-Practitioner Robe Top:
-Academy Robe Top:
-Imbued Robe Top:
-Major Imbued Robe Top:
-Greater Imbued Robe Top:
-Elder Robe Top:
-Robe Hood:
-Practitioner Hood:
-Academy Hood:
-Imbued Hood:
-Major Imbued Hood:
-Greater Imbued Hood:
-Elder Hood:
-Robe Bottom:
-Practitioner Robe Bottom:
-Academy Robe Bottom:
-Imbued Robe Bottom:
-Major Imbued Robe Bottom:
-Greater Imbued Robe Bottom:
-Elder Robe Bottom:
-Flimsy Recurve Bow:
-Sturdy Recurve Bow:
-Oak Recurve Bow:
-Willow Recurve Bow:
-Maple Recurve Bow:
-Yew Recurve Bow:
-Elder Recurve Bow:
-Flimsy Longbow:
-Sturdy Longbow:
-Oak Longbow:
-Willow Longbow:
-Maple Longbow:
-Yew Longbow:
-Elder Longbow:
-Flimsy Crossbow:
-Light Crossbow:
-Bone Crossbow:
-Heavy Crossbow:
-Reinforced Crossbow:
-Arbalest:
+Hide Body: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Body: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Body: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Body: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better body piece without using exotic materials.
+Chitin Body: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
+Scale Body: Representing the pinnacle of human armor crafting abilities, this body has exceptional defensive capabilities without hindering movement at all.
+Hide Coif: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Coif: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Coif: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Coif: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Coif: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better coif without using exotic materials.
+Chitin Coif: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
+Scale Coif: Representing the pinnacle of human armor crafting abilities, this coif has exceptional defensive capabilities without hindering movement at all.
+Hide Trousers: A coarsely stitched garment worn only by those with nothing else to wear.
+Fur Trousers: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
+Thick Hide Trousers: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
+Leather Trousers: An quality piece created from dozens of tanned leather sections sewn together.
+Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
+Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
+Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
+Robe Top: 
+Practitioner Robe Top: 
+Academy Robe Top: 
+Imbued Robe Top: 
+Major Imbued Robe Top: 
+Greater Imbued Robe Top: 
+Elder Robe Top: 
+Robe Hood: 
+Practitioner Hood: 
+Academy Hood: 
+Imbued Hood: 
+Major Imbued Hood: 
+Greater Imbued Hood: 
+Elder Hood: 
+Robe Bottom: 
+Practitioner Robe Bottom: 
+Academy Robe Bottom: 
+Imbued Robe Bottom: 
+Major Imbued Robe Bottom: 
+Greater Imbued Robe Bottom: 
+Elder Robe Bottom: 
+Flimsy Recurve Bow: A simple bow, suitable for hunting weak prey.
+Sturdy Recurve Bow: Now with 20% less splinters!
+Oak Recurve Bow: A quality bow capable of handling most foes in the human territory. If only it was easier to wash the sap off your hands.
+Willow Recurve Bow: The skull on the bow watches out for you, shows you where to aim, when to shoot. Or maybe you’re just getting better at archery. Hard to tell.
+Maple Recurve Bow: A bow almost as strong as the sap is sticky.
+Yew Recurve Bow: The strength of this bow quells all fears that the slithering yew trees are haunted. Well, almost.
+Elder Recurve Bow: The simple design of the recurve bow, perfected.
+Flimsy Longbow: Though it takes a few seconds to line up a shot, it can pierce prey effectively.
+Sturdy Longbow: A stronger bow suitable to take down larger prey and some monsters.
+Oak Longbow: A stronger bow capable of handing tougher threats.
+Willow Longbow: Functionally no different from any other bow, but with a skull attached. Turns out they do make weapons stronger.
+Maple Longbow: This well-carved bow is suitable to take on almost any threat.
+Yew Longbow: A great bow that definitely isn’t evil.
+Elder Longbow: An incredible longbow with power like you’ve never seen. Is it possible to improve this design any further?
+Flimsy Crossbow: A basic attempt at a one-handed bow. By some miracle, it holds together despite the poor-quality materials.
+Light Crossbow: An overall improvement to the previous design while still being easy to wield in one hand.
+Bone Crossbow: Attaching bones to weapons to make them stronger? Utter nonsense.
+Heavy Crossbow: An impressive weapon, though still a bit awkward to use in one hand.
+Reinforced Crossbow: An exceptional weapon capable striking down powerful beasts and monsters alike.
+Arbalest: You’re nearing the limit of simple crossbow technology. Perhaps researching this might lead to new technological developments?
 Elder Crossbow: Perhaps researching this crossbow will lead to new technological developments?
-Rough Throwing Knife:
-Throwing Knife:
-Light Throwing Knife:
-Refined Throwing Knife:
-Throwing Axe:
-Throwing Javelin:
-Throwing Spinner:
-Driftwood Wand:
-Sturdy Wand:
-Academy Wand:
-Imbued Wand:
-Major Imbued Wand:
-Greater Imbued Wand:
-Elder Wand:
-Driftwood Staff:
-Sturdy Staff:
-Academy Staff:
-Imbued Staff:
-Major Imbued Staff:
-Greater Imbued Staff:
-Elder Staff:
-Arcane Notes:
-Simple Arcane Focus:
-Academy Focus:
-Imbued Focus:
-Major Imbued Focus:
-Greater Imbued Focus:
-Elder Focus:
+Rough Throwing Knife: A roughly carved throwing knife. The runic etching on the blade makes it return to your hand no matter how far you throw it.
+Throwing Knife: In a stroke of genius, you realize you can hollow out the blade to make it fly faster. Structural integrity is for nerds.
+Light Throwing Knife: If you remove any more of the blade, there won’t be anything left.
+Refined Throwing Knife: Excessively thin, this blade can slice enemies without them even seeing what hit them.
+Throwing Axe: Finally, a reason to use the sharp end.
+Throwing Javelin: There are records of cave-idlers long ago who stuck sharp stones to sticks to use as weapons. Maybe there’s more merit to that than expected.
+Throwing Spinner: A thrown weapon surpassing all others. Don't play with it. You will cut yourself.
+Driftwood Wand: 
+Sturdy Wand: 
+Academy Wand: 
+Imbued Wand: 
+Major Imbued Wand: 
+Greater Imbued Wand: 
+Elder Wand: 
+Driftwood Staff: 
+Sturdy Staff: 
+Academy Staff: 
+Imbued Staff: 
+Major Imbued Staff: 
+Greater Imbued Staff: 
+Elder Staff: 
+Arcane Notes: 
+Simple Arcane Focus: 
+Academy Focus: 
+Imbued Focus: 
+Major Imbued Focus: 
+Greater Imbued Focus: 
+Elder Focus: 
 Blademaster's Shroud: Ragged and torn, the cloth itself appears to remember every battle.
 Blademaster's Memory: The distilled knowledge of an ancient warrior. Perhaps you can infuse this into a piece of equipment?
 Royal Banner: A banner representing the will and might of humanity, if you believe the propaganda. Heavy and unwieldy to carry, reducing your defenses slightly, but sure to inspire your comrades.
@@ -398,8 +398,8 @@ Torn Banner: A torn banner still humming with magical power. You should restore 
 Necromancer's Cowl: A magical cowl to hide your face. Somewhat helps with keeping out the stench of the dead.
 Necromancer's Robe Top: The robes of a necromancer. Smells like death.
 Necromancer's Robe Bottoms: The robe bottoms of a necromancer.
-Book of Death:
-Necromancer's Wand:
+Book of Death: 
+Necromancer's Wand: 
 Necromancer's Remains: The rotten belongings of a long dead necromancer. Can be restored through crafting.
 Royal Elven Remnants: The remnants of a more civilized past. Can be restored through crafting.
 Gargoyle Shards: A burning shard taken from a failed experiment. Can be restored through crafting.
@@ -435,7 +435,7 @@ Lesser Ladle: This could help you with cooking even if it doesn't look like much
 Ladle: This could help you with cooking! Grants 2 hidden levels of haste while cooking.
 Greater Ladle: For when you're allowed only a single spoonful. Grants 2 hidden levels of haste while cooking.
 Moss Maul: A hulking mass of moss covered material; requires a giant's strength to wield properly!
-Modified Diving Gloves: Ready to punch anything you might encounter underwater or above!
+Modified Diving Gloves: There appears to be some remnant of fire magic in these gloves. By researching these, it might be possible to restore those lost effects.
 King's Crown: The crown of a Valley's true forever king.
 Fire Orb: This orb of living flame sharpens the senses to an inhuman degree.
 Kalanahmatti: A mere fragment of the legendary spear 'Kalanahmatti' can still be fashioned into a powerful weapon!
@@ -449,9 +449,9 @@ Gargoyle Chainmail: You feel as if you could draw infernal power from this...
 Gargoyle Legs: You feel as if you could draw infernal power from this...
 Gargoyle Boots: These keep your feet very warm.
 Gargoyle Helm: You feel as if you could draw infernal power from this...
-Gargoyle Shield:
-Gargoyle Falchion:
-Gargoyle Daggers:
+Gargoyle Shield: 
+Gargoyle Falchion: 
+Gargoyle Daggers: 
 Gargoyle Glaive: You feel like there is more potential to be unlocked here...
 Infernal Lance: A legendary weapon of great prestige and power.
 Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
@@ -477,7 +477,7 @@ Cooked Giant King's Nails: Why would you eat this? That's disgusting.
 Crystal Mace: A manifested shard of chaos. It's able to channel magic fairly well, but seems unstable.
 Signet Ring: Carries the signature of some unknown entity.
 Mantle of Flame: Wrap yourself in the cozy flames of a dying star and be reborn.
-Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey at extreme range.
+Bestial Shawl: A hunter's shawl designed to give its wearer the ability to easily handle their prey up close or from afar.
 Hands of Khaast: You feel as if you could break the world in two with your bare hands and then burn it all down.
 Shrimp Scraps: It would take a master craftsman to reshape this into something usable.
 Black Knight Titan's Helm: A helm that grants the strength of titans to its wearer!
@@ -494,7 +494,7 @@ Empowered Bestial Defender: Empowered through magic and sheer rage. A light, yet
 Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched and the method to create weapons such as this is lost to time.
 Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
 Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
-Razorfin: A large scimitar taken from a fish! You could probably use it as a paddle! Seems mildly magical, almost...
+Razorfin: A large scimitar taken from a fish! Seems particularly magical, but casting magic with a sword this wide will not be the most accurate.
 Elven Quiver: A quiver blessed by Elven magic! It appears to retrieve your expended ammunition automatically!
 Magic Quiver: A slightly magical quiver that seems to retrieve some of your expended ammunition automatically!
 Defender's Band: A ring fashioned from the cornerstone of a great castle.
@@ -502,7 +502,7 @@ Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
 Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
 Devourer's Band: What was, will be. What will be, was.
 Slayer's Pendant: A pendant depicting a sword through a skull. Small enough to fit in the palm of your hand!
-Alacrity Pendant: A pendant with a lightning bolt engraved on it. Though it greatly increases your speed, it also makes it harder to be accurate.
+Alacrity Pendant: A pendant with a lightning bolt engraved on it. Your speed is increased massively while wielding it, but your reflexes are still just as slow, making accuracy a problem.
 Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience. Not even the dead can escape taxes.
 Wrath and War: The demonic embodiment of Wrath and War. 'Warth'? Quite mad.
 Shrimp Scepter: A scepter formed from the void given shape: the Shrimp God.
@@ -531,17 +531,17 @@ Scroll of Pyromancy: Skilling Enchantment.
 Scroll of Wealth: Skilling Enchantment.
 Scroll of Haste: Skilling Enchantment.
 Scroll of Naturalist: Gathering Enchantment.
-Scroll of Acrobatics:
+Scroll of Acrobatics: 
 Scroll of Critical Strike: Combat Enchantment.
-Scroll of Poisoning:
+Scroll of Poisoning: 
 Scroll of Accuracy: Combat Enchantment.
-Scroll of Deflect:
+Scroll of Deflect: 
 Scroll of Force: Combat Enchantment.
 Scroll of Healing: Combat Enchantment.
 Scroll of Weakening: General Enchantment.
 Scroll of Reinforcement: Combat Enchantment.
 Scroll of Protection: Combat Enchantment.
-Scroll of Parry:
+Scroll of Parry: 
 Scroll of False Equilibrium: Combat Enchantment.
 Scroll of Efficiency: Skilling Enchantment.
 Scroll of Fishing: Fishing Enchantment.
@@ -605,6 +605,9 @@ Scroll of Elemental Accuracy: Combat Enchantment.
 Scroll of Physical Accuracy: Combat Enchantment.
 Scroll of Fishy Fortune: Fishing Enchantment.
 Scroll of Fiber Snagging: Fishing Enchantment.
+Scroll of Junk Snagging: Fishing Enchantment.
+Scroll of Threadbare Charm: Runecrafting Enchantment.
+Scroll of Researcher's Boon: Skilling Enchantment.
 Elven Royal Leggings: A pair of royal leggings that offer an incredible amount of flexibility.
 Elven Royal Tunic: A tunic fashioned from sort magical fiber you have never encountered. Not the most protective, but very light.
 Elven Royal Hat: Somehow lets you see better while you are wearing it!
@@ -616,16 +619,33 @@ Crown of Spikes: A relic stolen from a collector's hoard. It bears a powerful en
 Dark Ring: A ring stolen from the Dark Vault; it enhances your combat prowess at the cost of your survivability. It appears to be a crude reconstruction of legendary rings of old.
 Pendant of Virulence: This pendant is a magical channel for poison, death, and altogether unpleasant things.
 Gargoyle Battleaxe: A rather heavy gargoyle axe. Will you stop using the blunt end already?
-Infernal Battleaxe:
-Infernal Daggers:
-Infernal Falchion:
-Infernal Shield:
+Infernal Battleaxe: 
+Infernal Daggers: 
+Infernal Falchion: 
+Infernal Shield: 
 Militia Quiver: A basic quiver to help with your ammo management.
 Rune Bag: A basic bag for managing your runes better.
 Goblin Club: A club typically wielded by goblins. Its crude nature lets it be more easily wielded by amateurs.
 Demon Tooth Spear: A hardy spear tipped with a demon tooth.
-All Potions:
-All Foods:
+Log Maul: It's pretty much just a big log to hit things with.
+Damaged Goblin Club: Crafting Material. Could be repaired into a Goblin Club.
+Sharp Demon Tooth: Crafting Material. Could be fashioned into a Demon Tooth Spear.
+Damaged Log Maul: Crafting Material. Could be repaired into a Log Maul.
+Soul Fragment: Crafting Material. Can be used to create weaponized souls or augment those souls.
+Damaged Militia Sling: Crafting Material. Could be repaired into a Militia Sling.
+Damaged Shaman Staff: Crafting Material. Could be repaired into a Shaman Staff. Is this just a barely magical ladle?
+Militia Sling: WIP art asset. A deceptively strong sling used for defense by some farmers and militia recruits. Easy to wield by amateurs.
+Shaman Staff: WIP art asset. A staff taken from a Goblin. It seems to just be a big ladle with some charms on it. Useless as a ladle, unfortunately.
+Shattered Forging Hammer: The broken and cursed remains of an ancient hammer. Its shards are held in place by an unknown force; is it worth meddling with?
+Broken Hammer Head: Crafting Material. A shattered hammer head. The pieces cannot be fully joined together, perhaps you can make something of this strange phenomena?
+Giant Champion's Belt: An enchanted former armband from a champion of the giants, perfect to fit around your waist instead! Giants are really big, huh?
+Spiked Cuffs: Imposing spiked cuffs that appear to increase the deadliness of your glancing blows.
+Bestial Cloak: A thick cloak to keep the claws of dangerous game from cutting too deeply.
+Charred Pelt: Crafting Material. The pelt taken from a fiery foe. Does not seem damaged at all; it is incredibly durable and light.
+Wand of the Phoenix: A wand cradling a dormant Phoenix egg. Its innate heat and magical properties make it an exceptional weapon in the right hands.
+Dormant Phoenix Egg: Crafting Material. A dormant Phoenix egg. Identical to a normal Chicken egg, except this one can boil water!
+All Potions: 
+All Foods: 
 Raw Chicken: Cooking Ingredient. Clucked its last cluck.
 Raw Beef: Cooking Ingredient. Fresh, never frozen!
 Spider Legs: Cooking Ingredient. It is somehow difficult to thread on a skewer.
@@ -658,10 +678,10 @@ Diced Fruit: Fruit salad. Cook these for more nutrition!
 Chopped Vegetables: You're not sure if that tomato belongs here. Cook these for a hearty meal.
 Minced Meat: Cook them you monster!
 Butchered Monster: Really!? Is it better cooked?
-Sour Essence:
-Bitter Essence:
-Sweet Essence:
-Spicy Essence:
+Sour Essence: 
+Bitter Essence: 
+Sweet Essence: 
+Spicy Essence: 
 Seed Oil: Made by pressing seeds. Cooking Ingredient.
 Questionable Food: You're not quite sure what this is supposed to be. Are you really going to eat it?
 Monster Surprise: ... Probably edible!
@@ -702,17 +722,17 @@ Birdie Curry: Did you just put an entire chicken in this dish without preparing 
 Beast Curry: Meat, spice, and everything nice! Or grain, mostly grain.
 Seafood Curry: There's just a whole fish in there. Why did you do that?
 Monster Gelato: Only partially inedible!
-Common Potion:
-Common Concentrated Potion:
-Common Large Potion:
-Rare Potion:
-Rare Concentrated Potion:
-Rare Large Potion:
-Epic Potion:
-Epic Large Potion:
-Legendary Potion:
-Legendary Large Potion:
-Epic Concentrated Potion:
+Common Potion: 
+Common Concentrated Potion: 
+Common Large Potion: 
+Rare Potion: 
+Rare Concentrated Potion: 
+Rare Large Potion: 
+Epic Potion: 
+Epic Large Potion: 
+Legendary Potion: 
+Legendary Large Potion: 
+Epic Concentrated Potion: 
 Water Imbued Dust: Crushed up water runes. Not exactly a delicacy, but it might have some sort of effect when cooked.
 Empty Vial: An empty vial to pour a standard potion into.
 Empty Large Vial: A large empty vial to pour a large potion into.
@@ -824,6 +844,8 @@ Winter Essence: Winter essence can be gathered by doing non-combat Christmas eve
 Gummy Shark: More likely to bite you than let you bite it!
 Angry Letter: An angrily worded letter from someone you threw a snowball at!
 Baubles: Commemorates Christmas 2021! How many can you collect?
+Extra Large Snowball: Normally used to build snowmen, but not today. Use '/throw NAME large' to "throw" at people!
+Extra Large Baubles: Commemorates Christmas 2024! How many can you collect? How many can you even hold? These things are heavy.
 Snowglobe: Stores your Christmas Spirit!
 Mr. Klimp: whatisthis? Fabled to have once costed trillions of gold.
 The Mine Dwelling Hamster: Back to the mines with you!!!
@@ -833,7 +855,7 @@ Frost Maul: A hulking mass of snow covered ice.
 Abusive: gamster
 Elite Titan Helm: A particularly intricate helmet, far more than the average Titan would wear.
 Ancient Crown: An incredible old crown. Could be a bracelet if you are a giant.
-Idlescape Bond: A token that can be redeemed for a month of Idlescape Plus. Can be traded in the Marketplace.
+Idlescape Bond: A token that can be redeemed for a month of Idlescape Plus. Can be traded in the Marketplace. 
 Has an increased tax-rate of 20% when sold on the Marketplace. WIP: NO FUNCTIONALITY YET
 Character Token: A token that can be redeemed for a new character slot.
 Active Character Token: A token that can be redeemed for a new active character slot. NOTE: You can only have one Default league character active at the same time.
@@ -885,6 +907,8 @@ Lich's Boots: For crushing the life out of your enemies.
 Marshall the Rat's Gun: It's a rat-sized gun! Not a gun the size of a rat, a gun that is sized for use by a rat. That's really small.
 Profile Slot Token: A token that can be redeemed to increase your profile slot count by 1.
 Randomisator Horse: A random horse. Ride it into the sunset.
+Lost Artisan: Constantly grumbling about the current state of 'Smelting' and the quality of equipment. Occasionally asks what year it is.
+Lost Craftsman: Constantly grumbling about the current state of 'Smelting' and the poor quality of equipment.
 RISE OF INFO: Ancient power emanates from the seal... It sorta smells like durian. Probably not a good idea to use this until raids are officially implemented.
 Black Knight's Trial: A dark scroll for a darker trial. Will you face it and reap the rewards?
 Giant Scroll: A gargantuan task for only the mightiest of heroes; are you counted amongst them?
@@ -926,7 +950,7 @@ Partial Map: A portion of a larger map. Useless on its own, but with the remaini
 Elder Gem: An elder gem. Prized heirloom of the Elves, or the final piece to a greater puzzle?
 Awakened Shrimp Eye: It's looking at you. Don't look too closely back.
 Dwarven Research Key: The key to enter the Dwarven Research Station.
-Heart of the Oak: The key to enter the Nature Athaneum.
+Heart of the Oak: The key to enter the Nature Atheneum.
 Abandoned Academy Scroll: The key to enter the Abandoned Academy Base.
 Core Fragment: A chunk of ore drawn from the core of the land itself. Not human mined, so where did it come from?
 Core Ingot: A material that mimics Dwarven Craftdwarfship. Using this to craft a key would grant you access to long lost Dwarven ruins.
@@ -962,7 +986,7 @@ Flaming Cache: A cache containing loot from the Palace of Flames. It's still war
 Storm Cache: A cache containing loot from the Eye of the Storm. You feel as if you're being watched.
 Maelstrom Cache: A cache containing loot from the Maelstrom. It whispers to you.
 INFO Cache: A cache containing loot from INFO themself. They see you as worthy. At least a bit.
-Ancient Cache:
+Ancient Cache: 
 Dwarven Research Cache: A cache containing loot from a Dwarven Research Station. What secrets does it contain?
 Elven Research Cache: A cache containing loot from the Nature Athaneum. What secrets does it contain?
 Academy Research Cache: A cache containing loot from the Abandoned Academy Base. What lost secrets does it contain?
@@ -973,20 +997,20 @@ Basic Tacklebox: A basic fishing tacklebox aimed for use by hobbyists and amateu
 Advanced Tacklebox: An advanced fishing tacklebox for those who've gotten more than their toes wet in fishing.
 Pro Tacklebox: The pro fishing tacklebox has nearly everything you could possibly need to catch fish.
 Supreme Tacklebox: A supreme fishing tacklebox rife with all the bits and bobs a master fisherman would need to fish up just about anything.
-Ocean's Embrace: The origin of this mythical equipment is lost to history but there is no doubt regarding its power. Enhances ancient fishing.
+Ocean's Embrace: The origin of this mythical equipment is lost to history but there is no doubt regarding its power.
 Earthworm Bait: A tiny lil' earthworm.
 Fat Nightcrawler Bait: A big ol' nightcrawler.
 Glowbug Bait: A small glowbug.
 Shrimp Tail Bait: The tail of a shrimp.
 Fish Guts Bait: Some fish guts. Ew.
 Smelly Meat Bait: Some smelly, probably not rotten, meat.
-Hardened Hook Bait: A hook designed to make reeling in big catches easier. Has a flat +15% chance to being preserved.
-Alluring Lure Bait: A shiny lure designed to entice even the most wary catches. Has a flat +15% chance to being preserved.
-Writhing Tentacle Bait: An ancient writhing tentacle that reacts when you poke it. Enhances ancient fishing.
-Mysterious Bait: Who knows what effects using this bait would have? Each and every one of them is unique! Each bait has between +50 and +200 to a random fishing stat.
+Hardened Hook Bait: A hook designed to make reeling in big catches easier. Has a flat +15% chance of being preserved.
+Alluring Lure Bait: A shiny lure designed to entice even the most wary catches. Has a flat +15% chance of being preserved.
+Writhing Tentacle Bait: An ancient writhing tentacle that reacts when you poke it.
+Mysterious Bait: Who knows what effects using this bait would have? Each and every one of them is unique! Each bait has between +50 and +200 to all fishing stat.
 Smelly Fish Guts Bait: Some smelly fish guts. Ew.
 Crustacean Meat Bait: The meat of a crustacean.
-Improved Hook Bait: An improved hook for improving your equipment bonuses. Has a flat +15% chance to being preserved.
+Improved Hook Bait: An improved hook for improving your equipment bonuses. Has a flat +15% chance of being preserved.
 Rotten Driftwood: A rotten piece of driftwood. Could it still be used for something?
 Sturdy Driftwood: A sturdy piece of driftwood. Could it still be used for something?
 Aquamarine: An aquamarine crystal. If you hold it up to your ear you can look like an idiot!
@@ -1021,7 +1045,7 @@ Runecrafting Shard: A shard for creating skilling gear.
 Camo Cloak: A cloak with camo elements to help you avoid fights in dangerous places. Increases your combat ability in dangerous gathering encounters and gathering dungeons.
 Flamboyant Cape: A bright, flamboyant cape designed to catch the eye of monsters. Increases your combat ability in dangerous gathering encounters and gathering dungeons.
 Small Bag of Holding: A small bag that possesses some magic to help you gather all that you can from a resource. Will automatically be upgraded to the next bag of holding tier at +5 augment levels.
-Bag of Holding: A bag that possesses some magic to help you gather all that you can from a resource. Will automatically be upgraded to the next bag of holding tier at +10 augment levels.
+Bag of Holding: A bag that possesses some magic to help you gather all that you can from a resource. Will automatically be upgraded to the next bag of holding tier at +7 augment levels.
 Large Bag of Holding: A large bag that possesses some magic to help you gather all that you can from a resource.
 Newbie Adventurer's Backpack: A backpack with all the goodies and supplies necessary to help an adventurer get more research done when gathering in the field. May require some adjustment by a new owner before becoming comfortable to wear!
 Dwarven Adventurer's Backpack: A redesigned backpack drawing from dwarven research to massively increase research capabilities when gathering out in the field. May require some significant adjustment by a new owner before becoming comfortable to wear!
@@ -1075,7 +1099,24 @@ Enlightened Parchment: A mostly nonsensical rant that claims to know the truth o
 Slayer's Mark: A type of trophy taken from a slain foe.
 Token of Ownership: A token representing that some item was obtained.
 Token of Action: A token representing that some action was completed.
-Talent Respec Token: Allows a full respec of your talent tree. Consumed on use!
+Talent Respec Token: Allows a full respec of your talent tree. Consumed on use! Untradeable version.
+Tradeable Talent Respec Token: Allows a full respec of your talent tree. Consumed on use! Tradeable version.
+Wooden Cup: An enchanted wooden cup that occasionally leaks out barely drinkable water.
+Wooden Goblet: A more refined wooden cup. At least it can hold the water it conjures, but it is more useful for purifying water you find.
+Wooden Chalice: A fancy wooden chalice with engravings. No leaks and the water is never outright muddy. Getting better!
+Refined Wooden Chalice: A wooden chalice inlaid with cheap gems. They might actually be colored glass, but they may be enchanted to somewhat cool the conjured and cleaned water.
+Exquisite Wooden Chalice: A large wooden chalice resembling a trophy! Clear, cool water is always available to drink. Very fancy, but still made of wood.
+Small Silver Cup: A small silver cup. The water drawn from this cup is magically refreshing, but low in quantity. Very delicate and worth more than wood.
+Silver Goblet: A larger silver cup. Magically refreshing water that you can take more than a couple sips at a time from!
+Silver Chalice: An enchanted silver chalice. Has handles!
+Refined Silver Chalice: A silver chalice of fine craftsmanship with decorative engravings. Whether or not these engravings bolster its ability to conjure water is still up for debate.
+Exquisite Silver Chalice: A hefty silver chalice that would not be out of place in a rich wizard's tower as an artifact of some note. You can almost hear a healthy burbling stream when it produces water.
+Tall Gold Goblet: A small golden cup, barely able to contain any liquid, but very expensive nonetheless. What little liquid it produces matches the taste of the drinker perfectly.
+Wide Gold Goblet: A wide golden cup, but now wide instead of tall! Supports even more flavors!
+Golden Chalice: A golden chalice inlaid with real gems. The gems seem to sparkle and glow of their own volition, allowing the produced liquid to be either hot or cold. There is no doubt to your wealth when you drink from this.
+Refined Golden Chalice: A large golden chalice inlaid with engravings. The engravings seem to glow faintly, and the liquid produced is always the perfect temperature.
+Exquisite Golden Chalice: A huge golden chalice with engravings AND gems! Enchanted gems and glowing engravings indicate that this chalice is an artifact of some renown, capable of supplying an entire noble house with any beverage they may desire.
+Golden Grail: A veritable cauldron made of pure gold and inlaid with precious gems. Did you take this from a king, or did you become one just to own it? It deserves its own castle for how much it is worth. 'Property of Habs' is written on the bottom.
 Monster Tooth: A tooth taken from a slain monster; might be worth something to someone.
 Monster Horn: A horn taken from a slain monster; might be worth something to someone.
 Sturdy Horn: A sturdy horn taken from a slain monster; might be worth something to someone.
