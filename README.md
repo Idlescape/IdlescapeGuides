@@ -28,4 +28,5 @@ To get an up-to-date list of all the item tooltips, you can use the following co
 Object.values(window.Idlescape.data.items).map((item) => `${item.name}: ${item.extraTooltipInfo ?? ''}`).join('\n')
 ```
 Expand the output, right-click and copy it.
+
 OperaGX - Copy string contents when you right click it.
