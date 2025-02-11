@@ -13,14 +13,16 @@ When you obtain abilities, you can slot them into a rotation, which will automat
 You can do this by either dragging and dropping them into place, or clicking the abilities.
 Abilities in the first slot will be prioritized when they are off cooldown compared to abilities in the last slot.
 You can change your auto attack to be more specalized depending on your equipment. These abilities have no cooldown and are placed at the end of your rotation.
-By default, you'll start with two ability slots and will gain more as you increase in level.
+By default, you'll start with {ROTATION_LENGTH_MINIMUM} ability slots and will gain more as you increase in level.
 
 ## Waves and Elites
-When you defeat all enemies on the screen, it will start a new "wave".
-After defeating 50 of these, you will go up in difficulty, restock your food, and the stats of the enemies will increase, but so will the loot rewards.
-Around difficulty 4, you will start to see more Elite variants of enemies that are stronger and probably a different color.
-The higher the difficulty, the more elite enemies you will see, the more innate Treasure Hunter you'll have.
-(Note that the Treasure Hunter bonus is base on the difficulty of the wave, so you'll see different values for each wave.)
+When you defeat all enemies on the screen, it will start a new "wave". After defeating 50 of
+these, you will go up in difficulty, restock your food from your loadout, and the stats of the
+enemies will increase, but so will the loot rewards. Around difficulty 4, you will start to see
+more Elite variants of enemies that are stronger and probably a different color. The higher the
+difficulty, the more elite enemies you will see, the more innate Treasure Hunter you'll have.
+(Note that the Treasure Hunter bonus is base on the difficulty of the wave, so you'll see
+different values for each wave.)
 
 ## Death and Respawning
 When your HP hits zero, you will be "knocked out" and respawn after a minute in most areas.

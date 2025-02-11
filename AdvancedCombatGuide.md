@@ -3,15 +3,15 @@ There are four styles of combat that you can choose to do: melee, ranged, magic,
 of melee weapons (such as scimitars and daggers). Ranged makes use of ranged weapons (such as longbows and
 crossbows). Magic makes use of magic weapons (such as staffs and wands). Hybrid utilizes 2 or more of the
 above skills with weapons that provide hybrid statistics (such as Shapeless Scythe)
-# Player, Equipment Stats, and Skills
+# Player, Equipment Stats, and Abilities
 Both your equipment and your skill levels decide how effective you are in combat. You must know how they
 work in order to make effective loadouts. Combat is broken into six skills, each with their own experience and how to earn it.
 Constitution: Earned when other Combat experience is earned.
 Attack: Landing hits in Combat.
 Defense: Tanking, mitigating, or dodging damage in Combat.
-Strength: Dealing damage with Melee related skills/autos.
-Magic: Dealing damage with Magic related skills/autos.
-Ranged: Dealing damage with Ranged related skills/autos.
+Strength: Dealing damage with Melee related abilities.
+Magic: Dealing damage with Magic related abilities.
+Ranged: Dealing damage with Ranged related abilities.
 Experience for each combat skill is rewarded on monster kill, so dying before defeating a mob will reward no experience.
 
 ## The Offensive Stats
