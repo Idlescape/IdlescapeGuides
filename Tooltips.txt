@@ -235,7 +235,7 @@ Adamantite Scimitar: A simple adamantite sword. The edge is very sharp.
 Adamantite Battleaxe: A rather heavy adamantite axe. It's easier to just wack enemies with this.
 Adamantite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
 Adamantite Greatsword: A big heavy adamantite sword. At least you can slash someone with this easily.
-Runite Scimitar: A decent blade, you feel lightning form whenever you augment this.. before it suddenly vanishes. Strange.
+Runite Scimitar: A decent blade, you feel lightning form whenever you augment this... before it suddenly vanishes. Strange.
 Runite Battleaxe: A rather heavy runite axe. It's easier to just wack enemies with this.
 Runite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
 Runite Greatsword: A big heavy runite sword. At least you can slash someone with this easily.
@@ -321,24 +321,24 @@ Leather Trousers: An quality piece created from dozens of tanned leather section
 Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
 Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
 Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
-Robe Top:
-Practitioner Robe Top:
-Academy Robe Top:
-Imbued Robe Top:
+Robe Top: Every wizard wears a robe top. This probably counts.
+Practitioner Robe Top: A simple cloth robe top. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Robe Top: A replica of the robe top worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Robe Top: An adequately woven robe top commonly worn by hunters and adventurers. 
 Major Imbued Robe Top:
 Greater Imbued Robe Top:
 Elder Robe Top:
-Robe Hood:
-Practitioner Hood:
-Academy Hood:
-Imbued Hood:
+Robe Hood: Every wizard wears a robe hood. This probably counts.
+Practitioner Hood: A simple cloth hood. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Hood: A replica of the hood worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Hood: An adequately woven hood commonly worn by hunters and adventurers. 
 Major Imbued Hood:
 Greater Imbued Hood:
-Elder Hood:
-Robe Bottom:
-Practitioner Robe Bottom:
-Academy Robe Bottom:
-Imbued Robe Bottom:
+Elder Hood: Just wearing this hood makes you feel 
+Robe Bottom: Every wizard wears a robe bottom. This probably counts. 
+Practitioner Robe Bottom: A simple cloth robe bottom. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Robe Bottom: A replica of the robe bottom worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Robe Bottom: An adequately woven robe bottom commonly worn by hunters and adventurers. 
 Major Imbued Robe Bottom:
 Greater Imbued Robe Bottom:
 Elder Robe Bottom:
@@ -370,7 +370,7 @@ Refined Throwing Knife: Excessively thin, this blade can slice enemies without t
 Throwing Axe: Finally, a reason to use the sharp end.
 Throwing Javelin: There are records of cave-idlers long ago who stuck sharp stones to sticks to use as weapons. Maybe there’s more merit to that than expected.
 Throwing Spinner: A thrown weapon surpassing all others. Don't play with it. You will cut yourself.
-Driftwood Wand:
+Driftwood Wand: This could techincally be considered a wand if you look at it from the right angle.
 Sturdy Wand:
 Academy Wand:
 Imbued Wand:
@@ -449,9 +449,9 @@ Gargoyle Chainmail: You feel as if you could draw infernal power from this...
 Gargoyle Legs: You feel as if you could draw infernal power from this...
 Gargoyle Boots: These keep your feet very warm.
 Gargoyle Helm: You feel as if you could draw infernal power from this...
-Gargoyle Shield:
-Gargoyle Falchion:
-Gargoyle Daggers:
+Gargoyle Shield: When you augment it, you feel a wave of heat. Strange.
+Gargoyle Falchion: When you augment it, you feel a wave of heat. Strange.
+Gargoyle Daggers: When you augment it, you feel a wave of heat. Strange.
 Gargoyle Glaive: You feel like there is more potential to be unlocked here...
 Infernal Lance: A legendary weapon of great prestige and power.
 Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
@@ -616,10 +616,10 @@ Crown of Spikes: A relic stolen from a collector's hoard. It bears a powerful en
 Dark Ring: A ring stolen from the Dark Vault; it enhances your combat prowess at the cost of your survivability. It appears to be a crude reconstruction of legendary rings of old.
 Pendant of Virulence: This pendant is a magical channel for poison, death, and altogether unpleasant things.
 Gargoyle Battleaxe: A rather heavy gargoyle axe. Will you stop using the blunt end already?
-Infernal Battleaxe:
-Infernal Daggers:
-Infernal Falchion:
-Infernal Shield:
+Infernal Battleaxe: It's a matter of pride at this point. You will use the blunt end, effectiveness be damned.
+Infernal Daggers: Smaller more pointy swords. Easy to handle and very strong. Truly, the pinnacle of stabbing.
+Infernal Falchion: A falchion that burns with every cut, but is cool to the touch. How does it produce those flames?
+Infernal Shield: It's nearly weightless. No, just holding it makes you feel a bit stronger. This shield defies common sense.
 Militia Quiver: A basic quiver to help with your ammo management.
 Rune Bag: A basic bag for managing your runes better.
 Goblin Club: A club typically wielded by goblins. Its crude nature lets it be more easily wielded by amateurs.
