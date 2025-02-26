@@ -1,5 +1,5 @@
 `Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
-Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood, coal, and skill books.
+Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood, coal, and ability books.
 Air Essence: Air Essence can be gathered by waiting patiently.
 Earth Essence: Earth Essence can be gathered while mining.
 Fire Essence: Fire Essence can be gathered while smithing or cooking.
@@ -142,7 +142,7 @@ Mithril Pickaxe: Adds 30 to your effective mining level when determining speed.
 Adamantite Pickaxe: Adds 40 to your effective mining level when determining speed.
 Runite Pickaxe: Adds 50 to your effective mining level when determining speed.
 Stygian Pickaxe: Lighter than it looks, but almost unbreakable. Adds 60 to your effective mining level when determining speed.
-Bronze Hatchet: A tool to destroy trees, but is largely made of tree. So odd. Adds 10 to your effective foraging level when determining speed.
+Bronze Hatchet: A tool to destroy trees, but it is made of tree. So odd. Adds 10 to your effective foraging level when determining speed.
 Iron Hatchet: The forests will face treestruction. Adds 20 to your effective foraging level when determining speed.
 Mithril Hatchet: The enemy of all trees. Adds 30 to your effective foraging level when determining speed.
 Adamantite Hatchet: Trees will fear your tree-felling prowess. Adds 40 to your effective foraging level when determining speed.
@@ -264,8 +264,8 @@ Adamantite Shield: A strong adamantite shield. It's comfortable as well!
 Runite Shield: A professionally made runite shield. Hardly ever dents or bends.
 Stygian Shield: A mastercrafted stygian shield. The demonic powers seems to repair the shield.
 Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
-Bronze Breastplate: A basic bronze breastplate. Wearing it makes your movement feel sluggish.
-Bronze Chainmail: Simple chainmail made from bronze. Hardly protective, but it's a start.
+Bronze Breastplate: A basic bronze breastplate. It's highly protective, but the weight weakens your attacks.
+Bronze Chainmail: Simple chainmail made from bronze. It does not interfere your offensive capabilities, but offers little protection.
 Iron Breastplate: A better breastplate made from iron. Provides more worthwhile defense considering its weight.
 Iron Chainmail: An okay piece of iron chainmail. It offers better defense without impeding your movement.
 Obsidian Breastplate: It's surprisingly sturdy for something made of glass.
