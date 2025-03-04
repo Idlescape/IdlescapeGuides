@@ -1,5 +1,5 @@
 `Gold: Gold is used to purchase items from the market and shops. You can get more gold by selling resources or fighting monsters.
-Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood and coal.
+Heat: Heat is used to smelt bars and cook food. You can get heat by burning various items such as logs, branches, driftwood, coal, and ability books.
 Air Essence: Air Essence can be gathered by waiting patiently.
 Earth Essence: Earth Essence can be gathered while mining.
 Fire Essence: Fire Essence can be gathered while smithing or cooking.
@@ -136,19 +136,18 @@ Uncommon Gear Scraps: Scraps from uncommon gear, ready to be repurposed.
 Rare Gear Scraps: Scraps from rare gear, ready to be repurposed.
 Epic Gear Scraps: Scraps from epic gear, ready to be repurposed.
 Legendary Gear Scraps: Scraps from legendary gear, ready to be repurposed.
-Bronze Pickaxe: Adds 10 to your effective mining level when determining speed.
-Iron Pickaxe: Adds 20 to your mining level when determining speed.
-Mithril Pickaxe: Adds 30 to your mining level when determining speed.
-Adamantite Pickaxe: Adds 40 to your mining level when determining speed.
-Runite Pickaxe: Adds 50 to your mining level when determining speed.
-Stygian Pickaxe: Adds 60 to your mining level when determining speed.
-Dwarven Rocksmasher: A legendary mining tool using lost dwarven technology.
-Bronze Hatchet: Adds 10 to your effective foraging level when determining speed.
-Iron Hatchet: Adds 20 to your foraging level when determining speed.
-Mithril Hatchet: Adds 30 to your foraging level when determining speed.
-Adamantite Hatchet: Adds 40 to your foraging level when determining speed.
-Runite Hatchet: Adds 50 to your foraging level when determining speed.
-Stygian Hatchet: Adds 60 to your foraging level when determining speed.
+Bronze Pickaxe: Slightly better than punching rocks until they break! Adds 10 to your effective mining level when determining speed.
+Iron Pickaxe: Adds 20 to your effective mining level when determining speed.
+Mithril Pickaxe: Adds 30 to your effective mining level when determining speed.
+Adamantite Pickaxe: Adds 40 to your effective mining level when determining speed.
+Runite Pickaxe: Adds 50 to your effective mining level when determining speed.
+Stygian Pickaxe: Lighter than it looks, but almost unbreakable. Adds 60 to your effective mining level when determining speed.
+Bronze Hatchet: A tool to destroy trees, but it is made of tree. So odd. Adds 10 to your effective foraging level when determining speed.
+Iron Hatchet: The forests will face treestruction. Adds 20 to your effective foraging level when determining speed.
+Mithril Hatchet: The enemy of all trees. Adds 30 to your effective foraging level when determining speed.
+Adamantite Hatchet: Trees will fear your tree-felling prowess. Adds 40 to your effective foraging level when determining speed.
+Runite Hatchet: If trees could wear boots, they would be quivering in their tree boots. Adds 50 to your effective foraging level when determining speed.
+Stygian Hatchet: Holding it makes you have treevil thoughts. Adds 60 to your effective foraging level when determining speed.
 The Grovekeeper: A legendary foraging tool. It appears to actually be alive.
 Sapphire Ring: A ring capable of holding weak enchantments. Old stories suggest that the bluer the Sapphire the more attuned to the Sea it is.
 Sapphire Necklace: A necklace capable of holding weak enchantments. Despite its lower value and magical potential, pure Sapphires are known to glow in response to the presence of Runecrafting energies.
@@ -185,7 +184,7 @@ Runite Tongs: Adds 50 to your smithing level.
 Stygian Tongs: Adds 60 to your smithing level.
 Lesser Magic Tome: A tome of magic that grants you minor benefits for augmentation.
 Major Magic Tome: A tome of magic that grants you some benefits for augmentation.
-Greater Magic Tome: A tome of magic that grants you benefits for augmentation.
+Greater Magic Tome: A tome of magic that grants you greater benefits for augmentation.
 Elder Magic Tome: A tome of magic that grants you strong benefits for augmentation.
 Ancient Magic Tome: An ancient tome of magic that grants you the strongest benefits for augmentation.
 Apprentice Runic Chisel: A basic chisel designed to help you in engraving runes onto slate or drawing magic out of fibers.
@@ -235,7 +234,7 @@ Adamantite Scimitar: A simple adamantite sword. The edge is very sharp.
 Adamantite Battleaxe: A rather heavy adamantite axe. It's easier to just wack enemies with this.
 Adamantite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
 Adamantite Greatsword: A big heavy adamantite sword. At least you can slash someone with this easily.
-Runite Scimitar: A decent blade, you feel lightning form whenever you augment this.. before it suddenly vanishes. Strange.
+Runite Scimitar: A decent blade, you feel lightning form whenever you augment this... before it suddenly vanishes. Strange.
 Runite Battleaxe: A rather heavy runite axe. It's easier to just wack enemies with this.
 Runite Daggers: Smaller more pointy swords, easy to handle but not very strong. Good for stabbing.
 Runite Greatsword: A big heavy runite sword. At least you can slash someone with this easily.
@@ -243,20 +242,20 @@ Stygian Scimitar: A sword forged with demonic metal, it's razor sharp.
 Stygian Battleaxe: A rather heavy stygian axe. Will you stop using the blunt end already?
 Stygian Daggers: Pointy daggers infused with demonic energy. Still great at stabbing.
 Stygian Greatsword: A big heavy stygian sword. You could cleave enemies in two with this.
-Bronze Helm: 
-Iron Helm: 
+Bronze Helm: A simple bronze helm. Not the best, but better than nothing.
+Iron Helm: A standard issue iron helm ofted used by the militia.
 Obsidian Helm: You feel hidden fiery potential in this helm...
-Mithril Helm: 
-Adamantite Helm: 
-Runite Helm: 
-Stygian Helm: 
-Bronze Full Helm: 
-Iron Full Helm: 
+Mithril Helm: An average mithril helm, perfect for keeping your head intact.
+Adamantite Helm: A good adamantite helm, perfect for keeping your skull un-bashed.
+Runite Helm: A high quality runite helm, perfect for keeping your brain smooth and whole.
+Stygian Helm: An exceptional helm forged from demonic metal. Few foes could hurt you with this on.
+Bronze Full Helm: A basic bronze full helm. It has better defensive capabilities, but is a bit hard to see through.
+Iron Full Helm: An acceptable iron full helm. Stronger, but still hard to see through.
 Obsidian Full Helm: You feel hidden powerful potential in this full helm...
-Mithril Full Helm: 
-Adamantite Full Helm: 
-Runite Full Helm: 
-Stygian Full Helm: 
+Mithril Full Helm: A full helm made of mithril. Very strong, but still hard to see through.
+Adamantite Full Helm: A quality full helm made of adamantite. Very strong, but still hard to see through.
+Runite Full Helm: An impressive full helm made of runite. Very strong, but still hard to see through.
+Stygian Full Helm: An exceptional full helm made from demonic metal. You do know you can lift the visor, right?
 Bronze Shield: A crude bronze shield. Better then nothing.
 Iron Shield: A simple iron shield. The standard for most guards.
 Obsidian Shield: You feel hidden potential in this shield...
@@ -265,41 +264,41 @@ Adamantite Shield: A strong adamantite shield. It's comfortable as well!
 Runite Shield: A professionally made runite shield. Hardly ever dents or bends.
 Stygian Shield: A mastercrafted stygian shield. The demonic powers seems to repair the shield.
 Castle Door: A portion of a castle's door that can be used as a shield. Incredibly heavy, but very protective!
-Bronze Breastplate: 
-Bronze Chainmail: 
-Iron Breastplate: 
-Iron Chainmail: 
-Obsidian Breastplate: 
+Bronze Breastplate: A basic bronze breastplate. It's highly protective, but the weight weakens your attacks.
+Bronze Chainmail: Simple chainmail made from bronze. It does not interfere your offensive capabilities, but offers little protection.
+Iron Breastplate: A better breastplate made from iron. Provides more worthwhile defense considering its weight.
+Iron Chainmail: An okay piece of iron chainmail. It offers better defense without impeding your movement.
+Obsidian Breastplate: It's surprisingly sturdy for something made of glass.
 Obsidian Chainmail: You feel hidden potential in the chainmail...
-Mithril Breastplate: 
-Mithril Chainmail: 
-Adamantite Breastplate: 
-Adamantite Chainmail: 
-Runite Breastplate: 
-Runite Chainmail: 
-Stygian Breastplate: 
-Stygian Chainmail: 
-Bronze Plate Leggings: 
-Iron Plate Leggings: 
+Mithril Breastplate: A decent mithril breastplate. It's hard to move in but very protective.
+Mithril Chainmail: A decent chainmail piece made from mithril. Relatively strong without interfering with your movement.
+Adamantite Breastplate: A good adamantite breastplate. It's hard to move in but very protective.
+Adamantite Chainmail: A good chainmail piece made from adamantite. Relatively strong without infering with your movement.
+Runite Breastplate: A high quality mithril breastplate. It is still hard to move in, but its defensive abilities make up for it.
+Runite Chainmail: A high quality chainmail piece made from runite. It's almost impossible to scratch despite its light weight.
+Stygian Breastplate: The demonic power in the breastplate gives it unmatched defensive abilities. Still very heavy.
+Stygian Chainmail: Forged from demonic metal, this chainmail piece provides exceptional defence without slowing you down.
+Bronze Plate Leggings: Not the greatest defense, but provides basic protection from animals.
+Iron Plate Leggings: Incredibly uncomfortable. Now you know why the militia opts for fur trousers instead.
 Obsidian Plate Leggings: You feel hidden potential in these legs... The armor, not your legs.
-Mithril Plate Leggings: 
-Adamantite Plate Leggings: 
-Runite Plate Leggings: 
-Stygian Plate Leggings: 
+Mithril Plate Leggings: These mithril plate leggings are heavy and uncomfortable, but they provide solid defense.
+Adamantite Plate Leggings: These adamantite plate leggings are heavy and uncomfortable, but they provide good defense.
+Runite Plate Leggings: These runite plate leggings aren't the most comfortable, but they can protect you from most threats.
+Stygian Plate Leggings: Fashioned out of demonic metal, these leggings don't hurt your legs. Actually, you can't feel your legs at all while wearing these. They must be working well.
 Bronze Boots: These boots cannot be traded.
 Iron Boots: These boots cannot be traded.
 Obsidian Boots: You feel hidden potential in these boots...
 Mithril Boots: These boots cannot be traded.
 Adamantite Boots: These boots cannot be traded.
 Runite Boots: These boots cannot be traded.
-Stygian Boots: These boots cannot be traded.
+Stygian Boots: Wearing these, stubbing your toe is naught but a distant memory. Cannot be traded.
 Bronze Gloves: Gloves cannot be traded.
 Iron Gloves: Gloves cannot be traded.
 Obsidian Gloves: Gloves cannot be traded.
 Mithril Gloves: Gloves cannot be traded.
 Adamantite Gloves: Gloves cannot be traded.
 Runite Gloves: Gloves cannot be traded.
-Stygian Gloves: Gloves cannot be traded.
+Stygian Gloves: These gloves are exceptionally welded from demonic metal. Just wearing them makes you feel stronger. Cannot be traded.
 Hide Body: A coarsely stitched garment worn only by those with nothing else to wear.
 Fur Body: Despite the itchiness, it’s easy to move in and provides some protection to vital spots.
 Thick Hide Body: Not the most comfortable, but better than standard-issue militia gear. With its minor magic resistance properties, you might be able to handle foes you couldn’t before while wearing this.
@@ -321,27 +320,27 @@ Leather Trousers: An quality piece created from dozens of tanned leather section
 Reinforced Leather Trousers: The already formidable design of leather armor, greatly improved from riveting to strengthen the seams and thick fur attached for stronger padding. It would be near-impossible to create a better trouser piece without using exotic materials.
 Chitin Trousers: An expertly crafted armor-piece made from the exoskeletons of small creatures, providing protection rivaling metal armor while still being light to wear.
 Scale Trousers: Representing the pinnacle of human armor crafting abilities, these trousers have exceptional defensive capabilities without hindering movement at all.
-Robe Top: 
-Practitioner Robe Top: 
-Academy Robe Top: 
-Imbued Robe Top: 
-Major Imbued Robe Top: 
-Greater Imbued Robe Top: 
-Elder Robe Top: 
-Robe Hood: 
-Practitioner Hood: 
-Academy Hood: 
-Imbued Hood: 
-Major Imbued Hood: 
-Greater Imbued Hood: 
-Elder Hood: 
-Robe Bottom: 
-Practitioner Robe Bottom: 
-Academy Robe Bottom: 
-Imbued Robe Bottom: 
-Major Imbued Robe Bottom: 
-Greater Imbued Robe Bottom: 
-Elder Robe Bottom: 
+Robe Top: Every wizard wears a robe top. This probably counts.
+Practitioner Robe Top: A simple cloth robe top. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Robe Top: A replica of the robe top worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Robe Top: An adequately woven robe top commonly worn by hunters and adventurers. 
+Major Imbued Robe Top:
+Greater Imbued Robe Top:
+Elder Robe Top:
+Robe Hood: Every wizard wears a robe hood. This probably counts.
+Practitioner Hood: A simple cloth hood. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Hood: A replica of the hood worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Hood: An adequately woven hood commonly worn by hunters and adventurers. 
+Major Imbued Hood:
+Greater Imbued Hood:
+Elder Hood:
+Robe Bottom: Every wizard wears a robe bottom. This probably counts. 
+Practitioner Robe Bottom: A simple cloth robe bottom. It provides almost no protection against physical attacks, but seems enhance your magic power and defense.
+Academy Robe Bottom: A replica of the robe bottom worn by students at the academy prior to its fall. It noticably enhances your magical capabilities. 
+Imbued Robe Bottom: An adequately woven robe bottom commonly worn by hunters and adventurers. 
+Major Imbued Robe Bottom:
+Greater Imbued Robe Bottom:
+Elder Robe Bottom:
 Flimsy Recurve Bow: A simple bow, suitable for hunting weak prey.
 Sturdy Recurve Bow: Now with 20% less splinters!
 Oak Recurve Bow: A quality bow capable of handling most foes in the human territory. If only it was easier to wash the sap off your hands.
@@ -370,27 +369,27 @@ Refined Throwing Knife: Excessively thin, this blade can slice enemies without t
 Throwing Axe: Finally, a reason to use the sharp end.
 Throwing Javelin: There are records of cave-idlers long ago who stuck sharp stones to sticks to use as weapons. Maybe there’s more merit to that than expected.
 Throwing Spinner: A thrown weapon surpassing all others. Don't play with it. You will cut yourself.
-Driftwood Wand: 
-Sturdy Wand: 
-Academy Wand: 
-Imbued Wand: 
-Major Imbued Wand: 
-Greater Imbued Wand: 
-Elder Wand: 
-Driftwood Staff: 
-Sturdy Staff: 
-Academy Staff: 
-Imbued Staff: 
-Major Imbued Staff: 
-Greater Imbued Staff: 
-Elder Staff: 
-Arcane Notes: 
-Simple Arcane Focus: 
-Academy Focus: 
-Imbued Focus: 
-Major Imbued Focus: 
-Greater Imbued Focus: 
-Elder Focus: 
+Driftwood Wand: This could technically be considered a wand if you look at it from the right angle.
+Sturdy Wand:
+Academy Wand:
+Imbued Wand:
+Major Imbued Wand:
+Greater Imbued Wand:
+Elder Wand:
+Driftwood Staff:
+Sturdy Staff:
+Academy Staff:
+Imbued Staff:
+Major Imbued Staff:
+Greater Imbued Staff:
+Elder Staff:
+Arcane Notes: A reference book on how to properly cast beginner's magic. Not inherently magical unless you consider your nearly illegible handwriting to be on par with some ancient text.
+Simple Arcane Focus:
+Academy Focus:
+Imbued Focus:
+Major Imbued Focus:
+Greater Imbued Focus:
+Elder Focus:
 Blademaster's Shroud: Ragged and torn, the cloth itself appears to remember every battle.
 Blademaster's Memory: The distilled knowledge of an ancient warrior. Perhaps you can infuse this into a piece of equipment?
 Royal Banner: A banner representing the will and might of humanity, if you believe the propaganda. Heavy and unwieldy to carry, reducing your defenses slightly, but sure to inspire your comrades.
@@ -398,8 +397,8 @@ Torn Banner: A torn banner still humming with magical power. You should restore 
 Necromancer's Cowl: A magical cowl to hide your face. Somewhat helps with keeping out the stench of the dead.
 Necromancer's Robe Top: The robes of a necromancer. Smells like death.
 Necromancer's Robe Bottoms: The robe bottoms of a necromancer.
-Book of Death: 
-Necromancer's Wand: 
+Book of Death: It has a powerful toxic aura. Just touching it feels like breaking a taboo, but great power is often found in such things.
+Necromancer's Wand: A wand capable of controlling death itself. Do you dare to take such power into your own hands?
 Necromancer's Remains: The rotten belongings of a long dead necromancer. Can be restored through crafting.
 Royal Elven Remnants: The remnants of a more civilized past. Can be restored through crafting.
 Gargoyle Shards: A burning shard taken from a failed experiment. Can be restored through crafting.
@@ -450,9 +449,9 @@ Gargoyle Chainmail: You feel as if you could draw infernal power from this...
 Gargoyle Legs: You feel as if you could draw infernal power from this...
 Gargoyle Boots: These keep your feet very warm.
 Gargoyle Helm: You feel as if you could draw infernal power from this...
-Gargoyle Shield: 
-Gargoyle Falchion: 
-Gargoyle Daggers: 
+Gargoyle Shield: When you research it, you feel a wave of heat. Strange.
+Gargoyle Falchion: When you research it, you feel a wave of heat. Strange.
+Gargoyle Daggers: When you research it, you feel a wave of heat. Strange.
 Gargoyle Glaive: You feel like there is more potential to be unlocked here...
 Infernal Lance: A legendary weapon of great prestige and power.
 Black Knight Great Helm: A helm of unknown make that grants superhuman strength to its wearer!
@@ -497,7 +496,6 @@ Elven King's Longbow: A weapon fit for royalty. Its craftsmanship is unmatched a
 Ancient Trident: A weapon whose origins are lost to time; don't try using it as a fishing harpoon!
 Fishtail: A large scimitar taken from a fish! You could probably use it as a paddle!
 Razorfin: A large scimitar taken from a fish! Seems particularly magical, but casting magic with a sword this wide will not be the most accurate.
-Razorfin: A large scimitar taken from a fish! Seems particularly magical, but casting magic with a sword this wide will not be the most accurate.
 Elven Quiver: A quiver blessed by Elven magic! It appears to retrieve your expended ammunition automatically!
 Magic Quiver: A slightly magical quiver that seems to retrieve some of your expended ammunition automatically!
 Defender's Band: A ring fashioned from the cornerstone of a great castle.
@@ -505,7 +503,6 @@ Defender's Pendant: A pendant fashioned from the cornerstone of a great castle.
 Scaled Circuit: Some long forgotten beast's scales wreathe an ancient gemstone.
 Devourer's Band: What was, will be. What will be, was.
 Slayer's Pendant: A pendant depicting a sword through a skull. Small enough to fit in the palm of your hand!
-Alacrity Pendant: A pendant with a lightning bolt engraved on it. Your speed is increased massively while wielding it, but your reflexes are still just as slow, making accuracy a problem.
 Alacrity Pendant: A pendant with a lightning bolt engraved on it. Your speed is increased massively while wielding it, but your reflexes are still just as slow, making accuracy a problem.
 Ring of Taxes: Allows you to collect taxes from defeated enemies in combat at the expense of your experience. Not even the dead can escape taxes.
 Wrath and War: The demonic embodiment of Wrath and War. 'Warth'? Quite mad.
@@ -623,10 +620,10 @@ Crown of Spikes: A relic stolen from a collector's hoard. It bears a powerful en
 Dark Ring: A ring stolen from the Dark Vault; it enhances your combat prowess at the cost of your survivability. It appears to be a crude reconstruction of legendary rings of old.
 Pendant of Virulence: This pendant is a magical channel for poison, death, and altogether unpleasant things.
 Gargoyle Battleaxe: A rather heavy gargoyle axe. Will you stop using the blunt end already?
-Infernal Battleaxe: 
-Infernal Daggers: 
-Infernal Falchion: 
-Infernal Shield: 
+Infernal Battleaxe: It's a matter of pride at this point. You will use the blunt end, effectiveness be damned.
+Infernal Daggers: Smaller more pointy swords. Easy to handle and very strong. Truly, the pinnacle of stabbing.
+Infernal Falchion: A falchion that burns with every cut, but is cool to the touch. How does it produce those flames?
+Infernal Shield: It's nearly weightless. No, just holding it makes you feel a bit stronger. This shield defies common sense.
 Militia Quiver: A basic quiver to help with your ammo management.
 Rune Bag: A basic bag for managing your runes better.
 Goblin Club: A club typically wielded by goblins. Its crude nature lets it be more easily wielded by amateurs.
@@ -682,10 +679,10 @@ Diced Fruit: Fruit salad. Cook these for more nutrition!
 Chopped Vegetables: You're not sure if that tomato belongs here. Cook these for a hearty meal.
 Minced Meat: Cook them you monster!
 Butchered Monster: Really!? Is it better cooked?
-Sour Essence: 
-Bitter Essence: 
-Sweet Essence: 
-Spicy Essence: 
+Sour Essence: Essence extracted from sour foods. Used in alchemy.
+Bitter Essence: Essence extracted from bitter foods. Used in alchemy.
+Sweet Essence: Essence extracted from sweet foods. Used in alchemy.
+Spicy Essence: Essence extracted from spicy foods. Used in alchemy.
 Seed Oil: Made by pressing seeds. Cooking Ingredient.
 Questionable Food: You're not quite sure what this is supposed to be. Are you really going to eat it?
 Monster Surprise: ... Probably edible!
@@ -1034,7 +1031,7 @@ Fisherman's Smock: A smock for fishing! You can already feel it making your tool
 Fisherman's Bucket Hat: A hat for fishing! You can already feel it making your reflexes sharper.
 Fisherman's Waders: Waders for fishing! You can already feel it making your ability to bait fish stronger.
 Miner's Smock: A smock to rub the coal dust on after a long day in the mines.
-Miner's Lantern Helmet: OSHA approved! Let's you see better! Wow!
+Miner's Lantern Helmet: OSHA approved! Lets you see better! Wow!
 Miner's Trousers: A pair of trousers that you swear definitely makes you better at mining despite being a simple pair of pants. Are they magical? Probably not. Probably.
 Lumberjack's Vest: Makes you want to shout timber.
 Lumberjack's Hat: If a tree falls on your head this will not help, but it can keep you warm!
